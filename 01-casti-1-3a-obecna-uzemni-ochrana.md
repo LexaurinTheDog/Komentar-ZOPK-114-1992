@@ -42,9 +42,29 @@ Druhá věta § 1 — povinnost zohlednit hospodářské, sociální a kulturní
 >
 > *- a) ochranou a vytvářením územního systému ekologické stability krajiny,*
 >
-> *- b) obecnou ochranou druhů planě rostoucích rostlin a volně žijících živočichů a zvláštní ochranou těch druhů, které jsou vzácné či ohrožené (...)*,
+> *- b) obecnou ochranou druhů planě rostoucích rostlin a volně žijících živočichů a zvláštní ochranou těch druhů, které jsou vzácné či ohrožené, pozitivním ovlivňováním jejich vývoje v přírodě a zabezpečováním předpokladů pro jejich zachování, popřípadě i za použití zvláštních pěstebních a odchovných zařízení,*
 >
-> *(...) až m) stanovením podmínek používání cizích a místně se nevyskytujících druhů v akvakultuře (...).*
+> *- c) ochranou vybraných nalezišť nerostů, paleontologických nálezů a geomorfologických a geologických jevů i zvláštní ochranou vybraných nerostů,*
+>
+> *- d) ochranou dřevin rostoucích mimo les,*
+>
+> *- e) vytvářením sítě zvláště chráněných území a péčí o ně,*
+>
+> *- f) účastí na tvorbě a schvalování lesních hospodářských plánů s cílem zajistit ekologicky vhodné lesní hospodaření,*
+>
+> *- g) spoluúčastí v procesu územního plánování a stavebního řízení s cílem prosazovat vytváření ekologicky vyvážené a esteticky hodnotné krajiny,*
+>
+> *- h) účastí na ochraně půdního fondu, zejména při pozemkových úpravách,*
+>
+> *- i) ovlivňováním vodního hospodaření v krajině s cílem udržovat přirozené podmínky pro život vodních a mokřadních ekosystémů při zachování přirozeného charakteru a přírodě blízkého vzhledu vodních toků a ploch a mokřadů,*
+>
+> *- j) obnovou a vytvářením nových přírodně hodnotných ekosystémů, například při rekultivacích a jiných velkých změnách ve struktuře a využívání krajiny,*
+>
+> *- k) ochranou krajiny pro ekologicky vhodné formy hospodářského využívání, turistiky a rekreace,*
+>
+> *- l) prevencí a regulací zavlékání nebo vysazování a šíření invazních nepůvodních druhů rostlin a živočichů (dále jen „invazní nepůvodní druh“) do krajiny v návaznosti na nařízení Evropského parlamentu a Rady (EU) č. 1143/2014 ze dne 22. října 2014 o prevenci a regulaci zavlékání či vysazování a šíření invazních nepůvodních druhů (dále jen „nařízení Evropského parlamentu a Rady (EU) č. 1143/2014“),*
+>
+> *- m) stanovením podmínek používání cizích a místně se nevyskytujících druhů v akvakultuře v návaznosti na nařízení Rady (ES) č. 708/2007 ze dne 11. června 2007 o používání cizích a místně se nevyskytujících druhů v akvakultuře, v platném znění, (dále jen „nařízení Rady (ES) č. 708/2007“).*
 
 **Výklad:**
 
@@ -76,25 +96,63 @@ Písmena l) a m), doplněná novelami transpozičními k EU právu (zejména č.
 
 ### § 3 — Vymezení pojmů
 
-> **§ 3 odst. 1** *(podstatné definice)*
+> **§ 3**
 >
-> *- a) územní systém ekologické stability krajiny (...) je vzájemně propojený soubor přirozených i pozměněných, avšak přírodě blízkých ekosystémů, které udržují přírodní rovnováhu. Rozlišuje se místní, regionální a nadregionální systém ekologické stability,*
+> *(1) Pro účely tohoto zákona se vymezují některé základní pojmy takto*
 >
-> *- b) významný krajinný prvek jako ekologicky, geomorfologicky nebo esteticky hodnotná část krajiny utváří její typický vzhled nebo přispívá k udržení její stability. Významnými krajinnými prvky jsou lesy, rašeliniště, vodní toky, rybníky, jezera, údolní nivy. Dále jsou jimi jiné části krajiny, které zaregistruje podle § 6 orgán ochrany přírody jako významný krajinný prvek (...),*
+> *- a) územní systém ekologické stability krajiny (dále jen „systém ekologické stability“) je vzájemně propojený soubor přirozených i pozměněných, avšak přírodě blízkých ekosystémů, které udržují přírodní rovnováhu. Rozlišuje se místní, regionální a nadregionální systém ekologické stability,*
 >
-> *- c) planě rostoucí rostlina (...),*
+> *- b) významný krajinný prvek jako ekologicky, geomorfologicky nebo esteticky hodnotná část krajiny utváří její typický vzhled nebo přispívá k udržení její stability. Významnými krajinnými prvky jsou lesy, rašeliniště, vodní toky, rybníky, jezera, údolní nivy. Dále jsou jimi jiné části krajiny, které zaregistruje podle § 6 orgán ochrany přírody jako významný krajinný prvek, zejména mokřady, stepní trávníky, remízy, meze, trvalé travní plochy, naleziště nerostů a zkamenělin, umělé i přirozené skalní útvary, výchozy a odkryvy a území, na nichž probíhá přírodě blízká obnova těžbou narušeného území podle plánu nebo dokumentace uvedených v § 4 odst. 6. Mohou jimi být i cenné plochy porostů sídelních útvarů včetně historických zahrad a parků,*
 >
-> *- d) volně žijící živočich (...),*
+> *- c) planě rostoucí rostlina (dále jen „rostlina“) je jedinec nebo kolonie rostliných druhů včetně hub, jejichž populace se udržují v přírodě samovolně. Rostlinou jsou všechny její podzemní i nadzemní části, semena nebo jiná vývojová stádia a jejich části,*
 >
-> *(...)*
+> *- d) volně žijící živočich (dále jen „živočich“) je jedinec živočišného druhu, jehož populace se udržují v přírodě samovolně, a to včetně jedince odchovaného v lidské péči vypuštěného v souladu s právními předpisy do přírody. Živočichem se rozumí všechna vývojová stadia daného jedince. Jedinec zdivočelé populace domestikovaného druhu se za volně žijícího živočicha nepovažuje,*
 >
-> *- q) evropsky významná lokalita je lokalita vyžadující zvláštní územní ochranu a splňující podmínky podle § 45a odst. 1, která 1. byla zařazena do národního seznamu (...), 2. splňuje podmínky pro zařazení do národního seznamu, ale nebyla tam zařazena (...) (sporná lokalita), nebo 3. byla zařazena do evropského seznamu,*
+> *- e) živočich odchovaný v lidské péči je jedinec živočišného druhu narozený a odchovaný v kontrolovaném prostředí1) jako potomek rodičů získaných v souladu s tímto zákonem a právními předpisy v oblasti obchodování s ohroženými druhy1a),*
 >
-> *- r) Natura 2000 je celistvá evropská soustava území se stanoveným stupněm ochrany, která umožňuje zachovat typy evropských stanovišť a stanoviště evropsky významných druhů (...). Na území České republiky je Natura 2000 tvořena vymezenými ptačími oblastmi a vyhlášenými evropsky významnými lokalitami,*
+> *- f) záchranná stanice je zařízení, které na konkrétně vymezeném území působnosti zajišťuje komplexní péči o všechny živočichy dočasně neschopné přežít ve volné přírodě s cílem navrátit je do přírody, živočichům trvale neschopným přežít ve volné přírodě poskytuje, je-li to vhodné a účelné vzhledem k jejich zdravotnímu stavu, odpovídající dlouhodobou péči, poskytuje informace o příčinách ohrožení a vhodných způsobech ochrany živočichů a může spolupracovat při provádění opatření k předcházení zraňování nebo úhynu živočichů,*
 >
-> *- s) stav přírodního stanoviště z hlediska ochrany se považuje za „příznivý" (...),*
+> *- g) živočišný nebo rostlinný druh je rovněž systematická jednotka nižšího řádu,*
 >
-> *- t) stav druhu z hlediska ochrany je považován za „příznivý" (...).*
+> *- h) zvláště chráněná část přírody je velmi významná nebo jedinečná část živé či neživé přírody; může jí být část krajiny, geologický útvar, strom, živočich, rostlina a nerost, vyhlášený ke zvláštní ochraně státním orgánem podle části třetí nebo páté tohoto zákona,*
+>
+> *- i) dřevina rostoucí mimo les (dále jen „dřevina“) je strom či keř rostoucí jednotlivě i ve skupinách ve volné krajině i v sídelních útvarech na pozemcích mimo lesní pozemky,1b)*
+>
+> *- j) paleontologický nález je věc, která je významným dokladem nebo pozůstatkem života v geologické minulosti a jeho vývoje do současnosti,*
+>
+> *- k) biotop je soubor veškerých neživých a živých činitelů, které ve vzájemném působení vytvářejí životní prostředí určitého jedince, druhu, populace, společenstva. Biotop je takové místní prostředí, které splňuje nároky charakteristické pro druhy rostlin a živočichů,*
+>
+> *- l) ekosystém je funkční soustava živých a neživých složek životního prostředí, jež jsou navzájem spojeny výměnou látek, tokem energie a předáváním informací a které se vzájemně ovlivňují a vyvíjejí v určitém prostoru a čase,*
+>
+> *- m) krajina je část zemského povrchu s charakteristickým reliéfem, tvořená souborem funkčně propojených ekosystémů a civilizačními prvky,*
+>
+> *- n) přírodní stanoviště je přírodní nebo polopřírodní suchozemská nebo vodní plocha, která je vymezena na základě geografických charakteristik a charakteristik živé a neživé přírody,*
+>
+> *- o) přírodní stanoviště v zájmu Evropských společenství (dále jen „evropská stanoviště“) jsou přírodní stanoviště na evropském území členských států Evropských společenství těch typů, které jsou ohroženy vymizením ve svém přirozeném areálu rozšíření nebo mají malý přirozený areál rozšíření v důsledku svého ústupu či v důsledku svých přirozených vlastností nebo představují výjimečné příklady typických charakteristik jedné nebo více z biogeografických oblastí, a která jsou stanovena právními předpisy Evropských společenství;1d) jako prioritní se označují ty typy evropských stanovišť, které jsou na evropském území členských států Evropských společenství ohrožené vymizením, za jejichž zachování mají Evropská společenství zvláštní odpovědnost, a které jsou stanovené právními předpisy Evropských společenství,1g)*
+>
+> *- p) druhy v zájmu Evropských společenství (dále jen „evropsky významné druhy“) jsou druhy na evropském území členských států Evropských společenství, které jsou ohrožené, zranitelné, vzácné nebo endemické, a které jsou stanovené právními předpisy Evropských společenství;1e) jako prioritní se označují evropsky významné druhy, vyžadující zvláštní územní ochranu, za jejichž zachování mají Evropská společenství zvláštní odpovědnost, a které jsou stanovené právními předpisy Evropských společenství,1f)*
+>
+> *- q) evropsky významná lokalita je lokalita vyžadující zvláštní územní ochranu1g) a splňující podmínky podle § 45a odst. 1, která*
+>
+> *- 1. byla zařazena do seznamu lokalit nacházejících se na území České republiky vybraných na základě kritérií stanovených právními předpisy Evropských společenství1g) a vyžadujících územní ochranu (dále jen „národní seznam“), a to až do doby jejího zařazení do seznamu lokalit významných pro Evropská společenství (dále jen „evropský seznam“),*
+>
+> *- 2. splňuje podmínky pro zařazení do národního seznamu, ale nebyla tam zařazena, a vyskytuje se na ní prioritní typ přírodního stanoviště nebo prioritní druh, a o jejímž zařazení do evropského seznamu se s Evropskou komisí (dále jen „Komise“) jedná, a to až do doby, kdy se o zařazení nebo nezařazení lokality dohodne Česká republika s Komisí nebo do rozhodnutí Rady Evropské unie (dále jen „sporná lokalita“), nebo*
+>
+> *- 3. byla zařazena do evropského seznamu,*
+>
+> *- r) Natura 20001g) je celistvá evropská soustava území se stanoveným stupněm ochrany, která umožňuje zachovat typy evropských stanovišť1d) a stanoviště evropsky významných druhů1f) v jejich přirozeném areálu rozšíření ve stavu příznivém z hlediska ochrany nebo popřípadě umožní tento stav obnovit. Na území České republiky je Natura 2000 tvořena vymezenými ptačími oblastmi a vyhlášenými evropsky významnými lokalitami,*
+>
+> *- s) stav přírodního stanoviště z hlediska ochrany se považuje za „příznivý“, pokud jeho přirozený areál rozšíření a plochy, které v rámci tohoto areálu pokrývá, jsou stabilní nebo se zvětšují a specifická struktura a funkce, které jsou nezbytné pro jeho dlouhodobé zachování, existují a budou pravděpodobně v dohledné době i nadále existovat, a stav jeho typických druhů z hlediska ochrany je příznivý,*
+>
+> *- t) stav druhu z hlediska ochrany je považován za „příznivý“, jestliže údaje o populační dynamice příslušného druhu naznačují, že se dlouhodobě udržuje jako životaschopný prvek svého přírodního stanoviště, a přirozený areál rozšíření druhu není a pravděpodobně nebude v dohledné budoucnosti omezen, a existují a pravděpodobně budou v dohledné době i nadále existovat dostatečně velká stanoviště k dlouhodobému zachování jeho populací,*
+>
+> *- u) celistvostí evropsky významné lokality anebo ptačí oblasti se rozumí soudržnost ekologických struktur a funkcí evropsky významné lokality anebo ptačí oblasti posuzovaná ve vztahu k předmětům jejich ochrany,*
+>
+> *- v) chov je jakékoliv držení živočicha v zajetí,*
+>
+> *- w) přírodě blízkou obnovou těžbou narušeného území se rozumí obnova přírodně hodnotných ekosystémů na území narušeném těžbou ponecháním území samovolnému vývoji, popřípadě pomocí citlivých zásahů usměrňujících tento vývoj příznivě pro zvláště chráněné druhy organismů.*
+>
+> *(2) Typy evropských stanovišť a evropsky významné druhy, které se vyskytují na území České republiky, stanoví Ministerstvo životního prostředí prováděcím právním předpisem. U evropsky významných druhů označí ty, které vyžadují podle právních předpisů Evropských společenství zvláštní územní ochranu.1f)*
 
 **Výklad:**
 
@@ -167,11 +225,17 @@ FCS je **referenční hodnota** pro celý systém Natury 2000: cílem ochrany je
 
 > **§ 4**
 >
-> *(1) Vymezení systému ekologické stability zajišťujícího uchování a reprodukci přírodního bohatství, příznivé působení na okolní méně stabilní části krajiny a vytvoření základů pro mnohostranné využívání krajiny stanoví a jeho hodnocení provádějí orgány územního plánování a ochrany přírody ve spolupráci s orgány vodohospodářskými, ochrany zemědělského půdního fondu a státní správy lesního hospodářství. Ochrana systému ekologické stability je povinností všech vlastníků a uživatelů pozemků tvořících jeho základ; jeho vytváření je veřejným zájmem, na kterém se podílejí vlastníci pozemků, obce i stát. (...)*
+> *(1) Vymezení systému ekologické stability zajišťujícího uchování a reprodukci přírodního bohatství, příznivé působení na okolní méně stabilní části krajiny a vytvoření základů pro mnohostranné využívání krajiny stanoví a jeho hodnocení provádějí orgány územního plánování a ochrany přírody ve spolupráci s orgány vodohospodářskými, ochrany zemědělského půdního fondu a státní správy lesního hospodářství. Ochrana systému ekologické stability je povinností všech vlastníků a uživatelů pozemků tvořících jeho základ; jeho vytváření je veřejným zájmem, na kterém se podílejí vlastníci pozemků, obce i stát. Podrobnosti vymezení a hodnocení systému ekologické stability a podrobnosti plánů, projektů a opatření v procesu jeho vytváření stanoví Ministerstvo životního prostředí vyhláškou.*
 >
-> *(2) Významné krajinné prvky jsou chráněny před poškozováním a ničením. Využívají se pouze tak, aby nebyla narušena jejich obnova a nedošlo k ohrožení nebo oslabení jejich stabilizační funkce. K zásahům, které by mohly vést k poškození nebo zničení významného krajinného prvku nebo ohrožení nebo oslabení jeho ekologicko-stabilizační funkce, si musí ten, kdo takové zásahy zamýšlí, opatřit souhlas orgánu ochrany přírody. (...)*
+> *(2) Významné krajinné prvky jsou chráněny před poškozováním a ničením. Využívají se pouze tak, aby nebyla narušena jejich obnova a nedošlo k ohrožení nebo oslabení jejich stabilizační funkce. K zásahům, které by mohly vést k poškození nebo zničení významného krajinného prvku nebo ohrožení nebo oslabení jeho ekologicko-stabilizační funkce, si musí ten, kdo takové zásahy zamýšlí, opatřit souhlas orgánu ochrany přírody. Mezi takové zásahy patří zejména umisťování staveb, pozemkové úpravy, změny druhu nebo způsobu využití pozemků, výstavba lesních cest, budování lesních melioračních systémů, odvodňování pozemků, úpravy vodních toků a nádrží a těžba nerostů. Podrobnosti ochrany významných krajinných prvků stanoví Ministerstvo životního prostředí vyhláškou.*
 >
-> *(3)–(6) (souhlasy k lesním hospodářským plánům, hodnocení vlivů na EVL/PO v rámci LHP, souhlasy k hornické činnosti)*
+> *(3) Souhlas orgánu ochrany přírody z hlediska tohoto zákona je také nezbytný ke schválení lesních hospodářských plánů a protokolárnímu předání lesních hospodářských osnov2). K pěstebním a těžebním zásahům v lesích prováděným v souladu se schváleným lesním hospodářským plánem nebo protokolárně převzatou lesní hospodářskou osnovou a při nahodilé těžbě se souhlas orgánu ochrany přírody podle odstavce 2 nevyžaduje. Souhlas ke schválení lesních hospodářských plánů a protokolárnímu předání lesních hospodářských osnov se vydává na žádost příslušného orgánu státní správy lesů. K souhlasům vydaným po lhůtě 60 dnů od doručení žádosti příslušnému orgánu ochrany přírody se nepřihlíží. Požádá-li vlastník3a) o předběžnou informaci podle § 90 odst. 23 o podmínkách vydání souhlasu ke schválení lesního hospodářského plánu, příslušný orgán tuto informaci poskytne zpravidla ke dni konání základního šetření, nejpozději do 60 dnů od obdržení žádosti.*
+>
+> *(4) Orgán ochrany přírody posuzuje v rámci řízení o vydání souhlasu podle odstavce 3 dotčení zájmů chráněných podle částí druhé až páté tohoto zákona. Navrhované využití nepůvodních druhů dřevin v rámci lesních hospodářských plánů a lesních hospodářských osnov posuzuje tak, aby nedošlo k poškození přírodních stanovišť v jejich přirozeném areálu rozšíření nebo původních druhů rostlin anebo živočichů; v případě modřínu opadavého a douglasky tisolisté se jejich využití v lesích mimo území chráněná podle části třetí nebo čtvrté tohoto zákona řídí jiným právním předpisem21c).*
+>
+> *(5) V rámci řízení o vydání souhlasu podle odstavce 3 orgán ochrany přírody provede také hodnocení důsledků lesních hospodářských plánů a lesních hospodářských osnov pro evropsky významné lokality nebo ptačí oblasti. Orgán ochrany přírody nevydá souhlas ke schválení lesních hospodářských plánů a protokolárnímu předání lesních hospodářských osnov, pokud by měly významný negativní vliv na příznivý stav předmětu ochrany evropsky významné lokality nebo ptačí oblasti. V ostatních případech orgán ochrany přírody vydá souhlas. Souhlas ke schválení lesních hospodářských plánů a protokolárnímu předání lesních hospodářských osnov nahrazuje odůvodněné stanovisko podle § 45i odst. 1. Na postup hodnocení důsledků lesních hospodářských plánů a lesních hospodářských osnov se nepoužije zákon o posuzování vlivů na životní prostředí3b).*
+>
+> *(6) Ke stanovení dobývacího prostoru, povolení hornické činnosti, povolení dobývání ložiska nevyhrazeného nerostu nebo povolení likvidace důlních děl a lomů je nezbytný souhlas orgánu ochrany přírody. Při vydávání souhlasu podle věty první, jakož i v dalších řízeních a při vydávání dalších stanovisek podle tohoto zákona, pokud se týkají hornické činnosti a sanací a rekultivací území po hornické činnosti, orgány ochrany přírody prověřují možnosti rekultivace území přírodě blízkou obnovou těžbou narušeného území, a je-li to možné a účelné, ve svých rozhodnutích a stanoviscích takovou obnovu podporují. Těžbou narušená území, na kterých probíhá přírodě blízká obnova, zaregistruje orgán ochrany přírody jako významný krajinný prvek.*
 
 **Výklad:**
 
@@ -229,13 +293,33 @@ Souhlas se vyžaduje ke stanovení dobývacího prostoru, povolení hornické č
 
 > **§ 5**
 >
-> *(1) Všechny druhy rostlin a živočichů jsou chráněny před zničením, poškozováním, sběrem či odchytem, který vede nebo by mohl vést k ohrožení těchto druhů na bytí nebo k jejich degeneraci, k narušení rozmnožovacích schopností druhů, zániku populace druhů nebo zničení ekosystému, jehož jsou součástí. (...)*
+> *(1) Všechny druhy rostlin a živočichů jsou chráněny před zničením, poškozováním, sběrem či odchytem, který vede nebo by mohl vést k ohrožení těchto druhů na bytí nebo k jejich degeneraci, k narušení rozmnožovacích schopností druhů, zániku populace druhů nebo zničení ekosystému, jehož jsou součástí. Při porušení těchto podmínek je orgán ochrany přírody oprávněn rušivou činnost omezit stanovením závazných podmínek.*
 >
-> *(3) Fyzické a právnické osoby jsou povinny při provádění zemědělských a lesnických prací, při plánování, provádění a užívání staveb (...) postupovat tak, aby nedocházelo ke zbytečnému úhynu rostlin a zraňování nebo úhynu živočichů nebo ničení jejich biotopů, včetně narušení migračních tras živočichů (...).*
+> *(2) Ochrana podle odstavce 1 se nevztahuje na invazní nepůvodní druhy a nepůvodní druhy, pro které byla stanovena opatření k regulaci podle odstavce 6, a na zásahy při hubení rostlin a živočichů upravené zvláštními předpisy.4) Ohrožené nebo vzácné druhy živočichů a rostlin jsou zvláště chráněny podle § 48 až 50 tohoto zákona.*
 >
-> *(4) Záměrné rozšíření nepůvodního druhu do krajiny je možné jen s povolením orgánu ochrany přírody (...).*
+> *(3) Fyzické a právnické osoby jsou povinny při provádění zemědělských a lesnických prací, při plánování, provádění a užívání staveb, provádění terénních úprav, činnosti prováděné hornickým způsobem, ve vodním hospodářství, v dopravě a energetice postupovat tak, aby nedocházelo ke zbytečnému úhynu rostlin a zraňování nebo úhynu živočichů nebo ničení jejich biotopů, včetně narušení migračních tras živočichů, kterému lze zabránit technicky i ekonomicky dostupnými prostředky. Orgán ochrany přírody uloží zajištění či použití takovýchto prostředků, neučiní-li tak povinná osoba sama.*
 >
-> *(11) Každý, kdo se ujal živočicha neschopného v důsledku zranění, nemoci nebo jiných okolností dočasně nebo trvale přežít ve volné přírodě, zajistí jeho nezbytné ošetření, nebo ho za tímto účelem předá provozovateli záchranné stanice. (...)*
+> *(4) Záměrné rozšíření nepůvodního druhu do krajiny je možné jen s povolením orgánu ochrany přírody; to neplatí pro nepůvodní druhy rostlin, pokud se hospodaří podle schváleného lesního hospodářského plánu nebo vlastníkem lesa převzaté lesní hospodářské osnovy, pokud jsou vysazovány v zastavěném území obce a při využití vybraných nepůvodních druhů ryb stanovených nařízením vlády vydaným podle zákona o rybářství54). Platnost povolení k záměrnému rozšíření nepůvodního druhu do krajiny zaniká zařazením příslušného druhu na unijní seznam.*
+>
+> *(5) Záměrné rozšiřování křížence druhů rostlin či živočichů (dále jen „kříženec“) do krajiny je možné jen s povolením orgánů ochrany přírody; to neplatí pro křížence druhů rostlin, pokud je vysazován v zastavěném území obce.*
+>
+> *(6) Orgán ochrany přírody může stanovit opatření k regulaci nepůvodního druhu nebo křížence, je-li to s ohledem na místní dopady na přírodu a krajinu nezbytné. V opatření k regulaci nepůvodního druhu nebo křížence stanoví také podmínky jeho provádění. Opatřením k regulaci nepůvodního druhu nebo křížence není dotčeno opatření stanovené podle jiného právního předpisu55).*
+>
+> *(7) Pro účely vydání povolení podle odstavce 4 nebo 5 anebo stanovení opatření k regulaci nepůvodního druhu nebo křížence podle odstavce 6 si orgán ochrany přírody v případě, že vydaným povolením nebo stanoveným opatřením mohou být dotčeny zájmy na lesním hospodaření, myslivosti nebo rybářství, vyžádá závazné stanovisko příslušného orgánu státní správy podle jiného právního předpisu56).*
+>
+> *(8) Opatření k regulaci nepůvodního druhu nebo křížence podle odstavce 6 provádí v rámci běžné péče o pozemek jeho nájemce nebo jiný uživatel, uživatel honitby nebo rybářského revíru (dále jen „uživatel pozemku“). Není-li takového uživatele pozemku, odpovídá za provedení opatření k regulaci nepůvodního druhu nebo křížence podle odstavce 6 vlastník pozemku. Neprovede-li uživatel pozemku, popřípadě jeho vlastník, opatření k regulaci nepůvodního druhu nebo křížence podle odstavce 6, neprovede-li je v souladu se stanovenými podmínkami, není-li schopen provedení těchto opatření zajistit, nelze-li to na něm spravedlivě požadovat nebo vyžaduje-li provedení těchto opatření činnost přesahující rámec běžné péče o pozemek, může provedení těchto opatření zajistit orgán ochrany přírody; ustanovení § 68 odst. 4 se použije obdobně.*
+>
+> *(9) Vyžaduje-li provedení opatření k regulaci nepůvodního druhu nebo křížence podle odstavce 6 činnost přesahující rámec běžné péče o pozemek, orgán ochrany přírody může za účelem zajištění provedení opatření k regulaci nepůvodního druhu nebo křížence podle odstavce 6 uzavřít s uživatelem pozemku, popřípadě jeho vlastníkem, písemnou dohodu podle § 68 odst. 2.*
+>
+> *(10) Vývoz a dovoz ohrožených rostlin a živočichů chráněných mezinárodními úmluvami, kterými je Česká republika vázána (dále jen „mezinárodní úmluvy“), povoluje orgán ochrany přírody, s výjimkou vývozu a dovozu ohrožených druhů volně žijících živočichů a planě rostoucích rostlin, který je upraven zvláštním předpisem.4a)*
+>
+> *(11) Každý, kdo se ujal živočicha neschopného v důsledku zranění, nemoci nebo jiných okolností dočasně nebo trvale přežít ve volné přírodě, zajistí jeho nezbytné ošetření, nebo ho za tímto účelem předá provozovateli záchranné stanice. Jde-li o živočicha dočasně neschopného přežít ve volné přírodě, osoba, která se ho ujala, přijme opatření k zamezení takových tělesných změn nebo změn chování, které by následně znemožnily jeho návrat do přírody a jeho zapojení do volně žijící populace. Jde-li o zvláště chráněného živočicha, postupuje se podle § 52 odst. 2.*
+>
+> *(12) Záchrannou stanici lze provozovat pouze na základě rozhodnutí Ministerstva životního prostředí o povolení k provozování záchranné stanice, v rámci něhož se stanoví místo, kde se záchranná stanice nachází, vymezení její územní působnosti a rozsah péče, kterou může záchranná stanice poskytovat s ohledem na její vybavení a odborné zázemí. V žádosti o povolení k provozování záchranné stanice musí být navržen rozsah poskytované péče, vymezení územní působnosti a popsáno její personální, organizační a technické zajištění. Ministerstvo životního prostředí si k vydání rozhodnutí vyžádá stanovisko místně příslušného orgánu ochrany zvířat, myslivosti a veterinární správy4b). Označení „záchranná stanice“ může používat pouze ten, kdo je držitelem platného povolení k provozování stanice podle tohoto ustanovení (dále jen „provozovatel záchranné stanice“). Ministerstvo životního prostředí vede přehled záchranných stanic a zveřejňuje jej způsobem umožňujícím dálkový přístup.*
+>
+> *(13) Ministerstvo životního prostředí může z vlastního podnětu, na návrh provozovatele záchranné stanice nebo na návrh orgánu státní správy uvedeného v odstavci 12 změnit nebo zrušit povolení k provozování záchranné stanice, jestliže se změnily nebo zanikly podmínky, za jakých bylo povolení vydáno, nebo jestliže provozovatel záchranné stanice při péči o živočichy závažně nebo opakovaně porušuje ustanovení tohoto zákona o zvláštní ochraně druhů nebo předpisy na ochranu zvířat proti týrání. V rozhodnutí o změně nebo zrušení povolení k provozování záchranné stanice Ministerstvo životního prostředí stanoví, je-li to nezbytné, způsob zabezpečení další péče o živočichy chované v záchranné stanici.*
+>
+> *(14) Ministerstvo životního prostředí stanoví prováděcím právním předpisem bližší podmínky pro držení živočichů v záchranných stanicích, zejména s ohledem na možnost zapojení těchto živočichů zpět do volně žijících populací a způsob péče o živočichy.*
 
 **Výklad:**
 
@@ -276,9 +360,9 @@ Zákon ukládá **každému**, kdo se ujme zraněného či nemocného živočich
 
 #### § 5a, § 5b — Ochrana volně žijících ptáků a odchylný postup
 
-> **§ 5a odst. 1**
+> **§ 5a**
 >
-> *V zájmu ochrany druhů ptáků, kteří volně žijí na evropském území členských států Evropských společenství (...), je zakázáno*
+> *(1) V zájmu ochrany druhů ptáků, kteří volně žijí na evropském území členských států Evropských společenství (dále jen „ptáci“), je zakázáno*
 >
 > *- a) jejich úmyslné usmrcování nebo odchyt jakýmkoliv způsobem,*
 >
@@ -286,9 +370,19 @@ Zákon ukládá **každému**, kdo se ujme zraněného či nemocného živočich
 >
 > *- c) sběr jejich vajec ve volné přírodě a jejich držení, a to i prázdných,*
 >
-> *- d) úmyslné vyrušování těchto ptáků, zejména během rozmnožování a odchovu mláďat, pokud by šlo o vyrušování významné z hlediska cílů směrnice o ptácích,*
+> *- d) úmyslné vyrušování těchto ptáků, zejména během rozmnožování a odchovu mláďat, pokud by šlo o vyrušování významné z hlediska cílů směrnice o ptácích,4c)*
 >
 > *- e) držení druhů ptáků, jejichž lov a odchyt jsou zakázány.*
+>
+> *(2) Prodej, přeprava za účelem prodeje, držení a chov za účelem prodeje a nabízení za účelem prodeje živých nebo mrtvých ptáků a jakýchkoliv snadno rozpoznatelných částí ptáků nebo výrobků z ptáků jsou zakázány.*
+>
+> *(3) Kdo takové ptáky, na něž se vztahuje zákaz, drží, chová, dopravuje, vyměňuje nebo nabízí za účelem prodeje nebo výměny, je povinen prokázat na výzvu orgánu ochrany přírody nebo stráže přírody jejich zákonný původ a svou totožnost. Při prokázání původu se postupuje obdobně podle § 54.*
+>
+> *(4) Ustanovení odstavce 1 písm. a) a e) se nevztahuje na lov některých druhů ptáků vymezený a prováděný v souladu s předpisy o myslivosti a tímto zákonem. Ustanovení odstavce 1 písm. e) a odstavce 2 se nevztahuje na chov ptáků, kteří jsou zvěří, již lze lovit. Seznam těchto druhů stanoví Ministerstvo životního prostředí po dohodě s Ministerstvem zemědělství prováděcím právním předpisem.*
+>
+> *(5) Každý, kdo buduje nebo rekonstruuje nadzemní vedení vysokého napětí, je povinen opatřit je ochrannými prostředky, které účinně zabrání usmrcování ptáků elektrickým proudem.*
+>
+> *(6) Na zvláště chráněné druhy ptáků podle § 48 se toto ustanovení a § 5b vztahují jen tehdy, neplatí-li pro ně ochrana přísnější, a to podle § 50 až 57 nebo podle zvláštního zákona.4a)*
 
 **Výklad:**
 
@@ -350,9 +444,13 @@ V praxi má registrace **konstitutivní povahu** (na rozdíl od VKP ze zákona, 
 
 #### § 7–9 — Ochrana dřevin, povolení ke kácení, náhradní výsadba a odvody
 
-> **§ 8 odst. 1**
+> **§ 7**
 >
-> *Ke kácení dřevin je nezbytné povolení orgánu ochrany přírody, není-li dále stanoveno jinak. Povolení lze vydat ze závažných důvodů po vyhodnocení funkčního a estetického významu dřevin. (...)*
+> *(1) Dřeviny jsou chráněny podle tohoto ustanovení před poškozováním a ničením, pokud se na ně nevztahuje ochrana přísnější (§ 46 a 48) nebo ochrana podle zvláštních předpisů.5)*
+>
+> *(2) Ochrana podle odstavce 1 se nevztahuje na nepůvodní druhy dřevin při provádění opatření k jejich regulaci podle § 5 odst. 6 a na invazní nepůvodní druhy dřevin při kácení a dalších zásazích nezbytných k předcházení nebo omezení jejich šíření podle § 13d až 13l. Ochrana podle odstavce 1 se dále nevztahuje na případy kácení prováděného v rámci úředních opatření nebo mimořádných rostlinolékařských opatření k předcházení šíření nebo k vyhubení škodlivých organismů rostlin podle zákona o rostlinolékařské péči57).*
+>
+> *(3) Péče o dřeviny, zejména jejich ošetřování a udržování je povinností vlastníků. Při výskytu nákazy dřevin epidemickými či jinými jejich vážnými chorobami, může orgán ochrany přírody uložit vlastníkům provedení nezbytných zásahů, včetně pokácení dřevin.*
 
 **Výklad:**
 
@@ -414,9 +512,13 @@ Nález jeskyně při dobývání nebo geologickém průzkumu musí být **bezodk
 
 #### § 11 — Ochrana paleontologických nálezů
 
-> **§ 11 odst. 1**
+> **§ 11**
 >
-> *Kdo učiní paleontologický nález, který sám rozpozná, je povinen zajistit jeho ochranu před zničením, poškozením nebo odcizením a opatřit jej údaji o nálezových okolnostech, zejména místě nálezu. (...)*
+> *(1) Kdo učiní paleontologický nález, který sám rozpozná, je povinen zajistit jeho ochranu před zničením, poškozením nebo odcizením a opatřit jej údaji o nálezových okolnostech, zejména místě nálezu. Dále je povinen na písemné vyzvání orgánu ochrany přírody sdělit údaje o učiněném nálezu a umožnit přístup a dokumentaci tohoto nálezu osobám pověřeným orgánem ochrany přírody.*
+>
+> *(2) Vlastník pozemku, na němž byl paleontologický nález učiněn, nebo ten, kdo vykonává činnosti, při nichž k nálezu došlo, je povinen umožnit na žádost orgánu ochrany přírody osobám tímto orgánem pověřeným provedení záchranného paleontologického výzkumu a po dobu jeho konání, nejdéle však po dobu osmi dnů od ohlášení nálezu, nedohodnou-li se strany jinak, zdržet se na místě nálezu činnosti, která by mohla vést k jeho zničení nebo poškození. Po ukončení záchranného paleontologického výzkumu musí být osobám pověřeným orgánem ochrany přírody umožněno provádět odborný paleontologický dohled nad dalšími pracemi.*
+>
+> *(3) Vývoz paleontologických nálezů je povolen jen se souhlasem orgánu ochrany přírody.*
 
 **Výklad:**
 
@@ -434,9 +536,11 @@ Tento institut je v praxi důležitý zejména při velkých zemních pracích (
 >
 > *(1) Krajinný ráz, kterým je zejména přírodní, kulturní a historická charakteristika určitého místa či oblasti, je chráněn před činností snižující jeho estetickou a přírodní hodnotu. Zásahy do krajinného rázu, zejména umisťování a povolování staveb, mohou být prováděny pouze s ohledem na zachování významných krajinných prvků, zvláště chráněných území, kulturních dominant krajiny, harmonické měřítko a vztahy v krajině.*
 >
-> *(2) K umisťování a povolování staveb, jakož i jiným činnostem, které by mohly snížit nebo změnit krajinný ráz, je nezbytný souhlas orgánu ochrany přírody. (...)*
+> *(2) K umisťování a povolování staveb, jakož i jiným činnostem, které by mohly snížit nebo změnit krajinný ráz, je nezbytný souhlas orgánu ochrany přírody. Podrobnosti ochrany krajinného rázu může stanovit ministerstvo životního prostředí obecně závazným právním předpisem.*
 >
-> *(3) K ochraně krajinného rázu (...) může orgán ochrany přírody zřídit obecně závazným právním předpisem přírodní park (...).*
+> *(3) K ochraně krajinného rázu s významnými soustředěnými estetickými a přírodními hodnotami, který není zvláště chráněn podle části třetí tohoto zákona, může orgán ochrany přírody zřídit obecně závazným právním předpisem přírodní park a stanovit omezení takového využití území, které by znamenalo zničení, poškození nebo rušení stavu tohoto území.*
+>
+> *(4) Krajinný ráz se neposuzuje v zastavěném území a v zastavitelných plochách, pro které je územním plánem nebo regulačním plánem stanoveno plošné a prostorové uspořádání a podmínky ochrany krajinného rázu dohodnuté s orgánem ochrany přírody9a). Krajinný ráz se dále neposuzuje v případech umisťování a povolování staveb anténních stožárů včetně antén rádiových zařízení nebo rádiových směrových spojů veřejné komunikační sítě a souvisejících elektronických komunikačních zařízení, pokud dosahují výšky maximálně 50 metrů a slouží k plnění podmínek podle § 22 odst. 2 písm. c) zákona o elektronických komunikacích69).*
 
 **Výklad:**
 
@@ -472,9 +576,11 @@ Zákon novelou č. 312/2002 Sb. zavedl výjimky z posuzování krajinného rázu
 
 #### § 13 — Přechodně chráněné plochy
 
-> **§ 13 odst. 1**
+> **§ 13**
 >
-> *Území s dočasným nebo nepředvídaným výskytem významných rostlinných nebo živočišných druhů, nerostů nebo paleontologických nálezů může orgán ochrany přírody opatřením obecné povahy vyhlásit za přechodně chráněnou plochu. (...) Přechodně chráněná plocha se vyhlašuje na předem stanovenou dobu, případně na opakované období, například dobu hnízdění. (...)*
+> *(1) Území s dočasným nebo nepředvídaným výskytem významných rostlinných nebo živočišných druhů, nerostů nebo paleontologických nálezů může orgán ochrany přírody opatřením obecné povahy vyhlásit za přechodně chráněnou plochu. Přechodně chráněnou plochu lze vyhlásit též z jiných vážných důvodů, zejména vědeckých, studijních či informačních. Přechodně chráněná plocha se vyhlašuje na předem stanovenou dobu, případně na opakované období, například dobu hnízdění. V opatření obecné povahy o jejím vyhlášení se omezí takové využití území, které by znamenalo zničení, poškození nebo rušení vývoje předmětu ochrany.*
+>
+> *(2) Vznikne-li vlastníku či nájemci pozemku v důsledku ochranných podmínek přechodně chráněné plochy újma nikoliv nepatrná, přísluší mu na jeho žádost finanční náhrada od orgánu ochrany přírody, který přechodně chráněnou plochu vyhlásil. Orgán ochrany přírody při rozhodování o výši finanční náhrady může požadovat doložení žádosti doklady či údaji o výnosu pozemku.*
 
 **Výklad:**
 
@@ -596,7 +702,11 @@ V ČR je vyhlášeno (k roku 2025) **4 NP** (České Švýcarsko, Krkonošský, 
 >
 > *(1) Rozsáhlá území s typickým reliéfem a geologickou stavbou a převažujícím výskytem přirozených nebo člověkem málo pozměněných ekosystémů, jedinečná a významná v národním či mezinárodním měřítku z hlediska ekologického, vědeckého, vzdělávacího nebo osvětového, lze vyhlásit za národní parky.*
 >
-> *(...)*
+> *(2) Veškeré využití národních parků musí být podřízeno zachování jejich ekologicky stabilních přirozených ekosystémů odpovídajících danému stanovišti a dosažení jejich přirozené biologické rozmanitosti a musí být v souladu s cíli ochrany sledovanými jejich vyhlášením.*
+>
+> *(3) Dlouhodobým cílem ochrany národních parků je zachování nebo postupná obnova přirozených ekosystémů včetně zajištění nerušeného průběhu přírodních dějů v jejich přirozené dynamice na převažující ploše území národních parků a zachování nebo postupné zlepšování stavu ekosystémů, jejichž existence je podmíněna činností člověka, významných z hlediska biologické rozmanitosti, na zbývajícím území národních parků.*
+>
+> *(4) Posláním národních parků je naplňovat dlouhodobé cíle ochrany národních parků a také umožnit využití území národních parků k trvale udržitelnému rozvoji, ke vzdělávání, výchově, výzkumu a k přírodě šetrnému turistickému využití, a to způsoby, které nejsou v rozporu s dlouhodobými cíli ochrany národního parku.*
 >
 > *(5) Národní parky a jejich ochranná pásma se vyhlašují tímto zákonem.*
 
@@ -712,7 +822,11 @@ Každý ze čtyř NP má v zákoně vlastní paragraf s **bližšími ochranným
 >
 > *(1) Klidová území národního parku jsou území s omezeným pohybem osob z důvodu umožnění nerušeného vývoje ekosystémů nebo jejich složek, které jsou citlivé na nadměrný pohyb osob a zranitelné vlivem rušivých vlivů s ním spojených.*
 >
-> *(2) V klidových územích národního parku je zakázáno pohybovat se mimo cesty nebo trasy vyhrazené orgánem ochrany přírody (...).*
+> *(2) V klidových územích národního parku je zakázáno pohybovat se mimo cesty nebo trasy vyhrazené orgánem ochrany přírody, s výjimkou vlastníků a nájemců pozemků při vstupu na jejich pozemky, členů základních složek integrovaného záchranného systému, obecní policie, ozbrojených sil České republiky, Celní správy České republiky, Vězeňské služby České republiky, pracovníků dalších orgánů veřejné moci, pracovníků odborné organizace státní památkové péče, pracovníků veterinární služby, pracovníků správců vodních toků a provozovatelů vodovodů a kanalizací, energetických soustav, ropovodů, produktovodů a veřejných komunikačních sítí při plnění jejich úkolů. Při vyhrazení cesty nebo trasy může orgán ochrany přírody stanovit podmínky týkající se rozsahu, způsobu a času pohybu na této cestě nebo trase.*
+>
+> *(3) Klidová území národního parku stanoví Ministerstvo životního prostředí opatřením obecné povahy.*
+>
+> *(4) Hranice klidového území národního parku a informace o podmínkách pohybu na cestách nebo trasách v klidovém území národního parku vyznačí orgán ochrany přírody v terénu způsobem stanoveným vyhláškou Ministerstva životního prostředí.*
 
 **Výklad:**
 
@@ -734,17 +848,39 @@ Klidová území jsou **funkčně odlišena od zón ochrany přírody NP** (§ 1
 
 #### § 18 a § 18a — Členění území národních parků a režim zón
 
-> **§ 18 odst. 1**
+> **§ 18a**
 >
-> *Území národních parků se člení podle cílů ochrany a stavu ekosystémů na 4 zóny ochrany přírody, a to:*
+> *(1) V zóně přírodní lze provádět pouze zásahy, které nejsou v rozporu s cílem ochrany této zóny. Výjimečně lze provádět i jiná opatření, je-li to nezbytné z důvodu ochrany životů a zdraví osob, ochrany majetku nebo ochrany přírody, a to:*
 >
-> *- a) zóna přírodní (...),*
+> *  - a) zásahy proti šíření nepůvodních druhů organismů a cizím a místně se nevyskytujícím druhům v akvakultuře,*
 >
-> *- b) zóna přírodě blízká (...),*
+> *  - b) hašení požárů a provádění preventivních opatření proti vzniku lesních požárů podle zákona o požární ochraně; preventivní opatření lze provádět po předchozím projednání s orgánem ochrany přírody a při zohlednění cílů ochrany národního parku,*
 >
-> *- c) zóna soustředěné péče o přírodu (...),*
+> *  - c) odstraňování nepotřebných staveb,*
 >
-> *- d) zóna kulturní krajiny (...).*
+> *  - d) regulace početních stavů spárkaté zvěře,*
+>
+> *  - e) opatření k zajištění bezpečnosti návštěvníků na turistických trasách,*
+>
+> *  - f) údržba základní cestní sítě stanovené zásadami péče o národní park,*
+>
+> *  - g) zásahy za účelem ochrany populací zvláště chráněných druhů rostlin nebo živočichů,*
+>
+> *  - h) monitoring nebo výzkum, který nemění přírodní prostředí,*
+>
+> *  - i) údržba vyznačených turistických nebo cyklistických tras, nebo*
+>
+> *  - j) jednorázová obnova nebo zlepšení přirozeného vodního režimu.*
+>
+> *(2) V zóně přírodě blízké lze provádět pouze zásahy, které nejsou v rozporu s cílem ochrany této zóny, s výjimkou opatření uvedených v odstavci 1, opatření k podpoře přirozené ekologické stability anebo přirozené biologické rozmanitosti ekosystémů, revitalizačních opatření a opatření na ochranu lesa.*
+>
+> *(3) V zóně soustředěné péče o přírodu lze provádět pouze zásahy, které nejsou v rozporu s cílem ochrany této zóny, s výjimkou opatření uvedených v odstavcích 1 a 2, opatření na obnovu nebo zachování ekologické stability a biologické rozmanitosti ekosystémů a opatření na obnovu nebo zachování biotopů a populací vzácných a ohrožených druhů rostlin a živočichů.*
+>
+> *(4) V zóně kulturní krajiny lze provádět pouze opatření nebo zásahy, které neohrožují předmět ochrany národního parku a naplňování cílů ochrany národního parku.*
+>
+> *(5) Ustanovení § 16 není při provádění zásahů a opatření podle odstavců 1 až 4 dotčeno.*
+>
+> *(6) Na územích zařazených do zóny přírodní, zóny přírodě blízké nebo zóny soustředěné péče o přírodu podle § 18 odst. 3 se neuplatní režim zón stanovený v odstavcích 1 až 3 a lze na nich realizovat opatření nebo zásahy, které neohrožují předmět ochrany národního parku a naplňování cílů ochrany národního parku.*
 
 **Výklad:**
 
@@ -824,7 +960,7 @@ Držitelé a uživatelé honiteb a rybářských revírů v NP musí postupovat 
 >
 > *(1) Rozsáhlá území s harmonicky utvářenou krajinou, charakteristicky vyvinutým reliéfem, významným podílem přirozených ekosystémů lesních a trvalých travních porostů, s hojným zastoupením dřevin, popřípadě s dochovanými památkami historického osídlení, lze vyhlásit za chráněné krajinné oblasti.*
 >
-> *(2) Hospodářské využívání těchto území se provádí podle zón odstupňované ochrany tak, aby se udržoval a zlepšoval jejich přírodní stav (...).*
+> *(2) Hospodářské využívání těchto území se provádí podle zón odstupňované ochrany tak, aby se udržoval a zlepšoval jejich přírodní stav a byly zachovány a vytvářeny optimální ekologické funkce těchto území. Rekreační využití je přípustné, pokud nepoškozuje přírodní hodnoty chráněných krajinných oblastí.*
 >
 > *(3) Chráněné krajinné oblasti, jejich poslání a bližší ochranné podmínky vyhlašuje vláda republiky nařízením.*
 
@@ -988,7 +1124,7 @@ PR má **6 zákazů** na celém území (mírnější než NPR):
 
 > **§ 35**
 >
-> *(1) Přírodní útvar menší rozlohy, zejména geologický či geomorfologický útvar, naleziště nerostů nebo vzácných či ohrožených druhů ve fragmentech ekosystémů, s národním nebo mezinárodním ekologickým, vědeckým či estetickým významem, a to i takový, který vedle přírody formoval svou činností člověk, může orgán ochrany přírody vyhlásit za národní přírodní památku (...).*
+> *(1) Přírodní útvar menší rozlohy, zejména geologický či geomorfologický útvar, naleziště nerostů nebo vzácných či ohrožených druhů ve fragmentech ekosystémů, s národním nebo mezinárodním ekologickým, vědeckým či estetickým významem, a to i takový, který vedle přírody formoval svou činností člověk, může orgán ochrany přírody vyhlásit za národní přírodní památku; stanoví přitom také její bližší ochranné podmínky.*
 >
 > *(2) Změny či poškozování národních přírodních památek či jejich hospodářské využívání, pokud by tím hrozilo jejich poškození, je zakázáno.*
 
@@ -1022,7 +1158,21 @@ PP je **regionální obdoba NPP**:
 
 > **§ 37**
 >
-> *(1) Je-li třeba zabezpečit zvláště chráněná území, s výjimkou chráněné krajinné oblasti, před rušivými vlivy z okolí, může být pro ně vyhlášeno ochranné pásmo (...). Pokud se ochranné pásmo národní přírodní rezervace, národní přírodní památky, přírodní rezervace nebo přírodní památky nevyhlásí, je jím území do vzdálenosti 50 m od hranic zvláště chráněného území. (...)*
+> *(1) Je-li třeba zabezpečit zvláště chráněná území, s výjimkou chráněné krajinné oblasti, před rušivými vlivy z okolí, může být pro ně vyhlášeno ochranné pásmo, ve kterém lze vymezit činnosti a zásahy, které jsou vázány na předchozí souhlas orgánu ochrany přírody. Ochranné pásmo vyhlašuje orgán, který zvláště chráněné území vyhlásil, a to stejným způsobem. Pokud se ochranné pásmo národní přírodní rezervace, národní přírodní památky, přírodní rezervace nebo přírodní památky nevyhlásí, je jím území do vzdálenosti 50 m od hranic zvláště chráněného území. Orgán ochrany přírody může při vyhlášení zvláště chráněného území stanovit, že se zvláště chráněné území vyhlašuje bez ochranného pásma.*
+>
+> *(2) K povolování nebo provádění staveb, změně způsobu využití pozemků, terénním úpravám, změnám vodního režimu pozemků nebo k nakládání s vodami, k použití chemických prostředků a ke změnám druhu pozemku v ochranném pásmu zvláště chráněného území je nutný souhlas orgánu ochrany přírody.*
+>
+> *(3) V ochranném pásmu národního parku se souhlas orgánu ochrany přírody dále vyžaduje k*
+>
+> *- a) táboření mimo místa vyhrazená orgánem ochrany přírody opatřením obecné povahy a mimo zastavěná území obcí,*
+>
+> *- b) zemědělskému hospodaření, pokud by tím docházelo k překročení ekologicky únosného režimu přísunu živin do půdy, zejména draslíku, dusíku a fosforu,*
+>
+> *- c) odstraňování odpadů, nebo*
+>
+> *- d) pořádání hromadných sportovních, turistických a jiných veřejných akcí mimo místa vyhrazená orgánem ochrany přírody opatřením obecné povahy a mimo zastavěná území obcí.*
+>
+> *(4) Souhlas k činnostem podle odstavců 2 a 3 vydává orgán ochrany přírody rozhodnutím, nebo, je-li okruh adresátů neurčitý, opatřením obecné povahy. Orgán ochrany přírody souhlas podle odstavců 2 a 3 vydá, pokud se prokáže, že nedojde k ohrožení zabezpečení zvláště chráněného území před rušivými vlivy z okolí nebo zachování příznivého stavu předmětu ochrany dotčeného zvláště chráněného území.*
 
 **Výklad:**
 
@@ -1061,9 +1211,23 @@ Souhlas podle odst. 2 a 3 se vydá, **prokáže-li se, že nedojde k ohrožení 
 
 #### § 38 a § 38a — Plány péče a zásady péče
 
-> **§ 38 odst. 1**
+> **§ 38a**
 >
-> *Plán péče o národní přírodní rezervaci, přírodní rezervaci, národní přírodní památku nebo přírodní památku a ochranné pásmo těchto zvláště chráněných území nebo o chráněnou krajinnou oblast (...) je odborný a koncepční dokument ochrany přírody, který na základě údajů o dosavadním vývoji a současném stavu zvláště chráněného území navrhuje opatření na zachování nebo zlepšení stavu předmětu ochrany (...). Plán péče slouží jako podklad pro jiné druhy plánovacích dokumentů a pro rozhodování orgánů ochrany přírody. Pro fyzické ani právnické osoby není závazný.*
+> *(1) Zásady péče o národní parky a jejich ochranná pásma (dále jen „zásady péče“) jsou koncepční odborné dokumenty ochrany přírody, které na základě údajů o dosavadním vývoji a současném stavu ekosystémů národních parků a jejich ochranných pásem stanoví rámcové zásady péče nezbytné pro zachování nebo zlepšení stavu předmětů ochrany národních parků a v ochranných pásmech pro zabezpečení národních parků před nepříznivými vlivy z okolí. Zásady péče dále stanoví postup a způsob naplňování dlouhodobých cílů ochrany národních parků a jejich poslání. Zásady péče slouží jako podklad pro jiné druhy plánovacích dokumentů14a) a pro rozhodování orgánů ochrany přírody.*
+>
+> *(2) Zpracování zásad péče zajišťuje orgán ochrany přírody.*
+>
+> *(3) Orgán ochrany přírody se souhlasem Ministerstva životního prostředí vydá oznámení o možnosti seznámit se s návrhem zásad péče, který zveřejní na portálu veřejné správy a zašle dotčeným obcím, které jej zveřejní na svých úředních deskách, a dále jej zašle dotčeným krajům. Připomínky k návrhu zásad péče může podat každý ve lhůtě 60 dnů ode dne zveřejnění oznámení na portálu veřejné správy.*
+>
+> *(4) Orgán ochrany přírody vyhodnotí připomínky došlé ve lhůtě podle odstavce 3 a upraví návrh zásad péče. Vypořádání došlých připomínek zveřejní orgán ochrany přírody na svých internetových stránkách a na portálu veřejné správy. Upravený návrh zásad péče dohodne s radou. Dohodnuté zásady péče předloží orgán ochrany přírody Ministerstvu životního prostředí ke schválení.*
+>
+> *(5) Nedojde-li k dohodě podle odstavce 4, předloží rada prostřednictvím orgánu ochrany přírody neprodleně rozpor se svým stanoviskem Ministerstvu životního prostředí, které na základě shromážděných podkladů může návrh upravit. O změně návrhu informuje radu.*
+>
+> *(6) Zásady péče schvaluje Ministerstvo životního prostředí zpravidla na období 15 až 20 let. Schválené zásady péče uloží Ministerstvo životního prostředí v ústředním seznamu ochrany přírody a předá v elektronické podobě na technickém nosiči dat dotčeným obcím a krajům.*
+>
+> *(7) Péči o národní parky a jejich ochranná pásma podle zásad péče zajišťuje orgán ochrany přírody.*
+>
+> *(8) Ministerstvo životního prostředí stanoví vyhláškou obsah zásad péče a postup jejich zpracování a projednání.*
 
 **Výklad:**
 
@@ -1103,9 +1267,19 @@ NP mají vlastní, koncepčně významnější dokument — **zásady péče**:
 
 #### § 39 — Smluvní ochrana
 
-> **§ 39 odst. 1**
+> **§ 39**
 >
-> *Ochrana evropsky významných lokalit je zajišťována přednostně v součinnosti s vlastníky pozemků. Pro evropsky významné lokality lze namísto vyhlášení (...) prohlásit území za chráněné nebo strom za památný, pokud již nejsou zvláště chráněny podle tohoto zákona, na základě písemné smlouvy uzavřené mezi vlastníkem dotčeného pozemku a příslušným orgánem ochrany přírody. (...)*
+> *(1) Ochrana evropsky významných lokalit je zajišťována přednostně v součinnosti s vlastníky pozemků. Pro evropsky významné lokality lze namísto vyhlášení národní přírodní rezervace, národní přírodní památky, přírodní rezervace, přírodní památky nebo památného stromu, včetně jejich ochranných pásem, prohlásit území za chráněné nebo strom za památný, pokud již nejsou zvláště chráněny podle tohoto zákona, na základě písemné smlouvy uzavřené mezi vlastníkem dotčeného pozemku a příslušným orgánem ochrany přírody. Smluvně lze dále chránit i stromy nebo jiná území se soustředěnými přírodními hodnotami, kde jsou zastoupeny významné či jedinečné ekosystémy v rámci příslušné biogeografické oblasti nebo stanoviště vzácných či ohrožených druhů živočichů a rostlin, pokud již nejsou zvláště chráněny podle tohoto zákona. Smlouva musí obsahovat zejména*
+>
+> *- a) vymezení ochranných podmínek chráněného území nebo památného stromu,*
+>
+> *- b) způsob péče o chráněné území nebo strom.*
+>
+> *Takto zřízená ochrana je na základě smlouvy vázána k pozemku formou věcného břemene, o jehož zápis do katastru nemovitostí požádá příslušný orgán ochrany přírody. Náležitosti obsahu smlouvy upraví Ministerstvo životního prostředí prováděcím právním předpisem.*
+>
+> *(2) Chráněné území označí, nestanoví-li to smlouva jinak, na svůj náklad orgán, který je oprávněn k jejich vyhlášení. Způsob označení chráněného území a památného stromu v terénu i v mapových podkladech stanoví Ministerstvo životního prostředí prováděcím obecně závazným právním předpisem. Označené chráněné území nebo označený památný strom je zakázáno poškozovat.*
+>
+> *Postup při projednávání záměrů na vyhlášení zvláště chráněných území*
 
 **Výklad:**
 
@@ -1127,13 +1301,21 @@ Smluvní ochrana je **moderní alternativou klasické vyhlašovací procedury**,
 
 #### § 40 — Vyhlašovací řízení
 
-> **§ 40 odst. 1**
+> **§ 40**
 >
-> *Je-li třeba vyhlásit chráněné území nebo jeho ochranné pásmo (...), zajistí orgán ochrany přírody zpracování záměru na vyhlášení zvláště chráněného území nebo jeho ochranného pásma. V záměru orgán ochrany přírody vyhodnotí stav dochovaného přírodního prostředí v území a navrhne vhodný způsob a rozsah ochrany území včetně jeho bližších ochranných podmínek.*
+> *(1) Je-li třeba vyhlásit chráněné území nebo jeho ochranné pásmo podle části třetí tohoto zákona, zajistí orgán ochrany přírody zpracování záměru na vyhlášení zvláště chráněného území nebo jeho ochranného pásma. V záměru orgán ochrany přírody vyhodnotí stav dochovaného přírodního prostředí v území a navrhne vhodný způsob a rozsah ochrany území včetně jeho bližších ochranných podmínek.*
 >
-> *(...)*
+> *(2) Záměr na vyhlášení národní přírodní rezervace, přírodní rezervace, národní přírodní památky, přírodní památky nebo ochranného pásma těchto zvláště chráněných území zašle orgán ochrany přírody příslušný k jejich vyhlášení obcím a krajům, jejichž území se záměr dotýká. Vlastníkům nemovitých věcí dotčených záměrem, zapsaným v katastru nemovitostí, dále zašle písemné oznámení o předložení záměru k projednání spolu s informací o tom, kde je možno se seznámit s jeho úplným zněním, kdo je oprávněn podat k němu námitky a kdy uplyne lhůta pro jejich podání. Oznámení zároveň zveřejní na portálu veřejné správy.*
 >
-> *(5) Od doby zveřejnění záměru na vyhlášení části přírody (...) za zvláště chráněné území až do vyhlášení zvláště chráněného území, nejdéle však po dobu dvou let, se musí každý zdržet všech zásahů, které by negativně měnily či poškozovaly dochovaný stav přírody území navrhovaného ke zvláštní ochraně.*
+> *(3) Záměr na vyhlášení národního parku, chráněné krajinné oblasti nebo ochranného pásma národního parku zašle Ministerstvo životního prostředí obcím a krajům, jejichž území se záměr dotýká. Vlastníkům nemovitých věcí dotčených záměrem, zapsaným v katastru nemovitostí, doručí Ministerstvo životního prostředí formou veřejné vyhlášky písemné oznámení o předložení záměru k projednání spolu s informací o tom, kde je možno se seznámit s jeho úplným zněním, kdo je oprávněn podat k němu námitky a kdy uplyne lhůta pro jejich podání. Ministerstvo životního prostředí zveřejní oznámení o předložení záměru k projednání spolu s informací o tom, kde je možno se seznámit s jeho úplným zněním, kdo je oprávněn podat k němu námitky a kdy uplyne lhůta pro jejich podání, na portálu veřejné správy. Dotčené obce zveřejní na žádost Ministerstva životního prostředí oznámení do 5 dnů ode dne, kdy jim oznámení bylo doručeno, na úředních deskách obcí.*
+>
+> *(4) Písemné námitky k předloženému záměru mohou uplatnit dotčené obce a kraje ve lhůtě 90 dnů od obdržení záměru a vlastníci nemovitých věcí dotčených navrhovanou ochranou ve lhůtě 90 dnů od doručení písemného oznámení o předložení záměru k projednání podle odstavce 2, jinak ve lhůtě 90 dnů ode dne doručení oznámení veřejnou vyhláškou podle odstavce 3 na portálu veřejné správy. Námitky proti návrhu podle odstavce 2 se podávají orgánu ochrany přírody příslušnému k vyhlášení zvláště chráněného území nebo jeho ochranného pásma, námitky podle odstavce 3 Ministerstvu životního prostředí; k námitkám uplatněným po uvedené lhůtě se nepřihlíží. Vlastník je oprávněn uplatnit námitky jen proti takovému navrženému způsobu nebo rozsahu ochrany, jímž by byl dotčen ve výkonu svých práv nebo povinností. Orgán ochrany přírody rozhodne o došlých námitkách do 60 dnů od uplynutí lhůty pro uplatnění námitek. Orgán ochrany přírody uvede záměr do souladu s námitkami, kterým bylo vyhověno.*
+>
+> *(5) Od doby zveřejnění záměru na vyhlášení části přírody podle odstavců 2 a 3 za zvláště chráněné území až do vyhlášení zvláště chráněného území, nejdéle však po dobu dvou let, se musí každý zdržet všech zásahů, které by negativně měnily či poškozovaly dochovaný stav přírody území navrhovaného ke zvláštní ochraně.*
+>
+> *(6) Rozsah dotčených nemovitostí nebo rozsah omezení vlastníků nemovitých věcí vyplývající z vymezení zvláště chráněného území nebo jeho ochranného pásma nebo zón ochrany přírody národního parku anebo chráněné krajinné oblasti, z bližších ochranných podmínek zvláště chráněného území nebo z výčtu činností vázaných na souhlas v ochranném pásmu uvedených v návrhu právního předpisu, kterým se vyhlašuje nebo mění zvláště chráněné území nebo jeho ochranné pásmo, nesmí přesáhnout rozsah omezení nebo rozsah ochrany vyplývajících ze záměru podle odstavce 1, upraveného podle rozhodnutí o námitkách podle odstavce 4.*
+>
+> *(7) Náležitosti a obsah záměru podle odstavce 1 stanoví Ministerstvo životního prostředí vyhláškou.*
 
 **Výklad:**
 
