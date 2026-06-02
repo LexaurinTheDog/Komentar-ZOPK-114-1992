@@ -616,7 +616,6 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Výklad:** **Vojenské újezdy** (Boletice, Brdy do 2016, Březina, Hradiště, Libavá) mají svébytný režim. Pro účely OP zde **státní správu vykonávají újezdní úřady** (organizační složky MO) ve **veškerém rozsahu** od OÚ až po NPS. **MO je v nadřazené roli** — vyhlašuje PR a PP na území újezdů vlastní vyhláškou (písm. d), je odvolacím orgánem (písm. j) a vykonává státní dozor (písm. h). Tím je MO funkčně paralela MŽP pro území vojenských újezdů. Zachování biotopů ve vojenských újezdech (díky omezenému hospodaření je řada z nich přírodně velmi cenná — např. Brdy, Libavá) je významným paradoxem české ochrany přírody.
 
-
 ### § 79 — Působnost Ministerstva životního prostředí
 
 > **§ 79**
@@ -944,7 +943,6 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Postup kontroly:** podle zákona č. 255/2012 Sb., o kontrole (kontrolní řád). Pověřený zaměstnanec se prokazuje průkazem (odst. 3).
 
-
 ---
 
 ## ČÁST OSMÁ — Odpovědnost na úseku ochrany přírody
@@ -1155,7 +1153,6 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 **(c) Vlastnictví (odst. 4):** **stát se stává vlastníkem ex lege** — bez nutnosti zápisu, jako u propadnutí věci v trestním právu. Stát může jedince převést na nového nabyvatele, je-li dán důvod pro výjimku § 56; smluvní podmínky převodu **nahrazují udělení výjimky** (procesní zjednodušení).
 
 **Vyloučení obecní účasti (odst. 3):** vyloučeno postavení obce jako účastníka řízení podle § 71 odst. 3 — typicky pro rychlost řízení (časté případy živých zvířat).
-
 
 ---
 
