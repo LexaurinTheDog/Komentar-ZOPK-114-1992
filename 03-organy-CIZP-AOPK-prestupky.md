@@ -46,6 +46,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *ÚS* [II.ÚS 338/03](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-338-03) — usnesení, 14. 10. 2004
   > „Stěžovatel se dovolává ustanovení § 58 zákona č. 114/1992 Sb., ve znění účinném před 28. 4. 2004, jež ukládá obecnou povinnost strpět omezení vyplývající ze zákona o ochraně přírody a krajiny. Ze zákona však nelze odvodit jiná omezení než ta, která byla zmíněna. Fakt, že stěžovatel plní funkci orgánu ochrany přírody a krajiny, nelze vnímat jako právní titul bezúplatného užívacího práva"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník lesního pozemku v národní přírodní rezervaci je rozhodnutím orgánu ochrany přírody (a posléze i plánem péče) omezen v hospodaření — nesmí provádět holosečnou těžbu a musí ponechat doupné stromy a souše. Tím mu vzniká újma v podobě nerealizovaného výnosu z dříví. Dne 15. 1. následujícího roku podá písemné uplatnění nároku na finanční náhradu u AOPK, doloží lesní hospodářský plán, taxační data a ocenění újmy zpracovatelem. Důkazy: LHP, znalecký posudek k výši újmy, doklad o vlastnictví, případně nájemní smlouva.
+
+**2. Právní otázka.** Vznikl vlastníku nárok na finanční náhradu podle § 58 odst. 2, byl uplatněn včas (prekluzivní lhůta podle odst. 3) a nejde o vyloučení podle odst. 6?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 58 odst. 2 (nárok na náhradu za újmu z omezení podle částí III–V) a odst. 3 (prekluzivní tříměsíční lhůta).
+- *Související ustanovení téhož zákona:* § 69 (finanční příspěvek — antikumulace podle § 58 odst. 4), § 66 (omezení činnosti, z něhož újma plyne), § 90 odst. 1 (vyloučení odkladného účinku).
+- *Související předpisy:* čl. 11 odst. 4 Listiny (omezení vlastnictví jen za náhradu); vyhláška č. 432/2005 Sb. (způsob určení výše náhrady); zákon č. 219/2000 Sb. (prostředky státního rozpočtu).
+- *Judikatura:* NSS 52 A 38/2021 (ochrana přírody jako veřejný zájem dle § 58 odst. 1); ÚS IV.ÚS 2068/15 a II.ÚS 338/03 (regulační opatření ve veřejném zájmu, povinnost strpět omezení).
+
+**4. Subsumpce.** Vlastník lesního pozemku (znak naplněn), omezení plyne z části III zákona a navazujícího rozhodnutí (naplněno), újma vznikla v podobě nerealizovaného výnosu (naplněno, je-li prokázána doklady). Sporné: zda byla lhůta dodržena (počítá se do 3 měsíců od konce kalendářního roku) a zda výše újmy je řádně doložena.
+
+**5. Řešení.** Je-li nárok včas a prokazatelně uplatněn a nejde o sankční omezení podle odst. 6, orgán ochrany přírody náhradu z prostředků státního rozpočtu poskytne, sníženou o případný příspěvek podle § 69 nebo platby SZP (odst. 4). Při nedoložení výše vyzve orgán k doplnění. Riziko: prekluze nároku při zmeškání lhůty (bez možnosti prominutí).
+
+**6. Varianty.** (a) Omezení bylo uloženo jako sankce za předchozí nedovolený zásah vlastníka → náhrada se podle odst. 6 neposkytne. (b) Vlastník i nájemce podají včas oba → náhrada náleží pouze vlastníkovi (odst. 2, 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Újma je jen hypotetický ušlý zisk, nikoli skutečná škoda." Neutralizace: § 58 odst. 2 hovoří o újmě z omezení hospodaření, jejíž výši stanoví vyhláška č. 432/2005 Sb. jako rozdíl mezi stavem s omezením a bez něj (odst. 5) — jde o zákonem předvídanou náhradu, ne o náhradu škody podle OZ.
+- *Protiargument:* „Nárok zanikl, protože uplatnění přišlo se zpožděním." Riziko reálné — lhůta je prekluzivní a neprominutelná; jediná obrana je prokázání včasného doručení (datová schránka, podací lístek).
+- *Slabé místo:* hranice mezi omezením podle částí III–V (náhraditelné) a sankčním opatřením podle odst. 6 (nenáhraditelné) bývá sporná; nutno pečlivě odlišit titul omezení.
+
+#### H. Praktický závěr
+
+Náhrada podle § 58 je nárokem ex lege za omezení hospodaření ve veřejném zájmu, ale je striktně vázána na prekluzivní lhůtu a doložení výše.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Plyne omezení z částí III–V zákona, prováděcího předpisu nebo rozhodnutí/stanoviska podle ZOPK?
+- [ ] Nejde o sankční opatření za porušení povinností (odst. 6)?
+- [ ] Bylo uplatnění doručeno do 3 měsíců od konce kalendářního roku (odst. 3)?
+- [ ] Je výše újmy doložena (LHP, ocenění, vyhláška č. 432/2005 Sb.)?
+- [ ] Nedochází k souběhu s příspěvkem podle § 69 nebo platbami SZP (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o vlastnictví/nájmu, lesní hospodářský plán, znalecké ocenění újmy, rozhodnutí/stanovisko zakládající omezení, doklad o včasném doručení uplatnění.
+
 ### § 59 — Zajištění pozemků k tvorbě systému ekologické stability
 
 > **§ 59**
@@ -63,6 +100,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *NSS* [7 Aos 3/2013 - 30](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/629722) — 31. 10. 2013
   > „Souhlas vlastníka pozemku je vyžadován až v situaci, kdy má dojít k realizaci záměru, nikoliv ve fázi jeho plánování v územně plánovací dokumentaci … Stejně tomu musí být podle názoru Nejvyššího správního soudu také v případě prvků systému ekologické stability. Jejich povaha je totiž plně srovnatelná s povahou jiných záměrů. Bylo by nelogické vyžadovat souhlas vlastníka pozemku ve fázi, kdy ještě není zcela zřejmé, zda bude nutno provést nějaká konkrétní opatření k zajištění fungování systému ekologické stability"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V územním plánu obce je vymezen lokální biokoridor (prvek ÚSES) přecházející přes ornou půdu soukromého vlastníka. K zajištění funkčnosti biokoridoru je potřeba změnit kultivaci (zatravnění, výsadba dřevin), s čímž vlastník nesouhlasí. Orgán ochrany přírody / pozemkový úřad iniciuje řešení. Důkazy: územně plánovací dokumentace s vymezeným ÚSES, plán ÚSES podle § 4 odst. 1, projekt realizace, nabídka výměnného pozemku ve vlastnictví státu.
+
+**2. Právní otázka.** Lze vlastníka přimět ke změně užívání pozemku pro ÚSES proti jeho vůli, nebo je nutné postupovat nabídkou výměny pozemku podle § 59 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 59 odst. 1 (dohoda jako primární nástroj), odst. 2 (nabídka výměny při nesouhlasu), odst. 3 (vyloučení ochrany ZPF).
+- *Související ustanovení téhož zákona:* § 4 odst. 1 (vymezení a hodnocení ÚSES), § 60 (vyvlastnění jako ultima ratio).
+- *Související předpisy:* zákon č. 139/2002 Sb., o pozemkových úpravách a pozemkových úřadech; zákon č. 334/1992 Sb. o ochraně ZPF (jehož ustanovení se podle odst. 3 neaplikují).
+- *Judikatura:* NSS 7 Aos 3/2013 (souhlas vlastníka se vyžaduje až ve fázi realizace záměru, nikoli při plánování ÚSES v ÚPD).
+
+**4. Subsumpce.** ÚSES je vymezen v ÚPD a plánu podle § 4 odst. 1 (naplněno). Realizace vyžaduje změnu užívání, s níž vlastník nesouhlasí (naplněno) → nastupuje povinnost nabídnout výměnu pozemku v přiměřené výměře a kvalitě, pokud možno v téže obci. Pouhé vymezení v ÚPD vlastníka přímo neomezuje (viz judikatura).
+
+**5. Řešení.** Pozemkový úřad nabídne vlastníku výměnu za státní pozemek; nedojde-li k dohodě ani výměně, je realizace ÚSES proti vůli vlastníka možná až cestou vyvlastnění podle § 60 (ultima ratio). Ochrana ZPF realizaci nebrání (odst. 3).
+
+**6. Varianty.** (a) Vlastník s opatřením souhlasí → uplatní se prostá dohoda podle odst. 1 bez výměny. (b) Spor je veden již ve fázi pořizování ÚPD → námitka je předčasná, neboť souhlas se vyžaduje až při realizaci (NSS 7 Aos 3/2013).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vymezení ÚSES v územním plánu je nepřípustným zásahem do vlastnictví bez souhlasu." Neutralizace: dle NSS 7 Aos 3/2013 jde ve fázi plánování pouze o regulaci, souhlas i výměna jsou aktuální až při realizaci konkrétních opatření.
+- *Protiargument:* „Nabídnutý výměnný pozemek není srovnatelný." Riziko reálné — kritérium „přiměřená výměra a kvalita … pokud možno v téže obci" je pružné; nutno doložit srovnatelnost (bonita, výměra, dostupnost).
+- *Slabé místo:* § 59 sám o sobě donucovací prostředek nedává; bez dohody či vyvlastnění podle § 60 zůstává realizace ÚSES blokována.
+
+#### H. Praktický závěr
+
+§ 59 staví realizaci ÚSES na dobrovolnosti a výměnném mechanismu; donucení je až přes § 60. Ochrana ZPF realizaci nebrání.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je prvek ÚSES vymezen v ÚPD a plánu podle § 4 odst. 1?
+- [ ] Vyžaduje realizace změnu užívání, s níž vlastník nesouhlasí?
+- [ ] Byla nabídnuta výměna pozemku v přiměřené výměře a kvalitě (odst. 2)?
+- [ ] Je spor ve fázi plánování, nebo realizace (relevance souhlasu)?
+- [ ] Není namítána ochrana ZPF, která se podle odst. 3 neuplatní?
+
+**Typicky rozhodné důkazy / podklady:** územně plánovací dokumentace s ÚSES, plán/projekt ÚSES, doklad o nabídce výměny, srovnání kvality pozemků, stanoviska pozemkového úřadu.
+
 ### § 60 — Vyvlastnění a obligatorní převod příslušnosti hospodařit s majetkem
 
 > **§ 60**
@@ -76,6 +150,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 > *(4) Podrobnosti postupu při převodech příslušnosti hospodařit s majetkem podle odstavce 3 upraví ministerstvo životního prostředí obecně závazným právním předpisem.*
 
 **Výklad:** Ultima ratio — vyvlastnění lze provést podle obecného předpisu (zákon č. 184/2006 Sb., o vyvlastnění) na návrh orgánu ochrany přírody. Praxe je velmi vzácná; primárně se užívají dohody, výkupy a předkupní právo státu podle § 61. Odst. 3 umožňuje **vnitrostátní reorganizaci** — pokud je nemovitost ve státním vlastnictví ve správě jiné organizační složky státu (např. Lesů ČR, SPÚ), může se převést na orgán ochrany přírody (AOPK, NPS) bezúplatně.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Klíčový mokřadní pozemek v národní přírodní rezervaci je ve vlastnictví soukromé osoby, která odmítá jakákoli managementová opatření a brání AOPK v péči. Dohoda ani výkup nejsou možné, předkupní právo se neuplatní (vlastník neprodává). Orgán ochrany přírody zvažuje vyvlastnění podle § 60. Souběžně řeší situaci, kdy je sousední pozemek ve správě Lesů ČR a má být převeden do správy AOPK. Důkazy: doklad o nezbytnosti pozemku pro ochranu rezervace, dokumentace neúspěšných jednání, podklady pro vyvlastňovací řízení.
+
+**2. Právní otázka.** Jsou splněny podmínky pro vyvlastnění nemovitosti za účelem ochrany přírody podle § 60 ve spojení se zákonem o vyvlastnění, a lze příslušnost hospodařit převést bezúplatně podle odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 60 odst. 1 a 2 (vyvlastnění na návrh orgánu ochrany přírody podle zvláštního předpisu), odst. 3 (převod příslušnosti hospodařit, zásadně bezúplatný).
+- *Související ustanovení téhož zákona:* § 61 (předkupní právo a výkup jako mírnější prostředky), § 58 (náhrada za omezení).
+- *Související předpisy:* zákon č. 184/2006 Sb., o vyvlastnění (podmínky účelu, subsidiarity, náhrady); zákon č. 219/2000 Sb., o majetku ČR (převody mezi složkami státu).
+- *Judikatura:* ÚS — obecná zásada subsidiarity vyvlastnění a proporcionality zásahu do vlastnictví (čl. 11 odst. 4 Listiny).
+
+**4. Subsumpce.** Účel ochrany přírody je dán (naplněno). Sporná je subsidiarita — vyvlastnit lze jen, nelze-li účelu dosáhnout dohodou, výkupem či předkupním právem (musí být doloženy neúspěšné pokusy). Převod příslušnosti hospodařit mezi složkami státu je bezúplatný, ledaže převádějící nabyl nemovitost úplatně (odst. 3).
+
+**5. Řešení.** Orgán ochrany přírody podá návrh na vyvlastnění teprve po prokazatelném vyčerpání dohodových a výkupních možností; řízení vede vyvlastňovací úřad podle zákona č. 184/2006 Sb. za náhradu. Vnitrostátní převod správy z Lesů ČR na AOPK proběhne bezúplatně podle odst. 3.
+
+**6. Varianty.** (a) Vlastník je ochoten prodat → uplatní se výkup/předkupní právo podle § 61, vyvlastnění odpadá. (b) Převádějící složka nabyla pozemek úplatně → převod příslušnosti hospodařit lze provést jen úplatně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vyvlastnění je nepřiměřené, postačí omezení podle § 66." Neutralizace: je-li trvalá péče nezbytná a vlastník trvale brání, mírnější prostředky selhávají; nutno však doložit jejich vyčerpání (subsidiarita).
+- *Protiargument:* „Účel ochrany přírody není ‚stanoven zvláštním předpisem' dostatečně určitě." Riziko reálné — § 60 odst. 1 odkazuje na případy stanovené zvláštním předpisem; nutné pečlivé podřazení pod zákonný účel vyvlastnění.
+- *Slabé místo:* vyvlastnění je v praxi velmi vzácné a procesně náročné; chybějící doklady o neúspěšnosti dohod řízení zmaří.
+
+#### H. Praktický závěr
+
+§ 60 je krajním prostředkem; v praxi se užívají dohody, výkupy a předkupní právo. Převody příslušnosti hospodařit mezi složkami státu jsou zásadně bezúplatné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán zákonný účel vyvlastnění (ochrana přírody dle zvláštního předpisu)?
+- [ ] Byla vyčerpána mírnější opatření (dohoda, výkup, § 61, § 66)?
+- [ ] Postupuje se podle zákona č. 184/2006 Sb. a na návrh orgánu ochrany přírody?
+- [ ] Jde o převod příslušnosti hospodařit mezi složkami státu (bezúplatnost dle odst. 3)?
+- [ ] Nabyl převádějící nemovitost úplatně (pak jen úplatný převod)?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace neúspěšných jednání o dohodě/výkupu, doklad o nezbytnosti pozemku pro cíl ochrany, znalecké ocenění pro náhradu, podklady o nabývacím titulu převádějícího.
 
 ### § 61 — Předkupní právo státu a financování výkupu pozemků
 
@@ -93,6 +204,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Odst. 4 je doktrinálně významný:** zákon stanoví **veřejnoprávní vyloučení jeskyní z věcného režimu** — jeskyně nejsou předmětem vlastnictví, nejsou součástí pozemku. To je výjimka z obecné zásady superficies solo cedit (§ 506 OZ). V praxi znamená, že vlastník pozemku, na němž se nachází jeskyně, nemůže s jeskyní disponovat ani z ní těžit užitky bez povolení orgánu ochrany přírody.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník nezastavěného lesního pozemku ležícího mimo zastavěné území v národním parku se rozhodne pozemek prodat developerovi za vysokou cenu. Aniž by pozemek nabídl státu, uzavře kupní smlouvu a podá návrh na vklad. AOPK se o prodeji dozví a namítá porušení zákonného předkupního práva státu. Důkazy: výpis z katastru s poznámkou předkupního práva, potvrzení MŽP o vzniku předkupního práva, kupní smlouva, doklad o (ne)nabídnutí pozemku státu.
+
+**2. Právní otázka.** Bylo dotčeno zákonné předkupní právo státu podle § 61 odst. 1, jaké jsou důsledky jeho obejití, a v jaké lhůtě musel stát zájem projevit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 61 odst. 1 (předkupní právo k nezastavěným pozemkům mimo zastavěné území v NP, NPR, NPP a u jeskyní; 60denní lhůta), odst. 2 (smlouvu uzavírá AOPK/NPS), odst. 3 (financování ze SFŽP), odst. 4 (jeskyně nejsou předmětem vlastnictví).
+- *Související ustanovení téhož zákona:* § 61b (zákaz zcizování státního majetku v ZCHÚ), § 78 odst. 1 a 2 (územní působnost AOPK/NPS).
+- *Související předpisy:* § 506, § 2140 a násl. OZ (předkupní právo, zásada superficies solo cedit, z níž § 61 odst. 4 činí výjimku); zákon č. 256/2013 Sb., katastrální.
+- *Judikatura:* obecné závěry o ochraně zákonného předkupního práva a důsledcích jeho porušení (relativní neúčinnost / možnost domáhat se převodu).
+
+**4. Subsumpce.** Pozemek je nezastavěný, mimo zastavěné území, v národním parku (znaky naplněny) → vzniká zákonné předkupní právo státu. Vlastník byl povinen nabídnout pozemek přednostně státu; neučinil-li tak, předkupní právo porušil. Stát měl 60 dnů od doručení nabídky na projevení zájmu (zde nabídka chybí).
+
+**5. Řešení.** Při porušení předkupního práva se stát může domáhat ochrany (zejména převodu pozemku na stát za podmínek smlouvy). Byla-li nabídka řádně učiněna a stát ve 60 dnech zájem neprojevil, může vlastník prodat třetí osobě. U jeskyně na pozemku platí, že není předmětem vlastnictví (odst. 4) — s ní vlastník disponovat nemůže.
+
+**6. Varianty.** (a) Pozemek leží v dotčeném území jen zčásti → předkupní právo se uplatní i tak (odst. 1). (b) Stát ve lhůtě 60 dnů zájem neprojeví → vlastník může prodej uskutečnit volně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Předkupní právo nebylo zapsáno v katastru, takže neexistuje." Neutralizace: předkupní právo vzniká ex lege z § 61 odst. 1; zápis (na základě potvrzení MŽP) má evidenční a publicitní funkci, nikoli konstitutivní pro vznik práva.
+- *Protiargument:* „Pozemek je jen okrajově v NP, právo se neuplatní." Riziko vyvráceno textem odst. 1 — právo platí, i když pozemek leží v území jen zčásti.
+- *Slabé místo:* sankce za porušení předkupního práva není v § 61 výslovně upravena; opírá se o obecnou úpravu OZ, což může vést ke sporu o povahu nároku státu.
+
+#### H. Praktický závěr
+
+§ 61 zakládá zákonné předkupní právo státu k nejcennějším nezastavěným pozemkům; vlastník je musí přednostně nabídnout státu a vyčkat 60 dnů. Jeskyně jsou z vlastnictví vyloučeny.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o nezastavěný pozemek mimo zastavěné území v NP/NPR/NPP nebo související s jeskyní?
+- [ ] Byl pozemek přednostně nabídnut státu (MŽP/orgánu ochrany přírody)?
+- [ ] Uplynula 60denní lhůta bez projevení zájmu státu?
+- [ ] Uzavírá smlouvu za stát AOPK nebo NPS podle § 78 odst. 1 a 2?
+- [ ] Nachází se na pozemku jeskyně (odst. 4 — vyloučení z vlastnictví)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z katastru, potvrzení MŽP o vzniku předkupního práva, doklad o nabídce a jejím doručení, kupní smlouva, vymezení hranic ZCHÚ.
+
 ### § 61a
 
 > **§ 61a**
@@ -102,6 +250,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 > *(2) Jde-li o nemovité věci podle § 1 zákona o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, které slouží zemědělskému hospodaření nebo rybníkářství, nepoužije se § 27 zákona o majetku České republiky a jejím vystupování v právních vztazích. Uživatelské vztahy k zemědělským pozemkům v příslušnosti hospodaření Agentury nebo správy národního parku vycházejí z podmínek a omezení pro jejich nájemce nebo pachtýře při jejich užívání nebo požívání vyplývajících z působnosti Agentury nebo správy národního parku podle tohoto zákona. Roční úplata za užívání nebo požívání pozemků v příslušnosti hospodaření Agentury nebo správy národního parku, které tvoří zemědělský půdní fond nebo do něj náleží, činí 2,2 % z ceny pozemku podle vyhlášky upravující průměrné základní ceny zemědělských pozemků, pokud se Agentura nebo správa národního parku s nájemcem nedohodnou jinak.*
 
 **Výklad:** Speciální úprava nakládání se státním majetkem ve správě AOPK/NPS, **odchylná od zákona č. 219/2000 Sb., o majetku ČR**. Umožňuje pronájem/výpůjčku zemědělských pozemků ve správě AOPK nebo NPS i bez výběrového řízení, je-li to v zájmu naplnění cílů ochrany přírody (typicky extenzivní pastva, kosení luk, údržba mokřadů). **Roční úplata 2,2 % z ceny** — fixní zákonná sazba, která se obvykle promítne do pachtovní smlouvy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** AOPK spravuje státní luční pozemky v chráněné krajinné oblasti, na nichž je z důvodu ochrany přírody nutná extenzivní pastva. Místní zemědělec má zájem pozemky pachtovat a zajistit pastvu skotu. AOPK uzavře pachtovní smlouvu bez výběrového řízení s odůvodněním naplnění cílů ochrany přírody a stanoví roční úplatu 2,2 % z ceny zemědělského pozemku. Důkazy: pachtovní smlouva s výslovně uvedeným způsobem a podmínkami užívání, doklad o zařazení pozemku do ZPF, výpočet úplaty podle vyhlášky o průměrných cenách.
+
+**2. Právní otázka.** Mohla AOPK přenechat státní zemědělský pozemek k pachtu mimo režim zákona o majetku ČR (§ 27 zákona č. 219/2000 Sb.) a je úplata 2,2 % stanovena správně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 61a odst. 1 (přenechání pozemku k užívání/požívání v zájmu ochrany přírody, nutnost výslovných podmínek ve smlouvě), odst. 2 (vyloučení § 27 zákona č. 219/2000 Sb. a sazba 2,2 %).
+- *Související ustanovení téhož zákona:* § 2 (zájmy ochrany přírody), § 68 a 69 (managementová opatření a příspěvky), § 78 odst. 1 a 2 (působnost AOPK/NPS).
+- *Související předpisy:* zákon č. 219/2000 Sb., o majetku ČR (jehož § 27 a omezení doby užívání se neaplikují); zákon č. 229/1991 Sb. (§ 1 — zemědělský majetek); vyhláška o průměrných základních cenách zemědělských pozemků.
+- *Judikatura:* obecné zásady hospodárného nakládání s majetkem státu; přednost lex specialis ZOPK před obecnou úpravou.
+
+**4. Subsumpce.** Pozemek slouží k zajištění zájmů ochrany přírody podle § 2 (naplněno), přenechání povede k obnově/zachování příznivého stavu (naplněno), smlouva výslovně uvádí způsob a podmínky užívání (musí být splněno). Jde o zemědělský pozemek v ZPF → úplata 2,2 % z ceny podle vyhlášky, nedohodnou-li se strany jinak.
+
+**5. Řešení.** AOPK může pacht uzavřít mimo obecný režim zákona o majetku ČR; nepoužije se § 27 ani omezení doby užívání. Roční úplata činí 2,2 % z ceny zemědělského pozemku, nebude-li dohodnuto jinak. Předběžný souhlas k nakládání s lesy ve vlastnictví státu zůstává dotčen u lesních pozemků.
+
+**6. Varianty.** (a) Jde o lesní pozemek → nutno respektovat předběžný souhlas podle zvláštního předpisu (odst. 1 věta třetí). (b) Strany se dohodnou na jiné úplatě → sazba 2,2 % se neuplatní (odst. 2 in fine).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Přenechání bez výběrového řízení je netransparentní a v rozporu s péčí o majetek státu." Neutralizace: § 61a je lex specialis, který výslovně vylučuje § 27 zákona č. 219/2000 Sb., je-li to v zájmu naplnění cílů ochrany přírody — to je však třeba ve smlouvě doložit.
+- *Protiargument:* „Smlouva neobsahuje konkrétní podmínky užívání." Riziko reálné — odst. 1 vyžaduje výslovné uvedení způsobu a podmínek; jejich absence zpochybňuje, zda přenechání skutečně slouží ochraně přírody.
+- *Slabé místo:* odchylná dohoda o úplatě (jiná než 2,2 %) musí být odůvodněna, aby nešlo o nehospodárné nakládání s majetkem státu.
+
+#### H. Praktický závěr
+
+§ 61a umožňuje AOPK/NPS pružně přenechat státní pozemky k užívání pro účely ochrany přírody mimo obecný režim zákona o majetku ČR; klíčem je výslovné vymezení podmínek a správná úplata.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Slouží pozemek k zajištění zájmů ochrany přírody podle § 2 a povede přenechání k příznivému stavu?
+- [ ] Jsou ve smlouvě výslovně uvedeny způsob a podmínky užívání/požívání?
+- [ ] Jde o zemědělský pozemek v ZPF (sazba 2,2 %), nebo se strany dohodly jinak?
+- [ ] U lesa: byl zajištěn předběžný souhlas k nakládání s lesy ve vlastnictví státu?
+- [ ] Je vyloučení § 27 zákona č. 219/2000 Sb. doloženo zájmem ochrany přírody?
+
+**Typicky rozhodné důkazy / podklady:** pachtovní/nájemní smlouva s podmínkami, doklad o zařazení do ZPF, výpočet úplaty podle vyhlášky, odůvodnění souladu s cíli ochrany přírody, případný předběžný souhlas u lesů.
 
 ### § 61b — Zcizování pozemků a staveb ve vlastnictví státu ve zvláště chráněných územích
 
@@ -143,6 +328,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Výklad:** Razantní **zákaz zcizování státního majetku v nejcennějších ZCHÚ** (NP, NPR, NPP) — chrání před privatizací klíčových přírodních lokalit. Sankcí je **absolutní neplatnost** (soud k ní přihlédne i bez návrhu). Výjimky (odst. 2) jsou taxativní — zastavěné stavební pozemky, směny v zájmu ochrany přírody, silniční pozemky převáděné na kraje/obce, pozemky v pozemkových úpravách. K převodům ve výjimkách (odst. 2 a 4) je nutné **souhlasné stanovisko MŽP**, které **není správním rozhodnutím** (odst. 6: nevztahuje se na něj správní řád, nepodléhá soudnímu přezkumu) — je to **závazné stanovisko sui generis**, podmínka platnosti právního jednání. Toto vyloučení správního a soudního přezkumu je výjimečné; v praxi řešeno případnou kontrolou hospodárnosti NKÚ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Organizační složka státu chce úplatně převést státní pozemek ležící v národní přírodní rezervaci na soukromou osobu. Strany uzavřou kupní smlouvu a podají návrh na vklad bez souhlasného stanoviska MŽP. Katastrální úřad / soud následně řeší platnost převodu. V jiné variantě jde o směnu pozemků odůvodněnou cíli ochrany přírody, k níž MŽP souhlas vydá. Důkazy: kupní/směnná smlouva, vymezení ZCHÚ, (ne)existence souhlasného stanoviska MŽP, doklad o povaze pozemku (zastavěný/nezastavěný, spoluvlastnický podíl, předmět pozemkových úprav).
+
+**2. Právní otázka.** Je převod státního pozemku v NPR platný bez souhlasného stanoviska MŽP, nebo jde o jednání zakázané podle § 61b odst. 1 stižené absolutní neplatností?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 61b odst. 1 (zákaz zcizení v NP/NPR/NPP, absolutní neplatnost, k níž soud přihlíží i bez návrhu), odst. 2 (taxativní výjimky), odst. 3 a 4 (nutnost souhlasného stanoviska MŽP), odst. 6 (stanovisko jako podmínka platnosti, vyloučení správního řádu i soudního přezkumu).
+- *Související ustanovení téhož zákona:* § 61 (předkupní právo), § 78 (působnost AOPK/NPS), § 14–18 (kategorie ZCHÚ).
+- *Související předpisy:* § 588 OZ (absolutní neplatnost pro rozpor se zákonem na ochranu veřejného pořádku); zákon č. 219/2000 Sb. (rozhodnutí o trvalé nepotřebnosti); zákon o pozemkových úpravách.
+- *Judikatura:* obecné závěry o absolutní neplatnosti právních jednání odporujících kogentnímu veřejnoprávnímu zákazu; o povaze stanovisek vyloučených ze soudního přezkumu.
+
+**4. Subsumpce.** Pozemek je ve vlastnictví státu a leží v NPR (znaky naplněny) → platí zákaz zcizení podle odst. 1. Nejde-li o žádnou z výjimek odst. 2, je převod absolutně neplatný. Spadá-li pod výjimku (např. směna podle písm. c), je platnost vázána na souhlasné stanovisko MŽP (odst. 3, 6).
+
+**5. Řešení.** Převod v NPR mimo výjimky je absolutně neplatný; soud k tomu přihlédne i bez návrhu, katastrální úřad vklad neprovede. U výjimky (směna v zájmu ochrany přírody) je nutné předem získat souhlasné stanovisko MŽP — bez něj je jednání neplatné (odst. 6). Stanovisko se nepřezkoumává soudem.
+
+**6. Varianty.** (a) Jde o zastavěný stavební pozemek se stavbou zapsanou v katastru → výjimka podle odst. 2 písm. a), převod možný se souhlasem MŽP. (b) Pozemek je předmětem řízení o pozemkových úpravách → výjimka podle odst. 2 písm. g), souhlas se nevyžaduje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Strany byly v dobré víře, neplatnost je nepřiměřená." Neutralizace: jde o kogentní zákaz na ochranu veřejného zájmu; dobrá víra absolutní neplatnost nezhojí, soud k ní přihlíží z úřední povinnosti.
+- *Protiargument:* „Souhlasné stanovisko MŽP je nepřezkoumatelné, což je protiústavní." Riziko diskuse — odst. 6 výslovně vylučuje správní řád i soudní přezkum; obrana proti svévoli je omezena na vnitřní a kontrolní mechanismy (NKÚ), nikoli na správní žalobu.
+- *Slabé místo:* posouzení, zda pozemek je „potřebný pro naplňování cílů ochrany" (odst. 6), je do značné míry diskreční a obtížně přezkoumatelné.
+
+#### H. Praktický závěr
+
+§ 61b zakazuje zcizování státního majetku v NP/NPR/NPP pod sankcí absolutní neplatnosti; výjimky vyžadují souhlasné stanovisko MŽP, které není správním rozhodnutím a nepodléhá soudnímu přezkumu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Leží pozemek/stavba ve vlastnictví státu v NP, NPR nebo NPP (byť jen zčásti)?
+- [ ] Spadá převod do některé taxativní výjimky podle odst. 2?
+- [ ] Bylo získáno souhlasné stanovisko MŽP (odst. 3, 4), je-li vyžadováno?
+- [ ] Nejde o pozemek potřebný pro naplňování cílů ochrany (odst. 6)?
+- [ ] Je si strana vědoma vyloučení správního a soudního přezkumu stanoviska?
+
+**Typicky rozhodné důkazy / podklady:** převodní smlouva, vymezení hranic ZCHÚ, souhlasné stanovisko MŽP, doklad o povaze pozemku (zastavěnost, podíl, pozemkové úpravy), rozhodnutí o trvalé nepotřebnosti dle zákona o majetku ČR.
+
 ### § 62 — Vstup na pozemky
 
 > **§ 62**
@@ -159,6 +381,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 - *NSS* [3 As 1/2011 - 70](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/621096) — 7. 4. 2011
   > „Z § 62 zákona č. 114/1992 Sb. ostatně předpoklad účasti dotčené osoby, popř. jiné oprávněné osoby, přímo vyplývá, je-li realizace práva vstupu na pozemek vázána na povinnost prokázat se služebním průkazem; a contrario osoby, které se služebním průkazem neprokáží, nemají právo vstupu na pozemek. … Uvedené ustanovení je zákonným průlomem do ústavní zásady nedotknutelnosti vlastnictví; upravuje pouze oprávnění a jeho rozsah pracovníka správního orgánu vstupovat na cizí pozemek"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pracovník správy CHKO potřebuje vstoupit na oplocený soukromý pozemek, aby zdokumentoval výskyt zvláště chráněného druhu a provedl měření. Vlastník mu vstup odmítá umožnit. Pracovník se prokáže služebním průkazem a na pozemek vstoupí; při tom dojde k drobnému poškození porostu. Vlastník požaduje náhradu škody. Důkazy: služební průkaz, protokol o vstupu a provedených úkonech, dokumentace stavu pozemku před a po, vyčíslení škody.
+
+**2. Právní otázka.** Byl pracovník oprávněn vstoupit na cizí pozemek bez souhlasu vlastníka a kdo odpovídá za vzniklou škodu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 62 odst. 1 (právo vstupu při prokázání se služebním průkazem, povinnost šetřit práva vlastníka), odst. 2 (objektivní odpovědnost státu za škodu, nelze se jí zprostit), odst. 3 (zvláštní režim u objektů ozbrojených sil).
+- *Související ustanovení téhož zákona:* § 87 odst. 1 písm. d) a § 88 odst. 1 písm. g) (přestupek za znemožnění vstupu), § 78a (vojenské újezdy), § 68 odst. 4 (vstup při zásazích).
+- *Související předpisy:* čl. 11 odst. 4 a čl. 12 Listiny (omezení vlastnictví, nedotknutelnost obydlí — vstup se týká pozemků, nikoli obydlí); zákon č. 82/1998 Sb. (odpovědnost státu — subsidiárně).
+- *Judikatura:* NSS 3 As 1/2011 (vstup je zákonným průlomem do nedotknutelnosti vlastnictví, vázaným na prokázání se služebním průkazem; bez něj právo vstupu není).
+
+**4. Subsumpce.** Pracovník je z orgánu ochrany přírody (znak naplněn), prokázal se služebním průkazem (naplněno), vstup je v nezbytném případě při plnění úkolů ZOPK (naplněno). Tím vzniká zákonný titul ke vstupu. Škoda způsobená při výkonu této činnosti zakládá objektivní odpovědnost státu (odst. 2).
+
+**5. Řešení.** Vstup byl oprávněný; vlastník byl povinen jej strpět. Za poškození porostu odpovídá stát bez možnosti zproštění — vlastník má nárok na náhradu škody vůči státu (orgánu ochrany přírody). Znemožnění vstupu vlastníkem by mohlo být přestupkem.
+
+**6. Varianty.** (a) Pracovník se neprokáže služebním průkazem → nemá právo vstupu (a contrario dle NSS 3 As 1/2011), vlastník vstup strpět nemusí. (b) Jde o objekt užívaný ozbrojenými silami → vstup se řídí zvláštními předpisy (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vstup na oplocený pozemek je porušením nedotknutelnosti obydlí." Neutralizace: ochrana podle čl. 12 Listiny se týká obydlí, nikoli zemědělských/lesních pozemků; § 62 je ústavně konformní zákonné omezení vlastnictví podle čl. 11 odst. 4.
+- *Protiargument:* „Stát se odpovědnosti zprostí, protože jednal v souladu se zákonem." Riziko vyvráceno odst. 2 — odpovědnosti se stát nemůže zprostit; jde o objektivní odpovědnost bez liberace.
+- *Slabé místo:* podmínka „nezbytných případů" a povinnost co nejvíce šetřit práva vlastníka jsou neurčité; nadměrný či nešetrný vstup může založit odpovědnost i překročení pravomoci.
+
+#### H. Praktický závěr
+
+§ 62 dává pracovníkům orgánů ochrany přírody zákonný titul ke vstupu na cizí pozemky po prokázání se služebním průkazem; stát objektivně odpovídá za způsobenou škodu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Prokázal se pracovník služebním průkazem (podmínka oprávnění)?
+- [ ] Šlo o nezbytný případ při plnění úkolů podle ZOPK?
+- [ ] Byla dodržena povinnost co nejvíce šetřit pozemek a práva vlastníka?
+- [ ] Vznikla škoda → uplatnit objektivní odpovědnost státu (odst. 2)?
+- [ ] Nejde o objekt ozbrojených sil/sborů (zvláštní režim dle odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** služební průkaz, protokol o vstupu a úkonech, fotodokumentace stavu pozemku, vyčíslení a doložení škody, doklad o účelu vstupu (plnění úkolu ZOPK).
 
 ### § 63 — Přístup do krajiny
 
@@ -183,6 +442,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *ÚS* [II.ÚS 338/03](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-338-03) — usnesení, 14. 10. 2004
   > „Jestliže zákon na jiných místech stanoví naprosto konkrétní omezení vlastnického práva (např. zákonné věcné břemeno volného průchodu krajinou dle § 63 odst. 2 zákona č. 114/1992 Sb.), nelze v situaci, kdy zákon konkrétní omezení výslovně nestanoví, dovozovat zákonnou možnost bezplatně užívat cizí pozemek. Opačný postoj by byl nepatřičně extenzivním výkladem veřejného práva, jehož povaha sama o sobě rozšiřující výklad v zásadě nepřipouští"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec ve vlastnictví louky mimo zastavěné území ji oplotí pevným plotem bez jakéhokoli průchodu, čímž znemožní turistům tradiční přechod ke skalní vyhlídce. Turistický spolek namítá porušení práva volného průchodu krajinou. V jiné variantě soukromá fyzická osoba oplotí svůj pozemek — zde právo průchodu nesvědčí. Důkazy: doklad o vlastnictví pozemku (stát/obec/PO vs. FO), charakter pozemku (louka, pastvina, orná půda), fotodokumentace oplocení, doklad o tradiční stezce.
+
+**2. Právní otázka.** Vztahuje se na daný pozemek právo volného průchodu podle § 63 odst. 2 a byl vlastník povinen při oplocení zajistit průchod podle odst. 4?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 63 odst. 2 (právo volného průchodu přes pozemky státu, obce nebo PO), odst. 3 (vyloučené pozemky a sezónní omezení), odst. 4 (povinnost zajistit průchod při oplocení), odst. 5 (vlastní odpovědnost návštěvníka, vyloučení odpovědnosti vlastníka za přírodní síly).
+- *Související ustanovení téhož zákona:* § 63 odst. 1 (zřizování/rušení cest se souhlasem orgánu ochrany přírody), § 64 (omezení vstupu z důvodu ochrany), § 71 odst. 5 (přehled cest vedený obcí).
+- *Související předpisy:* čl. 11 odst. 4 Listiny; § 1029 a násl. OZ (nezbytná cesta — odlišný institut).
+- *Judikatura:* ÚS II.ÚS 338/03 (právo volného průchodu jako zákonné věcné břemeno dle § 63 odst. 2; veřejné právo nepřipouští extenzivní výklad nad rámec výslovných omezení).
+
+**4. Subsumpce.** Pozemek je ve vlastnictví obce (znak naplněn — právo průchodu svědčí), jde o louku, jež není trvale vyloučena podle odst. 3 (s výhradou sezónního omezení v době hrozby poškození). Vlastník oplotil pozemek → vznikla mu povinnost podle odst. 4 zajistit volný průchod na vhodném místě. Absence průchodu odst. 4 porušuje.
+
+**5. Řešení.** Obec je povinna zřídit na vhodném místě technické řešení průchodu (branka, schůdky). Sezónně lze průchod přes louku omezit jen v době hrozby poškození porostu. Za případné úrazy návštěvníků způsobené přírodními silami obec neodpovídá (odst. 5).
+
+**6. Varianty.** (a) Pozemek je ve vlastnictví soukromé fyzické osoby → právo volného průchodu podle odst. 2 nesvědčí. (b) Jde o vinici, sad nebo zahradu → pozemek je z práva průchodu trvale vyloučen (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Oplocení je výkon vlastnického práva, který nelze omezit." Neutralizace: odst. 4 výslovně ukládá při oplocování pozemků nevyloučených z průchodu zajistit volný průchod; jde o zákonné omezení podle čl. 11 odst. 4 Listiny.
+- *Protiargument:* „Návštěvníci mohou žalovat vlastníka za úraz na pozemku." Riziko vyvráceno odst. 5 — vlastník neodpovídá za škody z přírodních sil ani z vlastního zavinění návštěvníka.
+- *Slabé místo:* pojem „vhodné místo" pro průchod je neurčitý; spor o jeho umístění a o sezónní rozsah omezení u luk/pastvin.
+
+#### H. Praktický závěr
+
+§ 63 zakládá právo volného průchodu přes pozemky státu, obcí a PO mimo intenzivně využívané plochy; vlastník je musí při oplocení zpřístupnit, ale neodpovídá za úrazy z přírodních sil.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je pozemek ve vlastnictví/nájmu státu, obce nebo PO (ne FO)?
+- [ ] Nejde o pozemek trvale vyloučený podle odst. 3 (zahrada, sad, vinice, dvůr…)?
+- [ ] Nebrání průchodu sezónní omezení (orná půda, louky, pastviny v době poškození)?
+- [ ] Zajistil vlastník při oplocení volný průchod na vhodném místě (odst. 4)?
+- [ ] Uplatní se vyloučení odpovědnosti vlastníka za přírodní síly (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z katastru (vlastník, druh pozemku), fotodokumentace oplocení a stezky, přehled cest vedený obcí (§ 71 odst. 5), doklad o sezónním stavu porostu.
+
 ### § 64 — Omezení vstupu z důvodu ochrany přírody
 
 > **§ 64**
@@ -196,6 +492,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *NSS* [63 A 15/2024 - 129](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745867) — 17. 9. 2025
   > „To, že akt vydaný podle § 64 ZOPK představuje svou povahou opatření obecné povahy deklaroval Nejvyšší správní soud v již uvedeném rozsudku ze dne 15. 12. 2010, č. j. 7 Ao 6/2010-44"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V první zóně CHKO se nachází skalní soutěska, kde nadměrná návštěvnost v jarních měsících ruší hnízdění zvláště chráněného druhu ptáka a způsobuje erozi. Správa CHKO po projednání s dotčenými obcemi vydá opatření obecné povahy, jímž na dobu od 1. 3. do 30. 6. zakáže vstup veřejnosti do vymezené části soutěsky a zákaz vyznačí na přístupových cestách. Provozovatel turistických služeb napadá OOP návrhem na zrušení. Důkazy: podklady o hrozbě poškození (ornitologický průzkum, dokumentace eroze), záznam o projednání s obcemi, mapa vymezení, doklad o vyznačení v terénu.
+
+**2. Právní otázka.** Byly splněny podmínky pro omezení/zákaz přístupu veřejnosti opatřením obecné povahy podle § 64 a je OOP zákonné a proporcionální?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 64 (omezení/zákaz přístupu při hrozbě poškození území v NP, NPR, NPP, I. zóně CHKO nebo jeskyně, zejména nadměrnou návštěvností; forma OOP po projednání s obcemi; povinnost vyznačení v terénu).
+- *Související ustanovení téhož zákona:* § 63 (právo volného průchodu, jehož je § 64 výjimkou), § 71 odst. 4 (postavení obcí jako dotčeného orgánu), § 66 (omezení činnosti).
+- *Související předpisy:* § 171 a násl. správního řádu (OOP); § 101a a násl. soudního řádu správního (přezkum OOP).
+- *Judikatura:* NSS 63 A 15/2024 (akt podle § 64 ZOPK je opatřením obecné povahy); NSS 7 Ao 6/2010 (tamtéž deklarováno).
+
+**4. Subsumpce.** Území je v I. zóně CHKO (znak naplněn), hrozí poškození nadměrnou návštěvností (musí být doloženo průzkumem), opatření bylo projednáno s dotčenými obcemi (naplněno) a vyznačeno na přístupových cestách (naplněno). Forma OOP je správná dle judikatury.
+
+**5. Řešení.** OOP je zákonné, je-li hrozba poškození doložena a opatření proporcionální (omezeno na nezbytný rozsah a dobu). Přezkum probíhá v režimu § 101a SŘS — soud zkoumá pravomoc, zákonnost postupu, soulad s hmotným právem a proporcionalitu. Při řádném odůvodnění OOP obstojí.
+
+**6. Varianty.** (a) Území je v II. zóně CHKO (nikoli I.) → § 64 se neuplatní, nutno volit jiný nástroj. (b) Opatření nebylo vyznačeno v terénu → vada zákonnosti, vůči adresátům neúčinné/nevymahatelné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zákaz vstupu je nepřiměřeným zásahem do práva volného průchodu a podnikání." Neutralizace: § 64 je speciální zákonnou výjimkou z § 63; při doložené hrozbě poškození a omezení na nezbytný rozsah a dobu obstojí test proporcionality.
+- *Protiargument:* „Hrozba poškození je jen hypotetická." Riziko reálné — bez odborných podkladů (ornitologie, eroze) může soud OOP zrušit pro nedostatek skutkových zjištění.
+- *Slabé místo:* projednání s dotčenými obcemi a řádné vyznačení v terénu jsou formální podmínky, jejichž opomenutí zakládá nezákonnost.
+
+#### H. Praktický závěr
+
+§ 64 umožňuje opatřením obecné povahy omezit či zakázat přístup veřejnosti do nejcennějších území při hrozbě poškození; klíčem je doložená hrozba, projednání s obcemi, vyznačení v terénu a proporcionalita.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o NP, NPR, NPP, I. zónu CHKO nebo jeskyni?
+- [ ] Je doložena hrozba poškození (zejména nadměrnou návštěvností)?
+- [ ] Bylo opatření projednáno s dotčenými obcemi?
+- [ ] Je zákaz/omezení vyznačen na všech přístupových cestách a v terénu?
+- [ ] Je rozsah a doba omezení proporcionální (přezkum dle § 101a SŘS)?
+
+**Typicky rozhodné důkazy / podklady:** odborné podklady o hrozbě (ornitologický/botanický průzkum, dokumentace eroze), záznam o projednání s obcemi, mapa vymezení, fotodokumentace vyznačení v terénu, text OOP s odůvodněním.
+
 ### § 65 — Dotčení zájmů ochrany přírody
 
 > **§ 65**
@@ -208,6 +541,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 - *NSS* [6 A 120/2016 - 93](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/415510) — 29. 7. 2020
   > „Naopak pokud Drážní úřad chce přijmout příslušná opatření v odstranění zdroje ohrožení dráhy dle § 10 odst. 1 zákona o drahách, musí postupovat v dohodě s příslušným orgánem ochrany přírody, jak předpokládá § 65 zákona č. 114/1992 Sb., jelikož v zákoně o drahách ani jinde není výslovně stanoveno jinak. Nejedná se zde o závazné stanovisko ve smyslu § 149 správního řádu, kdy je Drážní úřad povinen řídit se příslušným stanoviskem orgánu ochrany přírody, ale o dotčený správní orgán dle § 136 správního řádu"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Drážní úřad hodlá podle zákona o drahách nařídit odstranění stromů v ochranném pásmu dráhy, které ovšem rostou v lokalitě s výskytem chráněných druhů. Drážní úřad vydá rozhodnutí, aniž by je projednal s orgánem ochrany přírody. Orgán ochrany přírody namítá porušení § 65. Důkazy: rozhodnutí Drážního úřadu, doklad o dotčení zájmů ochrany přírody, korespondence o (ne)projednání s orgánem ochrany přírody.
+
+**2. Právní otázka.** Byl Drážní úřad povinen rozhodovat „v dohodě" s orgánem ochrany přírody podle § 65, a jakou procesní formu tato dohoda má?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 65 (orgán státní správy rozhoduje podle zvláštních předpisů, jimiž mohou být dotčeny zájmy ZOPK, jen po dohodě s orgánem ochrany přírody, není-li předepsán jiný postup).
+- *Související ustanovení téhož zákona:* § 4 a násl. (chráněné zájmy), § 90 (společná ustanovení), § 77 a 78 (působnost orgánů).
+- *Související předpisy:* § 136 správního řádu (dotčený orgán) vs. § 149 správního řádu (závazné stanovisko); zákon č. 266/1994 Sb., o dráhách; po novele 2024 jednotné environmentální stanovisko (JES).
+- *Judikatura:* NSS 6 A 120/2016 (Drážní úřad musí postupovat v dohodě s orgánem ochrany přírody dle § 65; nejde o závazné stanovisko podle § 149 SŘ, nýbrž o dotčený správní orgán dle § 136 SŘ).
+
+**4. Subsumpce.** Drážní úřad rozhoduje podle zvláštního předpisu (zákon o drahách — naplněno), jeho rozhodnutím mohou být dotčeny zájmy ZOPK (naplněno), zvláštní zákon nepředepisuje jiný postup (naplněno) → vzniká povinnost rozhodovat v dohodě s orgánem ochrany přírody. Forma: dotčený orgán podle § 136 SŘ (dle judikatury), nikoli závazné stanovisko § 149.
+
+**5. Řešení.** Rozhodnutí vydané bez dohody (součinnosti) s orgánem ochrany přírody je zatíženo procesní vadou pro nedostatek součinnosti dotčených orgánů. Drážní úřad musí orgán ochrany přírody zapojit; výsledek dohody se promítne do rozhodnutí. Po novele řadu těchto situací řeší JES.
+
+**6. Varianty.** (a) Zvláštní zákon předepisuje jiný postup (např. výslovně závazné stanovisko) → § 65 se neuplatní (klauzule „není-li předepsán jiný postup"). (b) Věc spadá do režimu JES → koordinace probíhá v rámci jednotného stanoviska.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stanovisko orgánu ochrany přírody je pro Drážní úřad závazné jako podle § 149 SŘ." Neutralizace: dle NSS 6 A 120/2016 jde o dotčený orgán podle § 136 SŘ, nikoli o závazné stanovisko — Drážní úřad jím není bez dalšího vázán, musí však zajistit součinnost a vypořádat se s ním.
+- *Protiargument:* „Dohoda je jen formalitou bez vlivu na výsledek." Riziko vyvráceno — absence součinnosti je samostatnou procesní vadou způsobilou vést ke zrušení rozhodnutí.
+- *Slabé místo:* rozlišení mezi „dohodou" podle § 65, závazným stanoviskem podle § 149 SŘ a JES je v praxi nejednoznačné a vyžaduje analýzu konkrétního zvláštního zákona.
+
+#### H. Praktický závěr
+
+§ 65 je koordinační klauzule: orgány jiných úseků musí při dotčení zájmů ochrany přírody rozhodovat v dohodě s orgánem ochrany přírody, nestanoví-li zvláštní zákon jiný postup; forma závisí na povaze úpravy (dotčený orgán, závazné stanovisko, JES).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozhoduje orgán podle zvláštního předpisu o věci dotýkající se zájmů ZOPK?
+- [ ] Nepředepisuje zvláštní zákon jiný postup (vylučující § 65)?
+- [ ] Byla zajištěna dohoda/součinnost s orgánem ochrany přírody?
+- [ ] Jde o dotčený orgán (§ 136 SŘ), závazné stanovisko (§ 149 SŘ), nebo JES?
+- [ ] Je výsledek součinnosti promítnut a vypořádán v odůvodnění rozhodnutí?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí orgánu jiného úseku, doklad o dotčení zájmů ochrany přírody, korespondence/záznam o součinnosti, stanovisko orgánu ochrany přírody, případně JES.
 
 ### § 66 — Omezení a zákaz činnosti
 
@@ -232,6 +602,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *NSS* [9 Ca 300/2009 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/552776) — 25. 3. 2013
   > „Podle citovaného zákonného ustanovení § 66 zákona č. 114/1992 Sb. lze omezit či uložit zákaz činnosti za následujících podmínek: 1) existence hrozby, že by činnost mohla způsobit změnu přírody, 2) tato změna musí být nedovolená 3) tato změna se musí týkat obecně nebo zvláště chráněných částí přírody"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zemědělec zahájí na pozemku sousedícím s významným krajinným prvkem (mokřadem) odvodňovací práce a navážku, které hrozí narušením vodního režimu mokřadu. Orgán ochrany přírody zahájí řízení podle § 66 a rozhodnutím stanoví podmínky (zákaz navážky, omezení odvodnění) s tím, že odvolání nemá odkladný účinek. Zemědělec se odvolá a namítá, že činnost je povolena vodoprávním úřadem. Důkazy: dokumentace hrozby (hydrogeologické posouzení, fotodokumentace), vymezení VKP, rozhodnutí orgánu ochrany přírody, případné kolidující rozhodnutí jiného úřadu.
+
+**2. Právní otázka.** Jsou splněny podmínky pro omezení/zákaz činnosti podle § 66 a brání tomu existence povolení vydaného jiným orgánem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 66 odst. 1 (stanovení podmínek nebo zákaz činnosti hrozící nedovolenou změnou chráněných částí přírody), odst. 2 (nelze uplatnit proti již vydanému pravomocnému rozhodnutí), odst. 3 (zákaz ohňostrojů/pyrotechniky).
+- *Související ustanovení téhož zákona:* § 90 odst. 1 (vyloučení odkladného účinku odvolání), § 84 (změna/zrušení rozhodnutí), § 4 a § 3 (obecně a zvláště chráněné části přírody, VKP), § 65 (součinnost orgánů).
+- *Související předpisy:* zásada prevence a předběžné opatrnosti (§ 13 zákona č. 17/1992 Sb.); správní řád.
+- *Judikatura:* NSS 6 A 205/2013 (§ 66 jako projev zásad prevence a předběžné opatrnosti); NSS 11 A 141/2012 (rozhodným kritériem je hrozba nežádoucích změn bez ohledu na to, zda je činnost zakázaná, povolená či nařízená jiným orgánem; kolize se řeší součinností); NSS 9 Ca 300/2009 (tři podmínky: hrozba změny, její nedovolenost, dotčení chráněných částí přírody).
+
+**4. Subsumpce.** Existuje hrozba změny (odvodnění mokřadu — musí být doložena), změna je nedovolená (zásah do VKP bez souhlasu — naplněno), týká se obecně chráněné části přírody/VKP (naplněno). Tři podmínky dle NSS 9 Ca 300/2009 splněny. Existence povolení jiného úřadu sama o sobě § 66 nevylučuje (NSS 11 A 141/2012), ledaže jde o pravomocné rozhodnutí ve smyslu odst. 2.
+
+**5. Řešení.** Orgán ochrany přírody může činnost omezit/zakázat; rozhodnutí je okamžitě vykonatelné (odvolání bez odkladného účinku, § 90 odst. 1). Kolizi s povolením jiného orgánu řeší zásada součinnosti správních orgánů (§ 65), nikoli automatická přednost staršího povolení. Odst. 2 chrání jen již vydané pravomocné rozhodnutí o téže věci.
+
+**6. Varianty.** (a) Na tutéž činnost již existuje pravomocné rozhodnutí orgánu ochrany přírody → § 66 nelze uplatnit (odst. 2), nutno postupovat podle § 84. (b) Jde o ohňostroj v ZCHÚ/EVL/PO → uplatní se speciální zákaz podle odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Činnost je povolena jiným úřadem, orgán ochrany přírody ji zakázat nesmí." Neutralizace: dle NSS 11 A 141/2012 je rozhodující hrozba nežádoucí změny bez ohledu na povolení jiným orgánem; ochrana odst. 2 svědčí jen pravomocnému rozhodnutí o téže otázce.
+- *Protiargument:* „Hrozba změny není prokázána, jde o spekulaci." Riziko reálné — nutno doložit reálnou hrozbu (odborný posudek); zásada předběžné opatrnosti nezbavuje povinnosti skutkového zjištění.
+- *Slabé místo:* vyloučení odkladného účinku činí rozhodnutí citlivým na řádné odůvodnění proporcionality; nešetrný zákaz může být zrušen.
+
+#### H. Praktický závěr
+
+§ 66 je ústřední preventivně-represivní nástroj: orgán ochrany přírody může stanovit podmínky nebo zakázat činnost hrozící nedovolenou změnou přírody; rozhodnutí je okamžitě vykonatelné, kolize s jinými orgány se řeší součinností.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje hrozba změny chráněných částí přírody (doloženo odborně)?
+- [ ] Je tato změna nedovolená a dotýká se obecně/zvláště chráněných částí?
+- [ ] Nebrání uplatnění § 66 již vydané pravomocné rozhodnutí (odst. 2)?
+- [ ] Je řešena kolize s povolením jiného orgánu cestou součinnosti (§ 65)?
+- [ ] Je rozhodnutí řádně odůvodněno (odvolání bez odkladného účinku, § 90 odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** odborné posouzení hrozby (hydrogeologie, biologie), vymezení chráněné části/VKP, fotodokumentace zásahu, případná kolidující rozhodnutí jiných orgánů, doklad o součinnosti.
+
 ### HLAVA DRUHÁ
 
 ### § 67 — Povinnosti investorů
@@ -247,6 +654,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 > *(4) Vyplyne-li z tohoto zákona, z jiných právních předpisů nebo z výsledku hodnocení podle odstavce 1 potřeba zajištění přiměřených opatření k vyloučení nebo zmírnění negativních vlivů zamýšleného zásahu nebo náhradních opatření, je investor povinen tato opatření realizovat na svůj náklad.*
 
 **Výklad:** **„Biologické hodnocení"** — povinnost investora na vlastní náklad zajistit posouzení vlivu na zájmy ZOPK ještě před povolovacím řízením. Provádí se podle vyhlášky č. 142/2018 Sb. (resp. starší 395/1992 Sb.) odborně způsobilou osobou. Vztahuje se k částem II, III a V (obecná, územní a druhová ochrana). **Není totožné** s naturovým posouzením podle § 45i (které je pro EVL/PO a vychází z přílohy 92/43/EHS). Hodnocení podle § 67 je **podkladem rozhodnutí** orgánu OP; principem **„polluter pays"** — náklady nese investor.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor zamýšlí výstavbu logistického areálu na louce, která je biotopem zvláště chráněných druhů a součástí významného krajinného prvku. Jde o závažný zásah dotýkající se zájmů chráněných částmi II, III a V zákona. Investor nezajistí biologické hodnocení a podá žádost o souhlas/závazné stanovisko bez něj. Orgán ochrany přírody žádost shledá neúplnou. Důkazy: projektová dokumentace záměru, výsledky (chybějícího) biologického hodnocení, doklad o závažnosti zásahu, případné stanovisko orgánu ochrany přírody podle odst. 1.
+
+**2. Právní otázka.** Byl investor povinen zajistit na svůj náklad biologické hodnocení podle § 67 odst. 1 a je jeho absence vadou žádosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 67 odst. 1 (povinnost investora zajistit hodnocení vlivu závažného zásahu, návrh zmírňujících/náhradních opatření; stanovisko orgánu při pochybnostech do 30 dnů), odst. 3 (hodnocení je součástí žádosti), odst. 4 (povinnost realizovat opatření na vlastní náklad).
+- *Související ustanovení téhož zákona:* § 45i (naturové posouzení EVL/PO — odlišný institut), § 4, § 49, § 50 (chráněné zájmy), § 83a (obsah žádosti).
+- *Související předpisy:* vyhláška č. 142/2018 Sb. (náležitosti biologického hodnocení); zákon č. 100/2001 Sb., o posuzování vlivů na životní prostředí (odst. 2 — možnost využití hodnocení v rámci EIA).
+- *Judikatura:* obecné závěry o povinnosti zajistit dostatečné podklady k posouzení vlivů a o zásadě „znečišťovatel platí".
+
+**4. Subsumpce.** Investor zamýšlí závažný zásah (znak naplněn, případně po stanovisku orgánu při pochybnostech), zásah se dotýká zájmů částí II, III a V (naplněno) → vzniká povinnost zajistit na vlastní náklad biologické hodnocení. Toto je obligatorní součástí žádosti (odst. 3); jeho absence činí žádost neúplnou.
+
+**5. Řešení.** Orgán ochrany přírody vyzve investora k doplnění biologického hodnocení; bez něj nelze žádost věcně posoudit a vydat povolení/souhlas/závazné stanovisko. Náklady hodnocení i navržených zmírňujících či náhradních opatření nese investor (odst. 1, 4). Při pochybnostech o závažnosti zásahu si investor může vyžádat stanovisko orgánu (do 30 dnů).
+
+**6. Varianty.** (a) Záměr podléhá EIA → hodnocení podle § 67 lze využít jako součást posouzení podle zákona č. 100/2001 Sb., splňuje-li zároveň požadavky ZOPK (odst. 2). (b) Jde o dotčení EVL/PO → vedle § 67 nastupuje naturové posouzení podle § 45i.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zásah není závažný, hodnocení není třeba." Neutralizace: při pochybnostech rozhoduje stanovisko orgánu ochrany přírody (odst. 1); investor nese riziko, že posouzení závažnosti dopadne v jeho neprospěch.
+- *Protiargument:* „Náklady hodnocení by měl nést stát." Riziko vyvráceno — odst. 1 a 4 výslovně ukládají náklady investorovi (zásada „znečišťovatel platí").
+- *Slabé místo:* biologické hodnocení podle § 67 a naturové posouzení podle § 45i se zaměňují; jde o odlišné instituty s odlišnými podklady a kritérii.
+
+#### H. Praktický závěr
+
+§ 67 ukládá investorovi zajistit na vlastní náklad biologické hodnocení závažného zásahu jako obligatorní součást žádosti a realizovat navržená zmírňující/náhradní opatření.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o závažný zásah dotýkající se zájmů částí II, III a V zákona?
+- [ ] Bylo zajištěno biologické hodnocení podle vyhlášky č. 142/2018 Sb. odborně způsobilou osobou?
+- [ ] Je hodnocení přiloženo k žádosti (i elektronicky, odst. 3)?
+- [ ] Obsahuje hodnocení návrh zmírňujících/náhradních opatření a zajistí je investor na svůj náklad?
+- [ ] Nejde zároveň o dotčení EVL/PO vyžadující naturové posouzení podle § 45i?
+
+**Typicky rozhodné důkazy / podklady:** biologické hodnocení dle vyhlášky č. 142/2018 Sb., projektová dokumentace záměru, stanovisko orgánu k závažnosti zásahu (odst. 1), návrh zmírňujících/náhradních opatření.
 
 ### § 68 — Opatření ke zlepšování přírodního prostředí
 
@@ -266,6 +710,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 - *ÚS* [Pl.ÚS 8/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-8-08_1) — nález, 8. 7. 2010
   > „Smyslem výzvy dle § 68 odst. 3 zákona o ochraně přírody a krajiny je působit na vlastníky (a nájemce) pozemků, aby sami vykonávali činnost za účelem zachování druhového bohatství přírody a udržení systému ekologické stability a aby tuto činnost nemusely orgány ochrany přírody provádět samy (či prostřednictví třetí osoby). Je zde tedy zakotvena subsidiarita státní ingerence, která nastupuje až v případě nezbytné nutnosti (kdy nelze dosáhnout sledovaného cíle jinak)"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V přírodní rezervaci dochází k zarůstání cenné mokřadní louky náletem dřevin, což ohrožuje populaci chráněných rostlin. Orgán ochrany přírody vyzve vlastníka, aby provedl kosení a odstranění náletu; vlastník výzvě ve stanovené lhůtě nevyhoví. Orgán ochrany přírody proto zajistí provedení zásahu prostřednictvím externího dodavatele a vlastníka předem vyrozumí o rozsahu a době zásahu. Při kosení dojde k poškození oplocení. Důkazy: výzva vlastníkovi a doklad o jejím doručení, dokumentace nezbytnosti zásahu, vyrozumění o rozsahu a době, vyčíslení škody na oplocení.
+
+**2. Právní otázka.** Byl orgán ochrany přírody oprávněn provést substituční zásah podle § 68 odst. 3 a kdo odpovídá za škodu vzniklou při jeho provedení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 68 odst. 2 (dohody o péči o pozemky), odst. 3 (subsidiarita státní ingerence — zásah orgánu po marné výzvě vlastníkovi), odst. 4 (povinnost strpět zásah a umožnit vstup, předchozí vyrozumění, odpovědnost orgánu za škodu).
+- *Související ustanovení téhož zákona:* § 69 (finanční příspěvek na opatření), § 62 (vstup na pozemky), § 66 (omezení činnosti).
+- *Související předpisy:* zákon č. 82/1998 Sb. (subsidiárně k náhradě škody); čl. 11 odst. 4 Listiny.
+- *Judikatura:* ÚS Pl.ÚS 8/08 (smyslem výzvy podle § 68 odst. 3 je působit na vlastníka, aby péči vykonal sám; zakotvena subsidiarita státní ingerence nastupující až v nezbytné nutnosti).
+
+**4. Subsumpce.** Hrozí poškození zvláště chráněné části přírody (naplněno), orgán vlastníka vyzval k provedení opatření (naplněno), vlastník výzvě nevyhověl (naplněno) → nastupuje subsidiárně oprávnění orgánu provést zásah sám či prostřednictvím jiného. Vlastník je povinen zásah strpět a umožnit vstup; orgán jej musí předem vyrozumět.
+
+**5. Řešení.** Substituční zásah je oprávněný, byla-li dodržena subsidiarita (předchozí marná výzva) a předchozí vyrozumění o rozsahu a době. Za škodu na oplocení odpovídá orgán ochrany přírody, který zásah nařídil (odst. 4); tím není dotčena odpovědnost osoby provádějící zásah.
+
+**6. Varianty.** (a) Vlastník na výzvu reaguje a opatření provede sám → státní ingerence nenastupuje (subsidiarita dle Pl.ÚS 8/08). (b) Orgán provede zásah bez předchozí výzvy a vyrozumění → porušení odst. 3 a 4, zásah je nezákonný.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Orgán mohl zasáhnout rovnou, výzva je zbytečná." Neutralizace: dle Pl.ÚS 8/08 je výzva projevem subsidiarity; bez ní (mimo nezbytnou nutnost) je zásah nepřípustný.
+- *Protiargument:* „Za škodu odpovídá jen dodavatel, ne stát." Riziko vyvráceno odst. 4 — odpovídá orgán, který zásah nařídil; odpovědnost dodavatele tím není dotčena (možný souběh).
+- *Slabé místo:* hranice „nezbytné nutnosti" umožňující zásah i bez předchozí výzvy je neurčitá a spornou se může stát při havarijním zásahu.
+
+#### H. Praktický závěr
+
+§ 68 staví péči o pozemky primárně na dohodě a aktivitě vlastníka; teprve po marné výzvě může orgán zasáhnout subsidiárně sám, přičemž odpovídá za způsobenou škodu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Hrozí poškození chráněné části přírody/VKP vyžadující zásah?
+- [ ] Byl vlastník/nájemce vyzván k provedení opatření a výzvě nevyhověl?
+- [ ] Byla dodržena subsidiarita státní ingerence (Pl.ÚS 8/08)?
+- [ ] Byl vlastník předem vyrozuměn o rozsahu a době zásahu (odst. 4)?
+- [ ] Vznikla škoda → odpovídá orgán, který zásah nařídil?
+
+**Typicky rozhodné důkazy / podklady:** výzva vlastníkovi a doklad o doručení, dokumentace nezbytnosti zásahu, vyrozumění o rozsahu/době, smlouva s dodavatelem, vyčíslení a doložení škody.
 
 ### § 69 — Finanční příspěvek
 
@@ -287,6 +768,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
   > „Rovněž příspěvky, které bylo možno poskytovat vlastníkům či nájemcům pozemků ve smyslu § 69 zákona č. 114/1992 Sb., nelze považovat za možnosti zvolit, zda stěžovatel bude užívat pozemek bezplatně, nebo zda přistoupí k uzavření smlouvy o úplatném užívání pozemku. Účelem těchto příspěvků je kompenzace omezení, jež vyplývají přímo ze zákona č. 114/1992 Sb. a není možné v nich vidět formu způsobu úhrady užívání pozemků"
 - *NSS* [57 Af 3/2021 - 51](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/670451) — 24. 5. 2021
   > „Ministerstvo životního prostředí má možnost poskytnout obdobný příspěvek na hospodaření v lesích národních parků ze svého rozpočtu ve smyslu § 69 zákona č. 114/1992 Sb., dle něhož lze čerpat finanční prostředky v případech, kdy jde o podporu ochrany přírody v rámci zvláště chráněných území, územních systémů, ekologické stability nebo území chráněných smluvně"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník mokřadní louky uzavře s AOPK písemnou dohodu, že se zdrží odvodňování a bude provádět pozdní seč ve prospěch hnízdících ptáků, za což mu bude poskytnut finanční příspěvek z Programu péče o krajinu. Souběžně si vlastník nárokuje finanční náhradu podle § 58 za totéž omezení a žádá též agroenvironmentální platbu. Důkazy: písemná dohoda podle § 69 odst. 3, doklad o poskytnutí příspěvku a jeho výši, uplatnění náhrady podle § 58, doklad o platbě SZP.
+
+**2. Právní otázka.** Lze souběžně čerpat finanční příspěvek podle § 69 a finanční náhradu podle § 58 za totéž omezení, a jak se vzájemně započítávají?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 69 odst. 1 (příspěvek za zdržení se činnosti nebo provedení prací v zájmu zlepšení prostředí), odst. 2 (příspěvek za náhradní opatření podle § 49 či 50), odst. 3 (písemná dohoda, prováděcí předpis), odst. 4 (financování ze SFŽP).
+- *Související ustanovení téhož zákona:* § 68 odst. 2 (dohody o péči), § 58 odst. 4 (antikumulace — náhrada se o příspěvek snižuje), § 49 a 50 (náhradní ochranná opatření).
+- *Související předpisy:* prováděcí předpis MŽP k podmínkám příspěvku; pravidla SZP/agroenvironmentálních plateb; zákon o SFŽP.
+- *Judikatura:* ÚS II.ÚS 338/03 (příspěvky podle § 69 slouží kompenzaci omezení plynoucích ze zákona, nejde o úhradu za užívání pozemku); NSS 57 Af 3/2021 (MŽP může poskytnout příspěvek na hospodaření v lesích národních parků ze svého rozpočtu podle § 69).
+
+**4. Subsumpce.** Vlastník se na základě písemné dohody zdrží činnosti / provede práce v zájmu zlepšení prostředí (naplněno) → vzniká titul k příspěvku podle § 69 odst. 1. Souběh s náhradou podle § 58 je možný, avšak náhrada podle § 58 se o poskytnutý příspěvek snižuje (§ 58 odst. 4) — vyloučení dvojího plnění za totéž omezení.
+
+**5. Řešení.** Příspěvek podle § 69 lze poskytnout na základě písemné dohody (jinak je neplatný), financovat lze ze SFŽP. Při souběhu s náhradou podle § 58 se náhrada o příspěvek (a o platbu SZP) sníží. Příspěvek je dobrovolným pozitivním nástrojem, nikoli úhradou za užívání pozemku (II.ÚS 338/03).
+
+**6. Varianty.** (a) Jde o náhradní ochranné opatření podle § 49/50 → příspěvek lze poskytnout podle § 69 odst. 2 i osobě, která opatření provede. (b) Chybí písemná dohoda → příspěvek podle § 69 nelze řádně poskytnout.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vlastník má nárok jak na příspěvek, tak na plnou náhradu podle § 58." Neutralizace: § 58 odst. 4 zakotvuje antikumulaci — náhrada se o příspěvek snižuje, dvojí plnění za totéž omezení je vyloučeno.
+- *Protiargument:* „Na příspěvek je právní nárok." Riziko vyvráceno textem („lze poskytnout") — jde o nárokově neukotvené plnění závislé na dohodě a rozpočtových možnostech.
+- *Slabé místo:* odlišení kompenzační funkce § 58 (újma z omezení) a podpůrné funkce § 69 (aktivní opatření) bývá v praxi nejasné, což komplikuje výpočet zápočtu.
+
+#### H. Praktický závěr
+
+§ 69 je pozitivní finanční nástroj poskytovaný na základě písemné dohody za aktivní opatření nebo zdržení se činnosti; při souběhu s náhradou podle § 58 se náhrada o příspěvek snižuje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o zdržení se činnosti nebo provedení prací v zájmu zlepšení prostředí (odst. 1), či náhradní opatření podle § 49/50 (odst. 2)?
+- [ ] Je uzavřena písemná dohoda podle odst. 3?
+- [ ] Je financování zajištěno (rozpočet, SFŽP)?
+- [ ] Nedochází k nepřípustnému souběhu s náhradou podle § 58 (zápočet dle § 58 odst. 4)?
+- [ ] Je zohledněna i případná platba SZP/agroenvironmentální podpora?
+
+**Typicky rozhodné důkazy / podklady:** písemná dohoda podle § 69, doklad o výši a účelu příspěvku, uplatnění a výpočet náhrady podle § 58, doklady o platbách SZP, prováděcí předpis MŽP.
 
 ### HLAVA TŘETÍ
 
@@ -313,6 +831,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *NSS* [10 As 236/2022 - 82](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/706489) — 12. 12. 2022
   > „Smyslem a účelem účasti občanských sdružení podle § 70 odst. 2 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve stavebních řízeních není blokace, zdržování a protahování realizace stavebního záměru procesními obstrukcemi, nýbrž to, aby kvalifikovaně, tj. odbornými argumenty z oblasti ochrany životního prostředí, urbanismu apod., hájila dotčené (veřejné) zájmy ochrany přírody a krajiny v konkurenci jiných veřejných zájmů a zájmů soukromých"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Spolek, jehož hlavním posláním podle stanov je ochrana přírody a krajiny, podá u příslušného úřadu žádost o předběžné informování o zahajovaných řízeních dotýkajících se zájmů ochrany přírody, věcně a místně specifikovanou. Posléze je zahájeno řízení, v němž se rozhoduje na základě jednotného environmentálního stanoviska vydávaného namísto povolení kácení dřevin. Spolek oznámí svou účast až 12. den po oznámení zahájení řízení. Úřad jeho účast odmítne. Důkazy: stanovy spolku, žádost o informování s datem podání, oznámení o zahájení řízení a datum jeho doručení/zveřejnění, oznámení účasti spolku s datem.
+
+**2. Právní otázka.** Stal se spolek účastníkem řízení podle § 70 odst. 3, oznámil-li účast po uplynutí osmidenní lhůty?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 70 odst. 1 (účast občanů na ochraně přírody), odst. 2 (právo spolku na předběžné informování, roční platnost žádosti, věcná a místní specifikace, výjimka navazujících řízení po EIA), odst. 3 (účastenství při oznámení do 8 dnů; postavení účastníka).
+- *Související ustanovení téhož zákona:* § 8 odst. 1 (kácení dřevin), § 56 odst. 1 (výjimky u zvláště chráněných druhů a památných stromů), § 83 (řízení).
+- *Související předpisy:* Aarhuská úmluva (sdělení č. 124/2004 Sb.m.s.); § 27 a § 9c, 9d zákona č. 100/2001 Sb. (účast v navazujících řízeních po EIA); § 214 a násl. OZ (spolky).
+- *Judikatura:* ÚS I.ÚS 59/14 a IV.ÚS 208/04 (účastenství spolku vázané na splnění podmínek § 70 odst. 2 a oznámení zájmu); NSS 10 As 236/2022 (smyslem účasti spolku je kvalifikovaná obhajoba zájmů ochrany přírody, nikoli obstrukce).
+
+**4. Subsumpce.** Spolek má v stanovách jako hlavní poslání ochranu přírody (znak naplněn), podal věcně a místně specifikovanou žádost o informování (naplněno), řízení se rozhoduje na základě JES namísto povolení kácení (naplněno) → spolek je oprávněn účastnit se, oznámí-li účast do 8 dnů. Lhůta je prekluzivní; oznámení 12. den je opožděné → účastenství nevzniká.
+
+**5. Řešení.** Úřad účast spolku správně odmítl, neboť osmidenní prekluzivní lhůta nebyla dodržena. Při včasném oznámení by spolek měl postavení účastníka a mohl uplatňovat odborné argumenty (nikoli obstrukce — NSS 10 As 236/2022). U navazujících řízení po EIA se účast řídí § 9c, 9d zákona č. 100/2001 Sb.
+
+**6. Varianty.** (a) Spolek oznámí účast do 8 dnů → stává se účastníkem řízení. (b) Jde o řízení navazující na EIA → § 70 odst. 2 se neuplatní, účast se řídí zákonem č. 100/2001 Sb.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Osmidenní lhůta je pořádková, opožděné oznámení postačí." Neutralizace: jde o prekluzivní lhůtu navázanou na den doručení/zveřejnění oznámení; její zmeškání účastenství vylučuje (I.ÚS 59/14, IV.ÚS 208/04).
+- *Protiargument:* „Spolek se může účastnit každého řízení dotýkajícího se přírody." Riziko vyvráceno — odst. 3 vymezuje účast na řízení, kde se rozhoduje na základě JES namísto povolení kácení nebo výjimky § 56; navazující řízení po EIA jsou vyloučena.
+- *Slabé místo:* určení okamžiku počátku lhůty (doručení vs. první den zveřejnění na úřední desce a způsobem umožňujícím dálkový přístup) může být sporné.
+
+#### H. Praktický závěr
+
+§ 70 zajišťuje spolkům na ochranu přírody právo na předběžné informování a účastenství ve vymezených řízeních, podmíněné včasným (8 dnů) oznámením účasti; smyslem je kvalifikovaná obhajoba, ne obstrukce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má spolek v stanovách jako hlavní poslání ochranu přírody a krajiny a právní osobnost?
+- [ ] Podal věcně a místně specifikovanou žádost o informování (platnost 1 rok)?
+- [ ] Jde o řízení podle ZOPK nebo na základě JES namísto povolení kácení/výjimky § 56 (a nikoli navazující řízení po EIA)?
+- [ ] Oznámil spolek účast do 8 dnů od oznámení zahájení řízení?
+- [ ] Uplatňuje spolek odborné argumenty, nikoli obstrukce (NSS 10 As 236/2022)?
+
+**Typicky rozhodné důkazy / podklady:** stanovy spolku, žádost o informování s datem podání, oznámení o zahájení řízení s datem doručení/zveřejnění, oznámení účasti spolku s datem, vymezení předmětu řízení.
+
 ### § 71 — Účast obcí
 
 > **§ 71**
@@ -337,6 +892,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 - *NSS* [2 As 103/2025 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/748275) — 30. 12. 2025
   > „V řízeních ve věcech ochrany přírody a krajiny se totiž vedle speciální úpravy účastenství spolků a obcí podle § 70 a § 71 zákona č. 114/1992 Sb. uplatní též obecná úprava účastenství podle § 27 správního řádu … Ačkoli z judikatury NSS vyplývá, že městská část hlavního města Prahy nemůže být účastníkem řízení ve věcech ochrany přírody podle § 71 zákona č. 114/1992 Sb. (rozsudek NSS ze dne 12. 12. 2007, č. j. 2 As 33/2007 99), stěžovatelka mohla a měla namítat dotčení svých práv ve smyslu § 27 odst. 2 správního řádu již ve správním řízení"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Orgán ochrany přírody vede řízení o vyhlášení přírodní památky na území obce. Obec, na jejímž území se chráněné území nachází, není orgánem ochrany přírody v této věci. Obec se domáhá postavení účastníka řízení a předložení podkladů. V jiné variantě jde o městskou část hlavního města Prahy. Důkazy: oznámení o zahájení řízení, doklad o územní příslušnosti obce, návrh na vyhlášení ZCHÚ, vyjádření obce.
+
+**2. Právní otázka.** Je obec účastníkem řízení podle § 71 odst. 3, a jaké je postavení městské části hlavního města Prahy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 71 odst. 1 (zapojení obcí, vyjadřování se k vyhlašování ZCHÚ a památných stromů), odst. 2 (povinnost orgánů spolupracovat a poskytovat podklady), odst. 3 (obec účastníkem řízení podle ZOPK, nerozhoduje-li sama jako orgán ochrany přírody), odst. 4 (postavení dotčeného orgánu při OOP), odst. 5 (přehledy v samostatné působnosti).
+- *Související ustanovení téhož zákona:* § 70 (účast spolků), § 40 a § 55 (vyhlašování ZCHÚ), § 76, 77 (obce jako orgány ochrany přírody), § 9 odst. 2 a § 63 odst. 1 (přehledy).
+- *Související předpisy:* § 27 správního řádu (obecné účastenství); § 136 SŘ (dotčený orgán); zákon č. 131/2000 Sb., o hl. m. Praze.
+- *Judikatura:* NSS 2 As 103/2025 (vedle speciálního účastenství podle § 70 a § 71 se uplatní obecná úprava podle § 27 SŘ; městská část hl. m. Prahy nemůže být účastníkem podle § 71, ale může namítat dotčení práv podle § 27 odst. 2 SŘ); NSS 2 As 33/2007 (městská část a § 71).
+
+**4. Subsumpce.** Obec má územní příslušnost k území, kde se řízení vede (naplněno), nerozhoduje v téže věci jako orgán ochrany přírody (naplněno) → je účastníkem řízení podle § 71 odst. 3. U městské části hl. m. Prahy účastenství podle § 71 nevzniká, lze však uplatnit obecné účastenství podle § 27 SŘ.
+
+**5. Řešení.** Obci svědčí postavení účastníka podle § 71 odst. 3 a právo na podklady podle odst. 2; při OOP podle části třetí má postavení dotčeného orgánu (odst. 4). Městská část hl. m. Prahy účastníkem podle § 71 není, musí dotčení práv namítat podle § 27 odst. 2 SŘ.
+
+**6. Varianty.** (a) Obec v téže věci sama rozhoduje jako orgán ochrany přírody → účastenství podle odst. 3 je vyloučeno (kolize rolí). (b) Jde o projednání OOP podle části třetí → obec má postavení dotčeného orgánu (odst. 4), nikoli účastníka.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Městská část hl. m. Prahy je obcí, tedy účastníkem podle § 71." Neutralizace: dle NSS 2 As 103/2025 a 2 As 33/2007 městská část účastníkem podle § 71 není; ochrana je dosažitelná přes obecné účastenství § 27 SŘ.
+- *Protiargument:* „Obec je účastníkem každého řízení o ochraně přírody na svém území." Riziko upřesnění — odst. 3 vylučuje účastenství tam, kde obec sama rozhoduje jako orgán ochrany přírody.
+- *Slabé místo:* souběh speciálního (§ 71) a obecného (§ 27 SŘ) účastenství vyžaduje pečlivé odlišení; opomenutí obecného titulu může vést ke ztrátě procesní obrany.
+
+#### H. Praktický závěr
+
+§ 71 dává obci dvojí postavení — samosprávné (účastenství, právo na informace, dotčený orgán u OOP) a v přenesené působnosti orgán ochrany přírody; městská část hl. m. Prahy účastníkem podle § 71 není, ale může uplatnit § 27 SŘ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o řízení podle ZOPK na území obce, kde obec sama nerozhoduje jako orgán ochrany přírody (odst. 3)?
+- [ ] Jde o projednání OOP podle části třetí (postavení dotčeného orgánu, odst. 4)?
+- [ ] Poskytl orgán obci požadované podklady a vysvětlení (odst. 2)?
+- [ ] Jde o městskou část hl. m. Prahy (účastenství jen podle § 27 SŘ)?
+- [ ] Vede obec přehledy v samostatné působnosti (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** oznámení o zahájení řízení, doklad o územní příslušnosti obce, návrh na vyhlášení ZCHÚ/památného stromu, vyjádření obce, podklady poskytnuté orgánem ochrany přírody.
 
 ### § 72 — Právo na informace v ochraně přírody a krajiny
 
@@ -363,6 +955,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *ÚS* [IV.ÚS 53/95](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-53-95) — usnesení, 10. 3. 1996
   > „… orgánem povinným poskytovat informace o ochraně přírody a krajiny (§ 72 zákona č. 114/1992 Sb.) zůstalo i nadále po přijetí zákona ČNR č. 474/1992 Sb. ministerstvo životního prostředí, které bylo také orgánem příslušným k posouzení vlivu předmětné stavby na životní prostředí"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Občan požádá správu CHKO o poskytnutí kompletní spisové dokumentace (odborné posudky, protokoly, svědecké výpovědi) k řízení o povolení zásahu v chráněné krajinné oblasti, s odkazem na právo na informace o životním prostředí. Správa část podkladů odmítne s odkazem na ochranu osobních údajů a probíhající řízení. Důkazy: žádost o informace, přehled vedených informací podle § 72, spisový materiál, důvody odmítnutí.
+
+**2. Právní otázka.** V jakém rozsahu je orgán ochrany přírody povinen vést a poskytovat informace podle § 72 a v jakém vztahu je tato úprava k zákonu č. 123/1998 Sb. a č. 106/1999 Sb.?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 72 (povinnost vést přehled informací — normativní akty, návrhy na zahájení řízení, rozhodnutí, podklady, návrhy na vyhlášení ZCHÚ, jiné důležité informace o stavu prostředí).
+- *Související ustanovení téhož zákona:* § 70 a § 71 (účast a informování spolků a obcí), § 40 a § 55 (vyhlašování ZCHÚ).
+- *Související předpisy:* zákon č. 123/1998 Sb., o právu na informace o životním prostředí (lex specialis, transpozice směrnice 2003/4/ES a Aarhuské úmluvy); zákon č. 106/1999 Sb. (obecný režim); zákon č. 110/2019 Sb. a GDPR (ochrana osobních údajů jako důvod omezení).
+- *Judikatura:* ÚS IV.ÚS 53/95 (MŽP zůstalo orgánem povinným poskytovat informace o ochraně přírody podle § 72).
+
+**4. Subsumpce.** Požadované podklady spadají do přehledu informací podle § 72 písm. c) a d) (rozhodnutí a podklady pro ně — naplněno). Povinnost poskytnout se řídí přednostně zákonem č. 123/1998 Sb.; důvody odmítnutí (osobní údaje, probíhající řízení) lze uplatnit jen v rozsahu zákonných výluk.
+
+**5. Řešení.** Orgán je povinen informace vést a poskytnout v režimu zákona č. 123/1998 Sb. (subsidiárně č. 106/1999 Sb.); odmítnutí je možné pouze z taxativních důvodů a v nezbytném rozsahu (např. anonymizace osobních údajů), nikoli paušálně. Neposkytnutí lze napadnout opravnými prostředky podle informačního zákona.
+
+**6. Varianty.** (a) Informace se týká stavu životního prostředí jako celku → silnější právo na přístup dle směrnice 2003/4/ES, úzké výluky. (b) Jde o osobní údaje třetích osob → poskytnutí po anonymizaci, nikoli úplné odmítnutí.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Probíhající řízení brání poskytnutí jakýchkoli podkladů." Neutralizace: výluky se vykládají restriktivně; je nutné posoudit každý dokument zvlášť a případně poskytnout v anonymizované či částečné podobě.
+- *Protiargument:* „Použije se jen obecný zákon č. 106/1999 Sb." Riziko upřesnění — pro informace o životním prostředí je lex specialis zákon č. 123/1998 Sb. s širším přístupem a užšími výlukami.
+- *Slabé místo:* kolize práva na informace s ochranou osobních údajů vyžaduje test proporcionality; paušální odmítnutí je vadné.
+
+#### H. Praktický závěr
+
+§ 72 ukládá orgánům ochrany přírody aktivně vést přehled informací a poskytovat je; poskytování se řídí přednostně zákonem č. 123/1998 Sb. s restriktivně vykládanými výlukami.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá požadovaná informace do přehledu podle § 72 písm. a)–f)?
+- [ ] Postupuje se přednostně podle zákona č. 123/1998 Sb. (subsidiárně č. 106/1999 Sb.)?
+- [ ] Jsou důvody odmítnutí taxativní a vyloženy restriktivně?
+- [ ] Lze namísto odmítnutí poskytnout informaci po anonymizaci/částečně?
+- [ ] Je rozhodnutí o (ne)poskytnutí přezkoumatelně odůvodněno?
+
+**Typicky rozhodné důkazy / podklady:** žádost o informace, přehled vedených informací podle § 72, spisový materiál, posouzení výluk (osobní údaje, probíhající řízení), rozhodnutí o vyřízení žádosti.
+
 ### § 72a — Evidence chráněných území v základním registru územní identifikace, adres a nemovitostí
 
 > **§ 72a**
@@ -384,6 +1013,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 > *(2) Editorem údajů o účelových územních prvcích uvedených v odstavci 1 je Agentura.*
 
 **Výklad:** ZOPK integruje chráněná území do **RÚIAN** podle zákona č. 111/2009 Sb. (základní registr). Agentura ochrany přírody a krajiny je **editorem údajů** — ona zapisuje a aktualizuje hranice, definiční body a vazby na ostatní územní prvky (parcely, katastrální území). Účelem je zajistit **přístup orgánů státní správy a obcí** k aktuální digitální mapě ZCHÚ pro stavební řízení, územní plánování, územní rozhodování a katastr.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební úřad v územním řízení potřebuje zjistit, zda dotčená parcela leží ve zvláště chráněném území nebo jeho ochranném pásmu. Vychází z údajů vedených v základním registru územní identifikace (RÚIAN), jejichž editorem je AOPK. Údaje o hranicích ochranného pásma jsou však v RÚIAN zastaralé, neboť AOPK dosud nezapsala nově vyhlášené pásmo. Důkazy: výpis z RÚIAN, právní předpis o vyhlášení ZCHÚ/pásma, dokumentace předaná AOPK.
+
+**2. Právní otázka.** Které účelové územní prvky se vedou v RÚIAN podle § 72a a kdo odpovídá za jejich zápis a aktuálnost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 72a odst. 1 (taxativní výčet 11 účelových územních prvků vedených v RÚIAN), odst. 2 (Agentura jako editor údajů).
+- *Související ustanovení téhož zákona:* § 72b (obsah evidence), § 72c (předávání dokumentace, domněnka správnosti), § 14 a násl. (kategorie ZCHÚ), § 45a–45c (Natura 2000), § 46 (památné stromy).
+- *Související předpisy:* zákon č. 111/2009 Sb., o základních registrech (RÚIAN); zákon č. 256/2013 Sb., katastrální.
+- *Judikatura:* obecné závěry o závaznosti údajů základních registrů a o odpovědnosti editora za jejich správnost.
+
+**4. Subsumpce.** Ochranné pásmo ZCHÚ je účelovým územním prvkem podle § 72a odst. 1 písm. e) (naplněno), editorem je Agentura (odst. 2 — naplněno). AOPK byla povinna nově vyhlášené pásmo zapsat; neaktuálnost údaje je v její odpovědnosti jako editora.
+
+**5. Řešení.** Stavební úřad vychází z RÚIAN, avšak při zjištění nesouladu s právním předpisem o vyhlášení musí přihlédnout ke skutečnému právnímu stavu danému tímto předpisem. AOPK je povinna zápis aktualizovat. Údaje RÚIAN požívají domněnky správnosti (§ 72c odst. 2), ta je však vyvratitelná.
+
+**6. Varianty.** (a) Jde o památný strom → eviduje se podle písm. h) (jen definiční bod, nikoli hranice). (b) Jde o smluvně chráněné území → eviduje se podle písm. j) s odkazem na smlouvu, nikoli na právní předpis.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Co není v RÚIAN, neexistuje." Neutralizace: ochrana ZCHÚ/pásma vzniká právním předpisem (či smlouvou), nikoli zápisem do RÚIAN; zápis má evidenční, nikoli konstitutivní povahu, byť požívá domněnky správnosti.
+- *Protiargument:* „Za chybu v RÚIAN odpovídá stavební úřad, který z něj vyšel." Riziko vyvráceno — editorem a odpovědným za správnost je Agentura (odst. 2); orgán v dobré víře vycházející z registru je chráněn domněnkou správnosti.
+- *Slabé místo:* prodlevy v aktualizaci hranic AOPK mohou vést k nesouladu mezi skutečným právním stavem a evidencí.
+
+#### H. Praktický závěr
+
+§ 72a integruje 11 typů chráněných území a prvků do RÚIAN, přičemž editorem a garantem správnosti údajů je AOPK; ochrana vzniká právním titulem, zápis má evidenční funkci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá prvek do taxativního výčtu § 72a odst. 1 písm. a)–k)?
+- [ ] Je editorem údajů Agentura (odst. 2)?
+- [ ] Odpovídá zápis v RÚIAN právnímu titulu vyhlášení (předpis/OOP/smlouva)?
+- [ ] Není zjištěn nesoulad vyžadující přednost skutečného právního stavu?
+- [ ] Byla dokumentace AOPK předána a zaevidována (vazba na § 72c)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z RÚIAN, právní předpis/OOP/smlouva o vyhlášení, dokumentace předaná AOPK, údaje ústředního seznamu, mapové podklady.
 
 ### § 72b
 
@@ -418,6 +1084,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Výklad:** Detailní obsah evidence pro 11 typů účelových územních prvků. Pro každý se evidují **identifikační údaje** (kód RÚIAN, název, evidenční číslo z ústředního seznamu), **lokalizační údaje** (hranice + definiční bod, u památných stromů jen definiční bod), **vazby na ostatní územní prvky** a údaj o **právním titulu vyhlášení** (zákon, nařízení vlády, vyhláška MŽP, OOP, smlouva).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** AOPK eviduje v RÚIAN nově vyhlášenou evropsky významnou lokalitu. Pro účely územního plánování obec zjišťuje, jaké údaje jsou o EVL vedeny — zda obsahují i hranice a definiční bod a odkaz na právní předpis vyhlášení. U památného stromu obec zjišťuje, že je veden pouze definiční bod, nikoli hranice. Důkazy: výpis z RÚIAN k EVL a k památnému stromu, nařízení vlády o EVL, rozhodnutí o vyhlášení památného stromu.
+
+**2. Právní otázka.** Jaké konkrétní údaje se o jednotlivých typech účelových územních prvků v RÚIAN vedou podle § 72b?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 72b odst. 1–11 (obsah evidence pro 11 typů prvků — identifikační údaje, lokalizační údaje, vazby na ostatní územní prvky, údaj o právním titulu vyhlášení; u památných stromů jen definiční bod).
+- *Související ustanovení téhož zákona:* § 72a (výčet prvků a editor), § 72c (předávání dokumentace, domněnka správnosti), § 45a–45c (EVL/PO), § 46 (památné stromy).
+- *Související předpisy:* zákon č. 111/2009 Sb. (RÚIAN); nařízení vlády vyhlašující EVL; OOP u klidových území NP.
+- *Judikatura:* obecné závěry o významu lokalizačních údajů registru pro územní rozhodování a katastrální praxi.
+
+**4. Subsumpce.** U EVL se podle § 72b odst. 6 vedou identifikační a lokalizační údaje a údaj o právním předpisu, kterým byla vyhlášena (naplněno). U památného stromu se podle odst. 8 vede definiční bod (nikoli hranice), identifikační údaje, vazby a údaj o rozhodnutí o vyhlášení.
+
+**5. Řešení.** Obec získá z RÚIAN u EVL hranice, definiční bod a odkaz na nařízení vlády; u památného stromu pouze definiční bod a odkaz na rozhodnutí. Rozsah evidovaných údajů je dán typem prvku podle § 72b — u plošných prvků hranice, u bodových (stromů) jen definiční bod.
+
+**6. Varianty.** (a) Jde o klidové území NP → vede se i údaj o opatření obecné povahy, kterým bylo vyhlášeno (odst. 4). (b) Jde o smluvně chráněné území/strom → místo právního předpisu se vede údaj o smlouvě (odst. 10, 11).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „U památného stromu chybí hranice, evidence je neúplná." Neutralizace: odst. 8 u památných stromů hranice nevyžaduje — eviduje se definiční bod; jde o bodový prvek, nikoli plošný.
+- *Protiargument:* „Údaj o právním titulu je nadbytečný." Riziko vyvráceno — údaj o předpisu/OOP/smlouvě je podstatný pro ověření právního základu ochrany a její závaznosti.
+- *Slabé místo:* různý rozsah lokalizačních údajů u jednotlivých typů prvků vyžaduje pečlivé rozlišení (plošné vs. bodové prvky).
+
+#### H. Praktický závěr
+
+§ 72b detailně vymezuje obsah evidence pro 11 typů chráněných prvků; u plošných prvků se vedou hranice i definiční bod, u památných stromů jen definiční bod, vždy s údajem o právním titulu vyhlášení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] O který typ prvku jde (plošný vs. bodový — rozsah lokalizačních údajů)?
+- [ ] Jsou vedeny identifikační údaje (kód RÚIAN, název, evidenční číslo)?
+- [ ] Jsou vedeny lokalizační údaje (hranice a/nebo definiční bod) odpovídající typu?
+- [ ] Je veden údaj o právním titulu (předpis, OOP, smlouva, rozhodnutí)?
+- [ ] Jsou evidovány vazby na ostatní územní prvky?
+
+**Typicky rozhodné důkazy / podklady:** výpis z RÚIAN k danému prvku, právní předpis/OOP/rozhodnutí/smlouva o vyhlášení, mapové podklady s hranicemi a definičním bodem, údaje ústředního seznamu.
+
 ### § 72c
 
 > **§ 72c**
@@ -427,6 +1130,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 > *(2) O údajích ústředního seznamu o vzniku a poloze účelových územních prvků uvedených v § 72a odst. 1 se má za to, že jsou zapsány v souladu se skutečným právním stavem a že jsou úplné.*
 
 **Výklad:** Procesní úprava komunikace mezi orgány OP a AOPK jako editorem. Odst. 2 zakotvuje **vyvratitelnou domněnku správnosti a úplnosti** zápisu v ústředním seznamu — obdoba materiální publicity katastru (§ 980 OZ).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Správa národního parku jako orgán ochrany přírody předá AOPK dokumentaci o nově vyhlášeném ochranném pásmu k zaevidování do RÚIAN. AOPK zjistí, že předaná geodetická data obsahují chybné souřadnice hranic, které neumožňují provedení evidence. Vyzve správu NP, aby do 30 dnů zjednala nápravu. Současně třetí osoba zpochybňuje polohu hranice s tím, že údaj ústředního seznamu je nesprávný. Důkazy: předaná dokumentace, výzva AOPK k nápravě, opravená data, údaj ústředního seznamu, případný protidůkaz třetí osoby.
+
+**2. Právní otázka.** Jaký je postup při zjištění chybných technických údajů v dokumentaci a jakou váhu má domněnka správnosti údajů ústředního seznamu podle § 72c odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 72c odst. 1 (předávání dokumentace AOPK; výzva k nápravě do 30 dnů při chybných technických údajích; nemožnost evidence do nápravy), odst. 2 (vyvratitelná domněnka, že údaje ústředního seznamu o vzniku a poloze prvků jsou v souladu se skutečným právním stavem a úplné).
+- *Související ustanovení téhož zákona:* § 72a a § 72b (editor a obsah evidence), § 42 a § 47 (ústřední seznam ochrany přírody).
+- *Související předpisy:* § 980 odst. 2 OZ (materiální publicita — obdoba domněnky správnosti zápisu); zákon č. 111/2009 Sb. (RÚIAN).
+- *Judikatura:* obecné závěry o povaze vyvratitelných domněnek a o rozložení důkazního břemene při jejich vyvracení.
+
+**4. Subsumpce.** Orgán ochrany přírody předal dokumentaci AOPK (naplněno), ta obsahuje chybné technické údaje znemožňující evidenci (naplněno) → AOPK vyzve k nápravě ve lhůtě 30 dnů a do té doby evidenci neprovede. Údaje ústředního seznamu o vzniku a poloze požívají domněnky správnosti a úplnosti (odst. 2), kterou lze vyvrátit.
+
+**5. Řešení.** Evidenci nelze provést, dokud správa NP chybná data neopraví (lhůta 30 dnů). Po nápravě AOPK údaje zaeviduje. Domněnka správnosti podle odst. 2 chrání osoby jednající v důvěře v ústřední seznam; kdo tvrdí opak, nese důkazní břemeno k jejímu vyvrácení.
+
+**6. Varianty.** (a) Orgán nápravu ve 30 dnech nezjedná → evidence zůstává neprovedena, prvek není v RÚIAN řádně zapsán. (b) Třetí osoba prokáže nesprávnost polohy → domněnka odst. 2 je vyvrácena a údaj se opraví.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Domněnka správnosti je nevyvratitelná, údaj nelze zpochybnit." Neutralizace: jde o vyvratitelnou domněnku (obdoba § 980 OZ); lze ji vyvrátit důkazem o nesouladu se skutečným právním stavem.
+- *Protiargument:* „AOPK musí evidovat i vadná data, jde jen o technickou formalitu." Riziko vyvráceno odst. 1 — při chybných technických údajích znemožňujících evidenci je AOPK povinna vyzvat k nápravě a do jejího zjednání evidenci neprovést.
+- *Slabé místo:* lhůta 30 dnů k nápravě nemá výslovnou sankci; její marné uplynutí blokuje řádný zápis prvku do registru.
+
+#### H. Praktický závěr
+
+§ 72c upravuje součinnost orgánů ochrany přírody a AOPK při evidenci a zakotvuje vyvratitelnou domněnku správnosti a úplnosti údajů ústředního seznamu o vzniku a poloze chráněných prvků.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla dokumentace o prvku předána AOPK k evidenci (odst. 1)?
+- [ ] Neobsahuje chybné technické údaje znemožňující evidenci?
+- [ ] Byla při vadách uplatněna výzva k nápravě do 30 dnů (a evidence pozastavena)?
+- [ ] Uplatňuje se domněnka správnosti a úplnosti údajů ústředního seznamu (odst. 2)?
+- [ ] Je při zpochybnění údaje uneseno důkazní břemeno k vyvrácení domněnky?
+
+**Typicky rozhodné důkazy / podklady:** předaná dokumentace o prvku, výzva AOPK k nápravě, opravená geodetická data, údaje ústředního seznamu, případné protidůkazy o nesprávnosti polohy.
 
 ### § 72d — Informační systém ochrany přírody
 
@@ -454,6 +1194,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Výklad:** **Informační systém ochrany přírody (ISOP)** — moderní celostátní digitální infrastruktura provozovaná AOPK. Sestává z 5 modulů: (i) **nálezová databáze ochrany přírody (NDOP)** — celostátní databáze nálezů druhů, klíčový nástroj pro posuzování záměrů; (ii) **evidence druhové ochrany** — povolení a osvědčení k jedincům zvláště chráněných druhů, registrace IAS; (iii) **ústřední seznam** — registr ZCHÚ a památných stromů (§ 42, 47); (iv) **jednotná evidence speleologických objektů (JESO)**; (v) **evidence opatření péče o přírodu a krajinu** — typicky PPK projekty.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor připravuje fotovoltaický park o rozloze 30 ha na zemědělské půdě. V rámci due diligence si v NDOP ověří historický výskyt druhů a zjistí, že na lokalitě je evidováno hnízdění ťuhýka obecného a výskyt sysla obecného z let 2018–2021. Orgán ochrany přírody však při posuzování záměru opřel zamítavé stanovisko výhradně o nálezy v NDOP, aniž by provedl aktuální terénní průzkum. Důkazy: výpisy z NDOP, datum a autor jednotlivých záznamů, biologické hodnocení záměru (§ 67), aktuální průzkum lokality.
+
+**2. Právní otázka.** Lze rozhodnutí orgánu ochrany přírody opřít výhradně o data z nálezové databáze ISOP (NDOP), aniž by byl ověřen jejich aktuální stav v terénu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 72d — ISOP jako informační systém veřejné správy; NDOP slouží „k ukládání dat a publikaci výsledků o rozšíření a stavu druhů" (odst. 3 písm. a), tedy jako evidenční, nikoli konstitutivní nástroj.
+- *Související ustanovení téhož zákona:* § 67 (biologické hodnocení jako podklad), § 70 (účast spolků mající přístup k datům), § 72 (právo na informace), § 83a (obsah žádosti — charakteristika přírody v dotčeném území).
+- *Související předpisy:* zákon č. 365/2000 Sb., o informačních systémech veřejné správy; zákon č. 123/1998 Sb., o právu na informace o životním prostředí; § 3 a § 50 odst. 3 správního řádu (zjištění stavu věci, o němž nejsou důvodné pochybnosti).
+- *Judikatura:* obecný závěr správních soudů, že podklad pro rozhodnutí musí odpovídat skutečnému stavu věci; databázový záznam je důkazem, jehož vypovídací hodnota klesá se stářím a musí být hodnocen v souvislosti s ostatními důkazy.
+
+**4. Subsumpce.** NDOP je zákonem určena k evidenci a publikaci dat (znak „informační systém"). Není však registrem s presumpcí správnosti pro účely individuálního rozhodování — § 72d nestanoví, že záznam v NDOP zakládá nevyvratitelnou domněnku výskytu. Orgán proto musí data z NDOP hodnotit jako jeden z podkladů; spornou skutečností je aktuálnost záznamů starých 3–6 let.
+
+**5. Řešení.** Orgán nemůže rozhodnout výhradně na základě historických nálezů; je povinen ověřit aktuální stav (vyžádat biologické hodnocení, případně nařídit doplnění průzkumu). Rozhodnutí opřené jen o zastaralé záznamy je zatíženo vadou řízení (nedostatečně zjištěný skutkový stav). Procesní krok: žadatel namítá neaktuálnost a předkládá vlastní aktuální průzkum.
+
+**6. Varianty.** (a) Pokud aktuální průzkum potvrdí přetrvávající výskyt sysla, je opora v NDOP plně namístě a omezení záměru obstojí. (b) Šlo-li by o ústřední seznam (odst. 3 písm. c — evidence ZCHÚ), platí naopak presumpce správnosti evidence údajů o vyhlášených územích a námitka neaktuálnosti by neobstála.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: NDOP je oficiální systém AOPK, jeho data jsou věrohodná.* Neutralizace: věrohodnost zdroje nezbavuje orgán povinnosti hodnotit aktuálnost; druhy se v krajině přesouvají, biotop mohl zaniknout — rozhodné je faktické zjištění, nikoli formální záznam.
+- *Protiargument: terénní průzkum je nákladný a zdržuje řízení.* Neutralizace: zákon (§ 67, § 83a) předpokládá biologické hodnocení jako standardní podklad u záměrů s možným vlivem; náklady nese žadatel a procesní ekonomie nemůže jít k tíži kvality podkladů.
+- Slabé místo: hranice mezi „evidenčním" a „rozhodovacím" významem dat není v § 72d výslovně řešena; argumentace se opírá o obecné principy správního řízení, nikoli o specifické ustanovení.
+
+#### H. Praktický závěr
+
+ISOP a jeho moduly jsou klíčovým informačním podkladem, nikoli automatickým rozhodovacím nástrojem; data NDOP je nutné vždy hodnotit z hlediska aktuálnosti, naopak údaje ústředního seznamu (vyhlášená území) mají evidenční závaznost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Z NDOP vypsat všechny záznamy pro dotčenou lokalitu včetně data a autora.
+- [ ] Ověřit, zda orgán rozhodl jen na základě databáze, nebo i aktuálního průzkumu.
+- [ ] U záměrů s možným vlivem doložit biologické hodnocení (§ 67) a charakteristiku přírody (§ 83a).
+- [ ] Odlišit evidenční moduly (ústřední seznam, JESO) od dynamických (NDOP).
+
+**Typicky rozhodné důkazy / podklady:** výpisy z NDOP s metadaty, biologické hodnocení, aktuální terénní průzkum, dokumentace ZCHÚ z ústředního seznamu.
+
 ### § 73 — Věda a výzkum
 
 > **§ 73**
@@ -465,6 +1241,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 > *(3) Provádění výzkumu ve zvláště chráněném území nevyžadující zásahy do předmětů ochrany zvláště chráněného území, které jsou v rozporu s jejich ochrannými podmínkami, musí být oznámeno písemně nejméně 30 dnů předem orgánu ochrany přírody, který je může omezit nebo zakázat, pokud by přitom mohlo dojít k poškození předmětu ochrany zvláště chráněného území.*
 
 **Výklad:** Vědecký výzkum v ZCHÚ je v zásadě veřejným zájmem (vyhláška č. 175/2006 Sb. blíže reguluje výjimky), avšak vyžaduje koordinaci s ochrannými podmínkami. Režim: **invazivní výzkum** (zásahy do ochranných podmínek) — povolení / výjimka § 43, **neinvazivní výzkum** (oznamovací režim, 30 dnů předem). Orgán OP může neinvazivní výzkum **omezit nebo zakázat**, hrozí-li poškození předmětu ochrany.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Univerzitní pracoviště plánuje v národní přírodní rezervaci dvouletý monitoring populace chřástala polního založený výhradně na akustických záznamnících a vizuálním sčítání bez odchytu a bez vstupu mimo cesty. Tým podá orgánu ochrany přírody (správě národního parku) oznámení 12 dnů před zahájením. Souběžně chce odebrat 30 vzorků rašeliny do hloubky 50 cm na profilové sondě, což znamená zásah do půdního krytu předmětu ochrany. Důkazy: projekt výzkumu, metodika, harmonogram, vymezení odběrových bodů.
+
+**2. Právní otázka.** Spadá celý záměr pod oznamovací režim podle § 73 odst. 3, nebo část (odběr rašeliny) vyžaduje povolení/výjimku, a byla dodržena 30denní lhůta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 73 odst. 2 (invazivní výzkum jen pro kvalifikované osoby), odst. 3 (neinvazivní výzkum — oznámení 30 dnů předem, možnost omezit/zakázat).
+- *Související ustanovení téhož zákona:* § 43 (výjimky ze zákazů v ZCHÚ), § 29 a § 34 (zákazy v NPR), § 56 (výjimky u zvláště chráněných druhů).
+- *Související předpisy:* vyhláška č. 175/2006 Sb.; správní řád (oznamovací úkon, lhůty).
+- *Judikatura:* obecný výkladový závěr, že je-li zásah složen z více činností, posuzuje se každá podle svého režimu; nejpřísnější režim určuje povahu řízení.
+
+**4. Subsumpce.** Akustický monitoring bez vstupu mimo cesty nezasahuje do ochranných podmínek → oznamovací režim. Odběr rašeliny do 50 cm je zásahem do předmětu ochrany NPR → vyžaduje výjimku podle § 43, nikoli pouhé oznámení. Sporné: zda je odběr „v rozporu s ochrannými podmínkami" — záleží na lokalizaci a hloubce. Lhůta 12 dnů nesplňuje minimum 30 dnů, oznámení je tedy předčasné/neúplné.
+
+**5. Řešení.** Tým musí (i) na invazivní část (odběr rašeliny) získat povolení/výjimku podle § 43 a (ii) na neinvazivní část dodržet 30denní oznamovací lhůtu. Orgán může neinvazivní část omezit (např. vyloučit hnízdní období chřástala). Pravděpodobný výsledek: rozdělení režimů, oddálení zahájení odběrů.
+
+**6. Varianty.** (a) Bez odběru rašeliny (čistě akustika) postačí oznámení; orgán může pouze omezit termín. (b) Kdyby šlo o NPP s předmětem ochrany geologickým, posuzovalo by se zasažení jiných ochranných podmínek a mohl by chybět konflikt s živočišnými druhy.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: jde o jediný výzkumný projekt, měl by podléhat jednomu režimu.* Neutralizace: zákon rozlišuje podle povahy zásahu, nikoli podle administrativní jednoty projektu; složený záměr se štěpí podle nejpřísnějšího dotčeného režimu.
+- *Protiargument: 30denní lhůta je pořádková, lze ji prominout.* Neutralizace: lhůta slouží k tomu, aby orgán mohl výzkum omezit/zakázat; její nedodržení odnímá orgánu reálnou možnost reakce, oznámení proto nezakládá oprávnění zahájit výzkum.
+- Slabé místo: hranice „zásahu do ochranných podmínek" je hodnotová; u marginálních odběrů může být sporné, zda jde o invazivní, či neinvazivní výzkum.
+
+#### H. Praktický závěr
+
+Výzkum v ZCHÚ je třeba rozčlenit na invazivní (povolení/výjimka § 43) a neinvazivní (oznámení 30 dnů předem); orgán neinvazivní výzkum nepovoluje, ale může jej omezit či zakázat při hrozbě poškození předmětu ochrany.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozčlenit činnosti projektu podle toho, zda zasahují do ochranných podmínek.
+- [ ] Pro invazivní část zajistit výjimku/povolení (§ 43, příp. § 56).
+- [ ] Pro neinvazivní část podat písemné oznámení nejméně 30 dnů předem.
+- [ ] Ověřit kvalifikační předpoklady řešitelů (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** projekt a metodika výzkumu, doklad o kvalifikaci, oznámení s datem doručení, případná výjimka podle § 43.
 
 ### § 74 — Spolupráce při ochraně přírody
 
@@ -480,6 +1292,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 - *ÚS* [I.ÚS 145/94](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-145-94) — nález, 19. 10. 1995
   > „Ústavní soud přitom předpokládá, že Ministerstvo životního prostředí pro realizaci Úmluvy potřebuje nástroje, jak zajistit její plnění na území České republiky fyzickými či právnickými osobami. K tomu účelu má Ministerstvo životního prostředí v § 74 odst. 1 zákona č. 114/1992 Sb., resp. v § 50 odst. 5 téhož zákona, zmocnění vydat obecně závazný předpis, ale i přitom se musí vystříhat toho, aby nebyla porušena práva občanů zaručená Ústavou ČR"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlčí smečka migruje přes česko-slovenskou hranici v oblasti Bílých Karpat (CHKO Bílé Karpaty / CHKO Biele Karpaty). Slovenská strana plánuje povolení odlovu několika jedinců; česká strana má zájem populaci chránit. Český orgán ochrany přírody (AOPK) chce uplatnit přeshraniční hledisko a koordinaci podle mezinárodních závazků (Bernská úmluva, Natura 2000). Vlastník pozemku v ČR namítá, že žádný „přeshraniční" závazek mu nemůže ukládat povinnosti nad rámec zákona. Důkazy: telemetrická data o pohybu smečky, evidence EVL pro vlka, mezinárodní úmluvy.
+
+**2. Právní otázka.** Zakládá § 74 přímo vymahatelné povinnosti vůči soukromým osobám, nebo jde o programové ustanovení adresované orgánům státní správy, jehož realizace vyžaduje provedení obecně závazným předpisem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 74 odst. 1 (mezinárodní spolupráce, zmocnění MŽP vydat OZP), odst. 2 (zvláštní péče o přeshraniční území a druhy pohybující se přes hranice).
+- *Související ustanovení téhož zákona:* § 50 (ochrana zvláště chráněných živočichů), § 45a–45e (Natura 2000), § 79 odst. 2 písm. d) (MŽP zabezpečuje mezinárodní spolupráci).
+- *Související předpisy:* Bernská úmluva (č. 107/2001 Sb. m. s.), Bonnská/CMS úmluva, CITES, směrnice o stanovištích a o ptácích, čl. 1 odst. 2 a čl. 10 Ústavy.
+- *Judikatura:* ÚS I.ÚS 145/94 (citovaný výše) — § 74 odst. 1 je zmocněním vydat OZP, MŽP přitom nesmí porušit ústavně zaručená práva; mezinárodní úmluva sama o sobě bez provedení neukládá adresátům povinnosti contra legem.
+
+**4. Subsumpce.** § 74 ukládá povinnosti orgánům ochrany přírody (zajišťovat závazky, věnovat zvláštní péči), nikoli přímo soukromým osobám. Povinnosti soukromým osobám lze uložit jen na základě zákona, případně OZP vydaného k provedení úmluvy. Sporné: zda lze povinnosti dovodit přímo z Natura 2000 — zde však jde o transpoziční ustanovení (§ 45a a násl.), nikoli o § 74.
+
+**5. Řešení.** § 74 je programově-kompetenční ustanovení; vůči vlastníkovi je vymahatelné jen prostřednictvím konkrétních institutů (ochrana EVL, druhová ochrana). Orgán nemůže opřít individuální zákaz pouze o § 74; musí použít hmotněprávní nástroj. Koordinace se SR probíhá na úrovni orgánů, ne formou autonomní povinnosti vlastníka.
+
+**6. Varianty.** (a) Pokud MŽP vydá OZP k provedení úmluvy, povinnosti vlastníka už mají zákonný (podzákonný) základ a jsou vymahatelné. (b) Je-li lokalita EVL pro vlka, opora je v § 45 a násl., a § 74 jen dotváří výkladový kontext přeshraniční jednoty populace.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: mezinárodní úmluva má přednost před zákonem (čl. 10 Ústavy), tedy zavazuje přímo.* Neutralizace: přednost se uplatní jen u self-executing norem; programová ustanovení o spolupráci a péči vyžadují provedení a nezakládají sama o sobě povinnosti jednotlivců.
+- *Protiargument: § 74 je jen deklarace bez normativního obsahu.* Neutralizace: má reálný obsah jako kompetenční a interpretační norma (zmocnění MŽP, vodítko pro výklad ochrany přeshraničních druhů a území).
+- Slabé místo: rozhraní mezi § 74 a konkrétními transpozičními ustanoveními (Natura 2000) je v praxi prolínající se; argumentace musí přesně určit hmotněprávní základ povinnosti.
+
+#### H. Praktický závěr
+
+§ 74 zavazuje orgány ochrany přírody k mezinárodní spolupráci a zvláštní péči o přeshraniční druhy a území; vůči soukromým osobám působí jen zprostředkovaně — povinnosti je nutné opřít o konkrétní hmotněprávní instituty nebo o OZP vydaný k provedení úmluvy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit, zda jde o programové (§ 74) nebo hmotněprávní (§ 45a a násl., § 50) ustanovení.
+- [ ] Identifikovat dotčenou mezinárodní úmluvu a její provedení v českém právu.
+- [ ] U povinností soukromé osoby najít zákonný/podzákonný základ, nikoli pouze § 74.
+- [ ] U přeshraničních populací doložit jednotu biotopu (telemetrie, evidence EVL).
+
+**Typicky rozhodné důkazy / podklady:** texty úmluv a jejich vyhlášení ve Sbírce m. s., transpoziční ustanovení, telemetrická/monitorovací data, dokumentace přeshraničních ZCHÚ a EVL.
 
 ---
 
@@ -523,6 +1371,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 | MŽP | ministerstvo | zákon č. 2/1969 Sb. | celá ČR (ústřední orgán) |
 | Újezdní úřady | součást MO | MO | území vojenských újezdů |
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník pozemku obdrží rozhodnutí o povolení kácení dřevin vydané obecním úřadem; pozemek se nachází na okraji národní přírodní rezervace, část korun zasahuje do jejího ochranného pásma. Vlastník i sousední spolek si nejsou jisti, který orgán byl k rozhodnutí příslušný. Důkazy: katastrální mapa s vyznačením hranice NPR a OP, rozhodnutí OÚ, dokumentace ZCHÚ z ústředního seznamu.
+
+**2. Právní otázka.** Který z osmi orgánů ochrany přírody podle § 75 odst. 1 byl věcně a místně příslušný k rozhodnutí, jestliže předmět řízení leží částečně v ochranném pásmu NPR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 75 odst. 1 (katalog orgánů OP), odst. 3 (orgány vykonávají státní správu podle tohoto zákona).
+- *Související ustanovení téhož zákona:* § 76 (OÚ — jen mimo ZCHÚ), § 78 (AOPK na území NPR a OP), § 77, § 77a.
+- *Související předpisy:* § 11 a § 12 správního řádu (věcná a místní příslušnost), čl. 105 Ústavy (přenesená působnost).
+- *Judikatura:* obecný závěr, že rozhodnutí věcně nepříslušného orgánu je stiženo vadou; příslušnost orgánů OP se řídí kategorií ZCHÚ, v níž předmět řízení leží.
+
+**4. Subsumpce.** Územní princip (§ 75 výkladově, provedený v § 76–78): leží-li předmět v ochranném pásmu NPR, není příslušný OÚ (§ 76 odst. 1 výslovně vylučuje OP NPR), nýbrž AOPK (§ 78 odst. 1). OÚ tedy rozhodl jako věcně nepříslušný orgán.
+
+**5. Řešení.** Rozhodnutí OÚ je nezákonné pro nepříslušnost; v odvolání/přezkumu bude zrušeno a věc postoupena AOPK. Procesní krok: namítnout nepříslušnost, navrhnout postoupení. Pokud část pozemku leží mimo OP, štěpí se příslušnost podle umístění jednotlivých dřevin.
+
+**6. Varianty.** (a) Leží-li pozemek zcela mimo ZCHÚ a OP, je OÚ příslušný správně. (b) Šlo-li by o území CHKO, příslušná by byla rovněž AOPK (mimo CHKO Šumava/Labské pískovce).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: OÚ je „nejbližší" orgán a vlastník mu důvěřoval.* Neutralizace: příslušnost je dána zákonem (kogentně), nelze ji založit dobrou vírou ani blízkostí; nepříslušnost je vadou způsobující nezákonnost.
+- *Protiargument: zásah do OP je marginální, postačí OÚ.* Neutralizace: § 76 nezná hranici „marginality"; jakmile je dotčeno OP NPR, příslušnost přechází na AOPK.
+- Slabé místo: přesné vedení hranice OP v terénu může být sporné; nutné opřít o geometrický plán/ústřední seznam.
+
+#### H. Praktický závěr
+
+Příslušnost orgánu ochrany přírody se určuje primárně podle kategorie ZCHÚ, v níž předmět řízení leží; § 75 dává katalog, konkrétní příslušnost stanoví § 76–80. Před podáním žádosti je třeba ověřit, zda lokalita nespadá do ZCHÚ či jeho OP.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Lokalizovat předmět řízení vůči hranicím ZCHÚ a jejich OP (katastr, ústřední seznam).
+- [ ] Podle kategorie území určit příslušný orgán (§ 76–80).
+- [ ] Ověřit, zda nejde o vojenský újezd nebo CHKO Šumava/Labské pískovce (zvláštní příslušnost).
+- [ ] Při nepříslušnosti navrhnout postoupení a namítnout nezákonnost.
+
+**Typicky rozhodné důkazy / podklady:** katastrální/geometrické vymezení ZCHÚ a OP, dokumentace z ústředního seznamu, statut a sídlo příslušného orgánu.
+
 ### § 76 — Obecní úřady
 
 > **§ 76**
@@ -540,6 +1424,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 - *NSS* [1 As 89/2010 - 152](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/626692) — 30. 1. 2013
   > „Příslušnost tohoto orgánu vydat rozhodnutí o takové žádosti je založena ust. § 76 odst. 1 písm. a) zákona č. 114/1992 Sb., přičemž z ust. § 75 odst. 2 téhož zákona vyplývá, že rozhoduje-li obecní (městský) úřad jako orgán ochrany přírody, vykonává tím na tomto úseku státní správu. Obecní úřad tedy jako orgán obce, jakožto jednotky územní samosprávy, vykonává působnost v oblasti státní správy, která na něj byla v souladu s uvedeným zákonem, a tedy postupem aprobovaným čl. 105 Ústavy České republiky, přenesena"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obyvatel obce požádá obecní úřad o povolení pokácet vzrostlou lípu na své zahradě (obvod kmene 120 cm) v běžné zástavbě mimo jakékoli ZCHÚ. OÚ řízení vede, ale starosta zároveň jako fyzická osoba o kácení usiluje. Žadatel se obává podjatosti a nedostatečné odbornosti malého úřadu. Důkazy: měření obvodu kmene, situace pozemku vůči ZCHÚ, žádost o povolení.
+
+**2. Právní otázka.** Je obecní úřad jako orgán ochrany přírody příslušný k povolení kácení této dřeviny a v jakém rozsahu se na něj vztahují pravidla o vyloučení úřední osoby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 76 odst. 1 písm. a) (povolování kácení podle § 8 odst. 1), písm. b) (náhradní výsadba § 9); odst. 2 (výluka u záměrů vyžadujících JES v CHKO/EVL/PO).
+- *Související ustanovení téhož zákona:* § 8 odst. 1, § 9, § 75 odst. 2 (výkon státní správy v přenesené působnosti).
+- *Související předpisy:* vyhláška č. 189/2013 Sb. (velikost dřevin a podmínky povolování kácení); § 14 správního řádu (podjatost úřední osoby); čl. 105 Ústavy.
+- *Judikatura:* NSS 1 As 89/2010 (citovaný výše) — OÚ jako orgán obce vykonává v této věci přenesenou státní správu aprobovanou čl. 105 Ústavy.
+
+**4. Subsumpce.** Lípa mimo ZCHÚ, obvod 120 cm > 80 cm → povolení podle § 8 je třeba; OÚ je příslušný (§ 76 odst. 1 písm. a). Výluka odst. 2 se neuplatní (nejde o JES v CHKO/EVL/PO). Sporné: podjatost — starosta jako žadatel/zájemce nesmí ve věci úřadovat (§ 14 SŘ).
+
+**5. Řešení.** OÚ je příslušný; řízení vede, ale podjatá úřední osoba (starosta) musí být vyloučena, věc převezme jiný úředník nebo se postupuje podle § 131 SŘ (delegace nadřízeným orgánem). Výsledek: povolení/zamítnutí podle § 8, případně uložení náhradní výsadby (§ 9).
+
+**6. Varianty.** (a) Pokud by lípa byla v CHKO a šlo o záměr vyžadující JES, OÚ příslušný není — přebírá AOPK (odst. 2). (b) U dřeviny pod stanovenou velikost (vyhláška č. 189/2013 Sb.) povolení netřeba a OÚ nerozhoduje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: malý obecní úřad nemá odbornou kapacitu, věc by měl řešit specializovaný orgán.* Neutralizace: zákon přiznává OÚ tuto kompetenci výslovně; nedostatek kapacity se řeší metodickou pomocí KÚ, nikoli změnou příslušnosti.
+- *Protiargument: podjatost starosty znamená nepříslušnost úřadu.* Neutralizace: podjatost se týká úřední osoby, nikoli příslušnosti úřadu; řeší se vyloučením osoby, případně delegací.
+- Slabé místo: hranice velikosti dřeviny podléhající povolení se mění novelizacemi prováděcí vyhlášky — nutno ověřit aktuální znění.
+
+#### H. Praktický závěr
+
+Obecní úřad je orgánem ochrany přírody s nejužší, ale nejčastěji vykonávanou pravomocí — povolování kácení dřevin a ukládání náhradní výsadby mimo ZCHÚ. V ZCHÚ a u JES-záměrů v CHKO/EVL/PO příslušný není.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že lokalita neleží v ZCHÚ ani jejich OP (jinak nepříslušnost OÚ).
+- [ ] Ověřit, zda dřevina dosahuje velikosti podléhající povolení (vyhláška č. 189/2013 Sb.).
+- [ ] Vyloučit, že jde o záměr vyžadující JES v CHKO/EVL/PO (odst. 2).
+- [ ] Zkontrolovat nepodjatost úředních osob (§ 14 SŘ).
+
+**Typicky rozhodné důkazy / podklady:** měření obvodu kmene ve výšce 130 cm, situace pozemku vůči ZCHÚ, žádost a její náležitosti, doklad o případné podjatosti.
 
 ### § 77 — Působnost obecních úřadů obcí s rozšířenou působností
 
@@ -603,6 +1523,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Princip subsidiarity:** klauzule **„není-li příslušný jiný orgán ochrany přírody"** se opakuje napříč § 77 odst. 1 — jakmile území spadá do CHKO/NP/NPR/NPP, přebírá ji KÚ/AOPK/NPS, jinak ORP.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Developer chce na okraji města (mimo ZCHÚ) vystavět logistický areál; záměr zasáhne registrovaný významný krajinný prvek (mez s alejí), vyžaduje souhlas k zásahu do krajinného rázu a kácení dřevin, a zároveň zasahuje pozemky určené k plnění funkcí lesa, k nimž běží řízení podle lesního zákona. Investor podá samostatné žádosti na různé orgány. Důkazy: projektová dokumentace, registrace VKP, mapové podklady, řízení podle lesního zákona.
+
+**2. Právní otázka.** Který orgán ochrany přírody je příslušný k souhlasům podle § 4 odst. 2 a § 12 odst. 2 a k závaznému stanovisku do lesního řízení, a může je vydat ORP samostatně, nebo musí postupovat jiný orgán?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 77 odst. 1 písm. a) (souhlas k zásahu do VKP a registrace), písm. k) (souhlas ke krajinnému rázu § 12 odst. 2), písm. s) (státní dozor), odst. 4 (závazná stanoviska do sektorových řízení, mj. lesní zákon), odst. 5 (zbytková působnost).
+- *Související ustanovení téhož zákona:* § 4 odst. 2, § 12 odst. 2, § 6 odst. 1, § 83 (společné řízení).
+- *Související předpisy:* lesní zákon č. 289/1995 Sb., § 149 SŘ (závazné stanovisko).
+- *Judikatura:* obecný závěr o subsidiární příslušnosti ORP („není-li příslušný jiný orgán OP") na běžném území mimo ZCHÚ.
+
+**4. Subsumpce.** Lokalita mimo ZCHÚ a EVL → příslušný je ORP (subsidiarita odst. 1 a 5). ORP vydá souhlas k zásahu do VKP (písm. a), souhlas ke krajinnému rázu (písm. k) a závazné stanovisko do lesního řízení (odst. 4). Vyžaduje-li záměr více povolení podle ZOPK, vede ORP společné řízení (§ 83 odst. 4) a vydá jedno společné rozhodnutí.
+
+**5. Řešení.** ORP je „hlavním vykonavatelem" — sloučí agendy do společného řízení; do lesního řízení vstoupí jako dotčený orgán závazným stanoviskem. Investor by neměl tříštit žádosti; orgán je povinen vést společné řízení. Riziko: pokud část záměru zasahuje EVL, příslušnost u dané části přechází na KÚ/AOPK.
+
+**6. Varianty.** (a) Leží-li VKP v EVL, souhlas podle § 4 odst. 2 vydává jiný orgán (písm. a výslovně vyjímá EVL). (b) Jde-li o záměr vyžadující JES, vyjmenované souhlasy se samostatně nevydávají (§ 83 odst. 8) a integrují se do JES.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: jednotlivé agendy patří různým úřadům, nelze je sloučit.* Neutralizace: § 83 odst. 4 ukládá vést společné řízení, je-li třeba více povolení podle ZOPK; tříštění je procesně vadné.
+- *Protiargument: závazné stanovisko ORP do lesního řízení je jen vyjádření.* Neutralizace: jde o závazné stanovisko podle § 149 SŘ, jímž je vázán orgán vedoucí lesní řízení.
+- Slabé místo: přesné určení, zda VKP/část záměru leží v EVL, je skutkově náročné a rozhoduje o příslušnosti.
+
+#### H. Praktický závěr
+
+ORP je hlavním orgánem ochrany přírody na běžném území; kombinuje výčtové agendy (VKP, krajinný ráz, kácení, památné stromy, přestupky) se zbytkovou klauzulí a vystupuje jako dotčený orgán v sektorových řízeních. Klíčem je subsidiarita: jakmile území spadá do ZCHÚ/EVL/PO, příslušnost přechází jinam.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že lokalita leží na běžném území mimo ZCHÚ/EVL/PO (jinak nepříslušnost ORP).
+- [ ] Identifikovat všechny dotčené agendy a vést je ve společném řízení (§ 83 odst. 4).
+- [ ] U sektorových řízení (lesy, ZPF, myslivost, rybářství, hornictví) zajistit závazné stanovisko (odst. 4).
+- [ ] Zkontrolovat, zda záměr nevyžaduje JES (pak se některé souhlasy nevydávají, § 83 odst. 8).
+
+**Typicky rozhodné důkazy / podklady:** registrace VKP, projektová dokumentace, vymezení EVL/ZCHÚ, podklady pro krajinný ráz, podklady sektorových řízení.
+
 ### § 77a — Působnost krajů a krajských úřadů
 
 > **§ 77a**
@@ -624,6 +1580,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 **Výklad:** **Kraje a jejich úřady** mají třístupňovou roli: (i) v samostatné působnosti **vyhlašují PR a PP** nařízením kraje (odst. 2) — pro tyto kategorie ZCHÚ je tedy zřizovatelem **kraj**, nikoli stát (na rozdíl od NP, CHKO, NPR a NPP, které vyhlašuje stát zákonem, NV nebo vyhláškou MŽP); (ii) krajské úřady jsou orgány OP **na území PR/PP a OP** v rozsahu pravomocí ORP a OÚ (odst. 3); (iii) krajské úřady jsou orgány OP **v rozsahu zvlášť stanovených odborných agend** napříč krajem (odst. 4 a 5) — typicky **výjimky § 56 u zvláště chráněných druhů**, předchozí stanoviska, povolení rozšiřování kříženců, jeskyně mimo CHKO.
 
 **Klíčová praktická role kraje:** je **„druhostupňovým specialistou"** — řeší věci, které jsou nad rámec ORP, ale ne natolik specifické, aby je řešila AOPK/NPS. Kraj vyhlašuje **regionální ÚSES** (odst. 6 — místní ÚSES dělají ORP, nadregionální MŽP).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zemědělec hospodaří na pozemcích v přírodní památce vyhlášené nařízením kraje. Chce odchytit a přemístit kolonii zvláště chráněného druhu (sysla obecného) a potřebuje výjimku podle § 56. Současně podává podnět na zrušení části PP, kterou považuje za nadbytečnou. Není mu jasné, zda o výjimce i o (z)rušení území rozhoduje tentýž orgán. Důkazy: nařízení kraje o zřízení PP, plán péče, projekt přemístění, biologické posouzení.
+
+**2. Právní otázka.** Jaký orgán je příslušný k výjimce podle § 56 u zvláště chráněného druhu na území PR/PP a kdo je oprávněn území zřídit či zrušit — kraj v samostatné, nebo krajský úřad v přenesené působnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 77a odst. 2 (kraj nařízením zřizuje/ruší PR a PP — samostatná působnost), odst. 3 (KÚ vykonává na území PR/PP státní správu v rozsahu OÚ a ORP), odst. 5 (KÚ rozhoduje o zvláště chráněných druzích, výjimky § 56).
+- *Související ustanovení téhož zákona:* § 56 (výjimky u ZCHD), § 33, § 36, § 45 (zřízení/zrušení PR, PP), § 5b (odchylný postup u ptáků).
+- *Související předpisy:* zákon o krajích č. 129/2000 Sb. (rozdělení samostatné a přenesené působnosti), správní řád.
+- *Judikatura:* obecný výkladový závěr o oddělení samostatné (normotvorba — nařízení kraje) a přenesené (správní rozhodování — KÚ) působnosti.
+
+**4. Subsumpce.** Výjimka podle § 56 u ZCHD = přenesená působnost krajského úřadu (odst. 5), není-li příslušná AOPK/NPS/újezdní úřad/MŽP. Zřízení/zrušení PP = samostatná působnost kraje formou nařízení (odst. 2). Jde tedy o dva různé režimy a (formálně) dva různé nositele — kraj (rada/zastupitelstvo, nařízení) vs. krajský úřad (správní řízení).
+
+**5. Řešení.** O výjimce podle § 56 rozhodne krajský úřad ve správním řízení. O zrušení PP rozhoduje kraj nařízením v samostatné působnosti — na to není právní nárok a nelze je vynutit správní žalobou jako u rozhodnutí; podnět je nezávazný. Zemědělec tedy uspěje (případně) jen u výjimky; zrušení území je politicko-normotvorné rozhodnutí kraje.
+
+**6. Varianty.** (a) Leží-li PP v CHKO nebo jde o NPR, příslušná k výjimce je AOPK/NPS, nikoli KÚ (odst. 5 návětí). (b) U regionálního ÚSES rozhoduje KÚ (odst. 6), u nadregionálního MŽP.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: o všem na území PP rozhoduje jeden krajský orgán.* Neutralizace: nutno odlišit samostatnou působnost kraje (normotvorba) od přenesené působnosti KÚ (správní rozhodování) — jde o různé režimy s odlišnou přezkoumatelností.
+- *Protiargument: na zrušení PP má vlastník nárok, je-li ochrana nadbytečná.* Neutralizace: zřízení/zrušení je výrazem uvážení kraje v samostatné působnosti; existuje jen podnět, nikoli vymahatelný nárok.
+- Slabé místo: hranice příslušnosti KÚ vs. AOPK/NPS závisí na zařazení území (PP samostatná vs. PP v CHKO) — nutno ověřit překryv kategorií.
+
+#### H. Praktický závěr
+
+Kraj a krajský úřad mají trojí roli: kraj v samostatné působnosti vyhlašuje a ruší PR a PP nařízením; krajský úřad vykonává na území PR/PP státní správu v rozsahu OÚ a ORP a navíc rozhoduje o specializovaných odborných agendách (zejména výjimky § 56) napříč krajem, není-li příslušná AOPK/NPS/MŽP.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odlišit samostatnou působnost kraje (nařízení) od přenesené působnosti KÚ (správní řízení).
+- [ ] U výjimky § 56 ověřit, zda území nespadá pod AOPK/NPS (CHKO, NPR/NPP).
+- [ ] U požadavku na zrušení území počítat jen s nezávazným podnětem ke kraji.
+- [ ] U ÚSES rozlišit úroveň (místní ORP, regionální KÚ, nadregionální MŽP).
+
+**Typicky rozhodné důkazy / podklady:** nařízení kraje o zřízení PR/PP, plán péče, biologické posouzení, projekt zásahu, vymezení překryvu s CHKO/NPR.
 
 ### § 78 — Působnost Agentury a správ národních parků
 
@@ -684,6 +1676,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *NSS* [30 A 125/2012 - 111](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/550987) — 19. 3. 2014
   > „Nelze jistě přehlédnout výjimečnost postavení a význam Správy KRNAP pro celou oblast Krkonošského národního parku a blízké okolí. Jak plyne například z ustanovení § 78 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, vykonává právě tento orgán na území národních parků v zásadě státní správu v ochraně přírody a krajiny"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obecní úřad vydal na území chráněné krajinné oblasti rozhodnutí o povolení kácení aleje podél cesty. Spolek se chce odvolat. Současně AOPK připravuje nové nařízení o zřízení přírodní rezervace v téže CHKO a obec namítá, že nebyla zapojena. Důkazy: rozhodnutí OÚ, vymezení CHKO, návrh nařízení AOPK, doklady o projednání s obcemi.
+
+**2. Právní otázka.** Kdo je odvolacím orgánem proti rozhodnutí obecního úřadu vydanému na území CHKO a je AOPK oprávněna zřídit přírodní rezervaci nařízením, aniž projedná návrh s dotčenými obcemi?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 78 odst. 1 (AOPK orgánem OP na území CHKO a NPR/NPP), odst. 9 (normotvorná pravomoc AOPK — nařízení podle § 33, 36, 37, 45), odst. 10 (projednání s obcemi, dozor MŽP), odst. 15 (AOPK/NPS odvolacím orgánem proti rozhodnutím orgánů obcí).
+- *Související ustanovení téhož zákona:* § 33 (zřízení PR), § 79 odst. 3 písm. s) (MŽP odvolacím orgánem proti rozhodnutím KÚ, AOPK, NPS, ČIŽP), § 71 (účast obcí).
+- *Související předpisy:* zákon č. 35/2021 Sb. (Sbírka právních předpisů ÚSC a správních úřadů); správní řád (odvolací řízení).
+- *Judikatura:* NSS 30 A 125/2012 (citovaný výše) — Správa NP/AOPK vykonává na svém území v zásadě veškerou státní správu v ochraně přírody.
+
+**4. Subsumpce.** Rozhodnutí OÚ na území CHKO → odvolacím orgánem je AOPK (odst. 15), nikoli krajský úřad ani MŽP. Nařízení AOPK o zřízení PR → AOPK má normotvornou pravomoc (odst. 9), ale je povinna návrh projednat s dotčenými obcemi (odst. 10); MŽP vykonává dozor nad obsahem.
+
+**5. Řešení.** Odvolání směřuje k AOPK. Bez projednání s obcemi by nařízení AOPK trpělo procesní vadou; obec se může bránit u MŽP (dozor) nebo v rámci přezkumu OOP/nařízení. AOPK proto musí doložit projednání s každou dotčenou obcí.
+
+**6. Varianty.** (a) Šlo-li by o rozhodnutí samotné AOPK (nikoli OÚ), odvolacím orgánem je MŽP (§ 79 odst. 3 písm. s). (b) Na území CHKO Šumava/Labské pískovce vykonává působnost AOPK příslušná Správa NP (Šumava, České Švýcarsko).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: odvolacím orgánem je vždy krajský úřad jako vyšší územní orgán.* Neutralizace: u rozhodnutí orgánů obcí na území CHKO/NPR je odvolacím orgánem AOPK (odst. 15); KÚ zde není v instanční řadě.
+- *Protiargument: AOPK jako správní úřad nemůže mít normotvornou pravomoc.* Neutralizace: § 78 odst. 9 jí ji výslovně svěřuje; jde o atypické, ale zákonné zmocnění, s dozorem MŽP a vyhlášením ve zvláštní sbírce.
+- Slabé místo: identifikace „dotčených obcí" pro projednání nařízení může být sporná a vést k vadám procesu.
+
+#### H. Praktický závěr
+
+AOPK je orgánem ochrany přírody na území CHKO a NPR/NPP (mimo CHKO Šumava/Labské pískovce, kde působí Správy NP), kumuluje pravomoci OÚ, ORP i KÚ, je odvolacím orgánem proti rozhodnutím orgánů obcí a má vlastní normotvornou pravomoc (nařízení o PR/PP/OP) podléhající projednání s obcemi a dozoru MŽP.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit instanci: rozhodnutí orgánů obcí na území CHKO/NPR → odvolání k AOPK; rozhodnutí AOPK → odvolání k MŽP.
+- [ ] U CHKO Šumava/Labské pískovce počítat s příslušností Správ NP namísto AOPK.
+- [ ] U nařízení AOPK ověřit projednání s dotčenými obcemi (odst. 10).
+- [ ] Zohlednit kumulaci pravomocí OÚ+ORP+KÚ u AOPK/NPS.
+
+**Typicky rozhodné důkazy / podklady:** vymezení CHKO/NPR, prvostupňové rozhodnutí, doklady o projednání nařízení s obcemi, podklady dozoru MŽP.
+
 ### § 78a — Působnost orgánů ochrany přírody na území vojenských újezdů
 
 > **§ 78a**
@@ -704,6 +1732,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 > *j) je odvolacím orgánem proti rozhodnutím vydaným podle tohoto zákona újezdními úřady.*
 
 **Výklad:** **Vojenské újezdy** (Boletice, Brdy do 2016, Březina, Hradiště, Libavá) mají svébytný režim. Pro účely OP zde **státní správu vykonávají újezdní úřady** (organizační složky MO) ve **veškerém rozsahu** od OÚ až po NPS. **MO je v nadřazené roli** — vyhlašuje PR a PP na území újezdů vlastní vyhláškou (písm. d), je odvolacím orgánem (písm. j) a vykonává státní dozor (písm. h). Tím je MO funkčně paralela MŽP pro území vojenských újezdů. Zachování biotopů ve vojenských újezdech (díky omezenému hospodaření je řada z nich přírodně velmi cenná — např. Brdy, Libavá) je významným paradoxem české ochrany přírody.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V činném vojenském újezdu (např. Hradiště) chce dodavatel armády provést terénní úpravy a kácení dřevin pro nové cvičiště, čímž zasáhne přírodní památku vyhlášenou vyhláškou Ministerstva obrany. Újezdní úřad vydá povolení; ekologický spolek se chce odvolat a tvrdí, že příslušná měla být AOPK. Důkazy: vyhláška MO o vyhlášení PP, projekt cvičiště, rozhodnutí újezdního úřadu.
+
+**2. Právní otázka.** Který orgán je na území vojenského újezdu příslušný k povolení zásahu a kdo je odvolacím orgánem proti rozhodnutí újezdního úřadu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 78a odst. 1 (újezdní úřady vykonávají na území újezdů státní správu v rozsahu OÚ, ORP, KÚ, AOPK a NPS), odst. 2 písm. d) (MO vyhlašuje PR/PP vyhláškou), písm. h) (státní dozor MO), písm. j) (MO odvolacím orgánem proti rozhodnutím újezdních úřadů).
+- *Související ustanovení téhož zákona:* § 78 (AOPK/NPS — mimo újezdy), § 79 (MŽP), § 33, § 36 (PR, PP).
+- *Související předpisy:* zákon č. 222/1999 Sb., o zajišťování obrany ČR; zákon č. 15/2015 Sb. (hranice vojenských újezdů); správní řád.
+- *Judikatura:* obecný výkladový závěr, že na území vojenských újezdů je vyloučena příslušnost AOPK a v plném rozsahu nastupuje újezdní úřad, resp. MO.
+
+**4. Subsumpce.** Předmět řízení leží ve vojenském újezdu → příslušný je újezdní úřad (odst. 1), nikoli AOPK. Odvolacím orgánem je Ministerstvo obrany (odst. 2 písm. j), nikoli MŽP. Námitka spolku o příslušnosti AOPK je nedůvodná — odst. 1 výslovně přenáší i působnost AOPK na újezdní úřad.
+
+**5. Řešení.** Odvolání směřuje k Ministerstvu obrany. AOPK ani MŽP zde nejsou v instanční řadě. Spolek se může účastnit řízení (§ 70), ale příslušnost orgánů je dána zvláštním režimem újezdů. Riziko: jde-li o EVL/PO v újezdu, uplatní se naturová ochrana (§ 45i), avšak rozhoduje opět újezdní úřad/MO.
+
+**6. Varianty.** (a) Leží-li záměr těsně za hranicí újezdu, příslušnost se vrací k AOPK/ORP. (b) U strategických koncepcí obrany může MO vystupovat v roli paralelní k MŽP (odst. 2 písm. a, d).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: ochranu přírody musí i v újezdu vykonávat civilní orgán (AOPK).* Neutralizace: § 78a odst. 1 výslovně přenáší veškerou působnost na újezdní úřady; jde o zákonnou výluku z obecné soustavy.
+- *Protiargument: odvolacím orgánem musí být MŽP jako ústřední orgán OP.* Neutralizace: pro újezdy je odvolacím orgánem MO (odst. 2 písm. j); MŽP zde instanční roli nemá.
+- Slabé místo: přesné vymezení hranic újezdu rozhoduje o příslušnosti; po redukci/zrušení újezdu (např. Brdy 2016) se režim mění.
+
+#### H. Praktický závěr
+
+Na území vojenských újezdů vykonávají veškerou státní správu v ochraně přírody újezdní úřady (v rozsahu OÚ až NPS), zatímco Ministerstvo obrany plní roli paralelní k MŽP — vyhlašuje PR/PP, vykonává státní dozor a je odvolacím orgánem. AOPK ani MŽP zde nejsou příslušné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda předmět leží uvnitř hranic vojenského újezdu (zákon č. 15/2015 Sb.).
+- [ ] Pro řízení v újezdu počítat s příslušností újezdního úřadu, nikoli AOPK.
+- [ ] Odvolání a státní dozor směřovat k Ministerstvu obrany (odst. 2).
+- [ ] U EVL/PO v újezdu zohlednit naturovou ochranu při zachování příslušnosti újezdního úřadu/MO.
+
+**Typicky rozhodné důkazy / podklady:** vymezení hranic újezdu, vyhláška MO o vyhlášení PR/PP, projekt záměru, prvostupňové rozhodnutí újezdního úřadu.
 
 ### § 79 — Působnost Ministerstva životního prostředí
 
@@ -764,6 +1828,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Energetické projekty PCI (odst. 4):** od novely 2024 (RED III, nařízení EU 869/2022) má MŽP **kumulativní pravomoc** všech úrovní orgánů OP (od OÚ po AOPK) pro **projekty společného zájmu energetické infrastruktury** — má zajistit zrychlené povolování OZE a transevropských energetických sítí.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vývozce chce vyvézt do třetí země preparovaný exemplář dravce chráněného mezinárodní úmluvou (CITES) a zároveň zvláště chráněný nerost. Krajský úřad žádost odmítne jako nepříslušný. Žadatel namítá, že o všech věcech ochrany přírody rozhoduje krajský úřad. Souběžně se proti rozhodnutí KÚ v jiné věci (výjimka § 56) odvolává a neví, kdo o odvolání rozhodne. Důkazy: doklady o původu exempláře, CITES dokumentace, rozhodnutí KÚ.
+
+**2. Právní otázka.** Který orgán je příslušný k vydání povolení k vývozu druhů chráněných mezinárodními úmluvami a zvláště chráněných nerostů a kdo je odvolacím orgánem proti rozhodnutí krajského úřadu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 79 odst. 1 (MŽP ústředním orgánem), odst. 3 písm. b) a g) (povolení k vývozu/dovozu ohrožených druhů a paleontologických nálezů, vývoz zvláště chráněných nerostů podle § 53), písm. s) (MŽP odvolacím orgánem proti rozhodnutím KÚ, AOPK, NPS, ČIŽP).
+- *Související ustanovení téhož zákona:* § 5 odst. 10, § 11 odst. 3, § 53, § 56.
+- *Související předpisy:* nařízení (ES) č. 338/97 (provádění CITES) a zákon č. 100/2004 Sb. (obchodování s ohroženými druhy); správní řád (instanční přezkum).
+- *Judikatura:* obecný výkladový závěr, že specifické vývozní a dovozní agendy jsou centralizovány u MŽP a nelze je delegovat na KÚ.
+
+**4. Subsumpce.** Vývoz druhu chráněného mezinárodní úmluvou a zvláště chráněného nerostu spadá pod § 79 odst. 3 písm. b) a g) → příslušné je MŽP, nikoli KÚ. Odvolacím orgánem proti rozhodnutí KÚ je MŽP (písm. s). Námitka žadatele o příslušnosti KÚ je nesprávná.
+
+**5. Řešení.** Žadatel musí podat žádost u MŽP (vývozní povolení); odvolání proti rozhodnutí KÚ posoudí rovněž MŽP. Pozor na souběh s režimem CITES podle zákona č. 100/2004 Sb. — některé exempláře vyžadují i samostatné povolení podle tohoto zákona. Výsledek: odmítnutí KÚ pro nepříslušnost je správné.
+
+**6. Varianty.** (a) Jde-li o běžný (nechráněný) nerost, povolení podle ZOPK netřeba. (b) U odvolání proti rozhodnutí orgánu obce na běžném území je odvolacím orgánem KÚ (nikoli MŽP), což odlišuje instanční řadu podle prvostupňového orgánu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: o ochraně přírody v kraji rozhoduje krajský úřad.* Neutralizace: vývozní/dovozní a další celostátní agendy jsou výslovně svěřeny MŽP (odst. 3); KÚ je v nich nepříslušný.
+- *Protiargument: odvolacím orgánem je vždy nejblíže vyšší územní orgán.* Neutralizace: proti rozhodnutí KÚ, AOPK, NPS i ČIŽP je odvolacím orgánem MŽP (písm. s); instance se řídí prvostupňovým orgánem.
+- Slabé místo: souběh ZOPK a zákona č. 100/2004 Sb. (CITES) může vést k přehlédnutí druhého povolení; nutná koordinace obou režimů.
+
+#### H. Praktický závěr
+
+MŽP je ústředním orgánem ochrany přírody se třemi typy pravomocí — strategicko-koordinační, prvoinstanční rozhodovací ve specifických (zejména celostátních a mezinárodních) agendách a odvolací proti rozhodnutím KÚ, AOPK, NPS a ČIŽP. Disponuje též rozsáhlou normotvornou pravomocí (vyhlášky) a kompetencemi podle nařízení EU.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U vývozu/dovozu chráněných druhů a nerostů podat žádost u MŽP, nikoli u KÚ.
+- [ ] Určit odvolací orgán podle prvostupňového orgánu (KÚ/AOPK/NPS/ČIŽP → MŽP; orgán obce → KÚ nebo AOPK).
+- [ ] U CITES exemplářů zohlednit souběžný režim zákona č. 100/2004 Sb.
+- [ ] U PCI energetických projektů počítat s kumulativní příslušností MŽP (odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** doklady o původu a druhu exempláře, CITES dokumentace, prvostupňové rozhodnutí, podklady k povolení podle § 53/§ 11.
+
 ### § 79a — Zvláštní odborná způsobilost
 
 > **§ 79a**
@@ -783,6 +1883,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 > *(7) Povinnost prokázat zvláštní odbornou způsobilost se nevztahuje na fyzickou osobu, která vykonala úřednickou zkoušku podle zákona o státní službě pro obor služby ochrana přírody a krajiny nebo zkoušku zvláštní odborné způsobilosti podle zákona o úřednících územních samosprávných celků pro správní činnost v ochraně přírody a krajiny.*
 
 **Výklad:** **Personální kvalifikační požadavek pro zaměstnance Správ NP.** NPS jsou státní příspěvkové organizace, jejich zaměstnanci nejsou ve služebním poměru podle zákona č. 234/2014 Sb. (na rozdíl od AOPK a ČIŽP, kde platí služební zákon). Aby byla zajištěna odborná kvalita jejich rozhodování, zavádí ZOPK zvláštní zkoušku obdobnou zkoušce úředníků ÚSC. Lhůta na složení zkoušky: 18 měsíců od nástupu. Zkoušky organizuje MŽP. Osvobozeny jsou osoby, které již složily úřednickou zkoušku pro obor „ochrana přírody a krajiny" podle služebního zákona, nebo zkoušku odborné způsobilosti podle zákona č. 312/2002 Sb.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Správa národního parku přijala nového referenta, který od prvního dne samostatně vede správní řízení o výjimkách podle § 56 a vydává rozhodnutí. Po 20 měsících od nástupu referent zkoušku zvláštní odborné způsobilosti dosud nesložil a Správa jej k ní přihlásila až v 10. měsíci. Účastník řízení napadá vydaná rozhodnutí s tím, že je vydala osoba bez požadované způsobilosti. Důkazy: pracovní smlouva, evidence vykonávaných správních činností, doklad o přihlášení ke zkoušce, případné osvědčení.
+
+**2. Právní otázka.** Má nedostatek zvláštní odborné způsobilosti zaměstnance Správy NP po uplynutí 18měsíční lhůty vliv na zákonnost jím vydaných rozhodnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 79a odst. 1 (požadavek ZOZ pro správní činnosti Správy NP), odst. 2 a 3 (tolerance nejdéle 18 měsíců, povinnost prokázat), odst. 5 (přihlášení do 6 měsíců), odst. 6 (přiměřené použití § 22–26 zákona o úřednících ÚSC), odst. 7 (výjimky).
+- *Související ustanovení téhož zákona:* § 78 odst. 2 (působnost Správ NP), § 56 (výjimky).
+- *Související předpisy:* zákon č. 312/2002 Sb., o úřednících ÚSC (§ 22–26); zákon č. 234/2014 Sb., o státní službě (úřednická zkouška jako náhrada).
+- *Judikatura:* obecný výkladový závěr, že kvalifikační požadavek na úředníka je veřejnoprávní povinností zaměstnavatele; jeho porušení primárně zakládá odpovědnost organizace, nikoli automaticky nicotnost aktů.
+
+**4. Subsumpce.** Referent vykonával správní činnost bez ZOZ; tolerance 18 měsíců uplynula (20 měsíců). Správa porušila i odst. 5 (přihlášení mělo být do 6, nikoli 10 měsíců). Sporné: zda nedostatek ZOZ činí rozhodnutí nezákonným/nicotným, nebo jde „jen" o pochybení v organizaci práce. Převažuje výklad, že ZOZ je požadavkem na zaměstnance, nikoli podmínkou věcné/místní příslušnosti orgánu.
+
+**5. Řešení.** Rozhodnutí vydaná Správou NP jsou vydána příslušným orgánem; absence ZOZ u konkrétního referenta nezakládá nicotnost ani bez dalšího nezákonnost rozhodnutí, je-li jinak věcně správné. Zakládá však pochybení Správy (povinnost sjednat nápravu, riziko personálních důsledků). Účastník samotnou absencí ZOZ zrušení rozhodnutí zpravidla nedosáhne; musí napadat věcné vady.
+
+**6. Varianty.** (a) Pokud referent složil úřednickou zkoušku pro obor „ochrana přírody a krajiny" podle služebního zákona, povinnost ZOZ se na něj nevztahuje (odst. 7). (b) Týž požadavek se neuplatní u AOPK/ČIŽP, kde platí služební zákon — argument o ZOZ by tam byl bezpředmětný.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: rozhodnutí osoby bez ZOZ je nicotné.* Neutralizace: ZOZ je kvalifikačním požadavkem na zaměstnance, nikoli podmínkou příslušnosti orgánu; nicotnost (§ 77 SŘ) z toho neplyne.
+- *Protiargument: lhůta 18 měsíců je jen pořádková.* Neutralizace: má reálný obsah — po jejím marném uplynutí zaměstnanec nesmí činnost vykonávat a organizace porušuje zákon; to však míří dovnitř, k odpovědnosti organizace.
+- Slabé místo: hranice mezi „vadou v organizaci práce" a vadou aktu není v zákoně výslovná; obrana účastníka stojí na věcných, nikoli kvalifikačních námitkách.
+
+#### H. Praktický závěr
+
+Zvláštní odborná způsobilost je personálním kvalifikačním požadavkem pro zaměstnance Správ NP (které nepodléhají služebnímu zákonu); jeho porušení zakládá odpovědnost organizace, nikoli automaticky neplatnost vydaných rozhodnutí. Lhůta na složení zkoušky je 18 měsíců, přihlášení do 6 měsíců.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda jde o zaměstnance Správy NP (jinak se § 79a neuplatní).
+- [ ] Zkontrolovat dodržení lhůt: přihlášení do 6 měsíců, složení do 18 měsíců.
+- [ ] Posoudit, zda se neuplatní výjimka podle odst. 7 (úřednická zkouška / ZOZ pro OPK).
+- [ ] Námitky účastníka směřovat na věcné vady, nikoli jen na absenci ZOZ.
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva, evidence správních činností, doklad o přihlášení a vykonání zkoušky, případné osvědčení o úřednické zkoušce.
 
 ### § 80 — Působnost České inspekce životního prostředí
 
@@ -810,6 +1946,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 - *NSS* [15 A 124/2020 - 58](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/702753) — 21. 6. 2022
   > „pokud je k rozhodování o správních deliktech (např. dle § 4 zákona č. 282/1991 Sb., o České inspekci životního prostředí a její působnosti v ochraně lesa, § 80 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, § 66 zákona č. 185/2001 Sb., o odpadech) příslušná Česká inspekce životního prostředí, rozhoduje o nich v prvním stupni; o odvolání rozhoduje Ministerstvo životního prostředí. Oblastním inspektorátům České inspekce životního prostředí zákon nesvěřil samostatné rozhodovací pravomoci"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební firma (PFO) provedla v ochranném pásmu národní přírodní rezervace bez povolení terénní úpravy a poškodila biotop zvláště chráněného druhu. Téhož dne, kdy se o věci dozví ČIŽP, zahájí řízení o přestupku rovněž AOPK (jako orgán OP na území NPR a OP). Obě řízení běží paralelně; firma namítá nepřípustnost dvojího postihu. Důkazy: protokol o kontrole, fotodokumentace zásahu, doklady o zahájení řízení a jejich datum.
+
+**2. Právní otázka.** Který orgán je příslušný projednat přestupek právnické/podnikající fyzické osoby, zahájí-li řízení ČIŽP i AOPK ve stejný den, a hrozí dvojí postih?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80 odst. 1 (kontrolní působnost ČIŽP vůči PO a PFO), odst. 2 (opatření podle § 66, § 86, § 89, zastavení činnosti), odst. 4 (projednávání přestupků PO/PFO, subsidiarita ČIŽP a pravidlo přednosti specializovaného orgánu při souběhu, odvolání k MŽP).
+- *Související ustanovení téhož zákona:* § 88 (přestupky PO a PFO), § 66, § 86, § 89, § 78 (působnost AOPK).
+- *Související předpisy:* zákon č. 250/2016 Sb., o odpovědnosti za přestupky; zákon č. 282/1991 Sb., o ČIŽP; zásada ne bis in idem (čl. 40 odst. 5 Listiny).
+- *Judikatura:* NSS 15 A 124/2020 (citovaný výše) — o správních deliktech rozhoduje ČIŽP v prvním stupni, o odvolání MŽP; oblastní inspektoráty nemají samostatnou rozhodovací pravomoc.
+
+**4. Subsumpce.** Pachatelem je PFO → působnost ČIŽP i specializovaného orgánu (AOPK). Při zahájení řízení týmž dnem § 80 odst. 4 stanoví přednost specializovaného orgánu (újezdní úřad / ORP / KÚ / AOPK / NPS); ČIŽP řízení nevede. Dvojí postih je vyloučen pravidlem o jediném vedoucím orgánu a zásadou ne bis in idem.
+
+**5. Řízení/Řešení.** Řízení provede AOPK; ČIŽP se s AOPK vzájemně informují (odst. 4) a ČIŽP své řízení nezahajuje, resp. zastaví. O odvolání proti rozhodnutí AOPK rozhoduje MŽP; kdyby věc vedla ČIŽP, rovněž MŽP. Námitka dvojího postihu je důvodná jen tehdy, pokud by skutečně proběhla dvě řízení o témže skutku — tomu má § 80 odst. 4 předejít.
+
+**6. Varianty.** (a) Je-li pachatelem nepodnikající fyzická osoba, ČIŽP nepříslušná (odst. 1 kryje jen PO a PFO) — věc řeší ORP/KÚ podle § 87. (b) Zahájí-li ČIŽP řízení dříve než specializovaný orgán, vede je ČIŽP.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: paralelní řízení ČIŽP a AOPK porušuje ne bis in idem.* Neutralizace: § 80 odst. 4 souběh řeší přednostním pravidlem a vzájemnou informační povinností; vede se jen jedno řízení.
+- *Protiargument: ČIŽP může postihnout i fyzickou osobu.* Neutralizace: odst. 1 omezuje kontrolní a sankční působnost ČIŽP na orgány veřejné správy (mimo ústřední), PO a PFO; nepodnikající FO spadá pod ORP/KÚ (§ 87).
+- Slabé místo: určení přesného data zahájení řízení (rozhodné pro přednost) může být sporné a vyžaduje pečlivou evidenci procesních úkonů.
+
+#### H. Praktický závěr
+
+ČIŽP je subsidiárním kontrolním a sankčním orgánem vůči právnickým a podnikajícím fyzickým osobám (a orgánům veřejné správy mimo ústřední); řízení o přestupku podle § 88 zahajuje jen tehdy, nezahájil-li je již specializovaný orgán, a při souběhu téhož dne má přednost specializovaný orgán. O odvolání rozhoduje MŽP.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit povahu pachatele: PO/PFO (i ČIŽP) vs. nepodnikající FO (jen ORP/KÚ, § 87).
+- [ ] Zjistit, který orgán a kdy zahájil řízení (rozhodné pro přednost podle § 80 odst. 4).
+- [ ] Zajistit vzájemnou informovanost ČIŽP a specializovaného orgánu, vyloučit dvojí řízení.
+- [ ] Odvolání směřovat k MŽP.
+
+**Typicky rozhodné důkazy / podklady:** protokol o kontrole, fotodokumentace, doklady o zahájení a datech řízení, doklady o vzájemné informaci orgánů.
 
 ### § 81 — Stráž přírody
 
@@ -861,6 +2033,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *NSS* [5 A 73/2020 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/717734) — 27. 11. 2023
   > „Dle stejného komentáře jsou povinnými subjekty dle § 2 odst. 2 zákona o svobodném přístupu k informacím např. fyzické osoby, „kterým byl na základě zákona svěřen výkon veřejné moci v rámci vybraných odvětví veřejné správy - v praxi půjde mj. o případy tzv. veřejných stráží, např. lesní stráž …, stráž přírody ve smyslu § 81 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, rybářská stráž ve smyslu zákona č. 99/2004 Sb. (zákon o rybářství) aj.“ S těmito názory se městský soud ztotožňuje"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dobrovolný strážce přírody přistihne v přírodní rezervaci motocyklisty jedoucí mimo cesty (porušení zákazu vjezdu). Zastaví je, vyzve k prokázání totožnosti, jednomu uloží příkazem na místě pokutu a druhého, který odmítá spolupracovat, zadrží do příjezdu Policie ČR. Současně bezprostředně pozastaví další jízdu skupiny. Jeden z účastníků namítá, že strážce neměl viditelný odznak a překročil své pravomoci. Důkazy: průkaz a odznak strážce, fotodokumentace vjezdu, záznam o příkazu na místě, oznámení ustanovujícímu orgánu.
+
+**2. Právní otázka.** V jakém rozsahu může strážce přírody uplatnit donucovací oprávnění (zjištění totožnosti, zadržení, pozastavení činnosti, příkaz na místě) a jaké jsou meze a navazující povinnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 81 odst. 7 (oprávnění strážců — totožnost, příkaz na místě, vstup § 62, zadržení, zastavení vozidla v ZCHÚ, součinnost PČR), odst. 8 (pozastavení rušivé činnosti, potvrzení orgánem OP do 15 dnů), odst. 3 písm. g) (slib), odst. 4 (odznak a průkaz).
+- *Související ustanovení téhož zákona:* § 81a (povinnosti stráže — legitimace odznakem a průkazem), § 62 (vstup na pozemky), § 26/§ 29 (zákazy v ZCHÚ).
+- *Související předpisy:* § 127 trestního zákoníku (úřední osoba); zákon č. 250/2016 Sb. (příkaz na místě, § 91 a násl.); vyhláška k organizaci stráže přírody.
+- *Judikatura:* NSS 5 A 73/2020 (citovaný výše) — stráž přírody je nositelem svěřeného výkonu veřejné moci (veřejná stráž).
+
+**4. Subsumpce.** Vjezd mimo cesty v PR = porušení zákazu → strážce je oprávněn zjistit totožnost (písm. a), zastavit vozidlo v ZCHÚ (písm. e), projednat přestupek příkazem na místě (písm. b), zadržet odmítajícího a předat PČR (písm. d), pozastavit činnost (odst. 8). Strážce je úřední osobou (§ 127 TZ). Sporné: legitimace odznakem — bez ní lze namítat vadu výkonu pravomoci (§ 81a písm. a).
+
+**5. Řešení.** Donucovací úkony jsou v mezích § 81 odst. 7 zákonné. Pozastavení činnosti (odst. 8) musí orgán OP do 15 dnů potvrdit, změnit, nebo zrušit — jinak pozbývá účinků. Strážce je povinen se legitimovat (§ 81a); pokud tak prokazatelně neučinil, oslabuje to procesní použitelnost úkonů, ale samotnou existenci porušení to neneguje.
+
+**6. Varianty.** (a) Mimo ZCHÚ/OP/EVL/PO nemá strážce oprávnění zastavit vozidlo (písm. e je vázáno na tato území). (b) U nesouhlasu pachatele nelze přestupek vyřídit příkazem na místě a věc se postupuje do správního řízení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: dobrovolný strážce nemůže mít donucovací pravomoci.* Neutralizace: § 81 odst. 7 oprávnění výslovně přiznává; strážce je úřední osobou a veřejnou stráží (NSS 5 A 73/2020).
+- *Protiargument: pozastavení činnosti strážcem je svévolné a trvalé.* Neutralizace: jde o dočasné opatření, které orgán OP musí do 15 dnů přezkoumat (odst. 8); bez potvrzení pozbývá účinků.
+- Slabé místo: absence řádné legitimace (odznak/průkaz) může zpochybnit zákonnost úkonu a jeho důkazní použitelnost.
+
+#### H. Praktický závěr
+
+Stráž přírody disponuje silnými donucovacími oprávněními (totožnost, zadržení, zastavení vozidla v ZCHÚ, příkaz na místě, pozastavení činnosti) a je úřední osobou; jejich výkon je vázán na legitimaci a u pozastavení činnosti na následné potvrzení orgánem OP do 15 dnů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že úkon proběhl na území, kde je oprávnění dáno (zastavení vozidla jen v ZCHÚ/OP/EVL/PO).
+- [ ] Doložit legitimaci strážce (odznak + průkaz, § 81a).
+- [ ] U pozastavení činnosti zajistit potvrzení/změnu/zrušení orgánem OP do 15 dnů.
+- [ ] Při nesouhlasu pachatele postoupit přestupek do správního řízení namísto příkazu na místě.
+
+**Typicky rozhodné důkazy / podklady:** průkaz a odznak strážce, fotodokumentace porušení, záznam o příkazu na místě, oznámení ustanovujícímu orgánu, akt orgánu OP potvrzující opatření.
+
 ### § 81a
 
 > **§ 81a**
@@ -872,6 +2080,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 > *c) oznamovat neodkladně zjištěné závady, nedostatky a škody orgánu, který ji ustanovil, popřípadě v neodkladných případech též orgánům Policie České republiky nebo příslušným orgánům státní správy.*
 
 **Výklad:** Korelativní povinnosti stráže přírody k oprávněním § 81 odst. 7 — průkazní povinnost (legitimace odznakem a průkazem), dohledová povinnost, oznamovací povinnost. Strážce není „aktivním vyšetřovatelem" — má zjištěná porušení **bezodkladně oznámit** ustanovujícímu orgánu OP nebo PČR; další postup je v rukou veřejných orgánů.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Strážce přírody při kontrole zjistí v přírodní památce čerstvé nepovolené terénní úpravy poškozující biotop. Místo bezodkladného oznámení ustanovujícímu orgánu se rozhodne sám několik týdnů „vyšetřovat", opakovaně vstupuje na pozemek a vyzývá vlastníka k vysvětlení; orgán OP informuje až po měsíci, kdy už nelze zajistit některé důkazy. Vlastník namítá obtěžování. Důkazy: záznam strážce, datum oznámení orgánu, dokumentace poškození.
+
+**2. Právní otázka.** Jaký je rozsah povinností strážce podle § 81a a jaké jsou důsledky toho, že strážce nesplnil povinnost neodkladně oznámit zjištěné závady ustanovujícímu orgánu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 81a písm. a) (prokázat se průkazem a nosit odznak), písm. b) (dohlížet na dodržování předpisů), písm. c) (neodkladně oznamovat závady, nedostatky a škody orgánu, který strážce ustanovil, příp. PČR).
+- *Související ustanovení téhož zákona:* § 81 odst. 7 a 8 (oprávnění a pozastavení činnosti), § 85 (státní dozor).
+- *Související předpisy:* § 127 trestního zákoníku (úřední osoba a meze její pravomoci); správní řád.
+- *Judikatura:* obecný výkladový závěr, že veřejná stráž je vázána zákonným vymezením pravomoci a nesmí ji překračovat.
+
+**4. Subsumpce.** Strážce zjistil závadu → vznikla povinnost neodkladně oznámit (písm. c). Strážce není orgánem vedoucím řízení; samostatné „vyšetřování" a opakované vstupy nad rámec § 62 a oznamovací role překračují jeho povinnosti a oprávnění. Opožděné oznámení = porušení § 81a písm. c.
+
+**5. Řešení.** Strážce měl věc bezodkladně oznámit orgánu OP (případně PČR), který zahájí řízení a zajistí důkazy. Překročení role může vést ke zrušení ustanovení strážce (§ 81 odst. 6) a k odpovědnosti za nesprávný úřední postup. Vlastník se může bránit proti nadbytečným zásahům strážce.
+
+**6. Varianty.** (a) Při bezprostředním ohrožení může strážce nejprve pozastavit činnost (§ 81 odst. 8) a teprve poté/bezodkladně oznámit. (b) Šlo-li by o neodkladný případ, je namístě i oznámení přímo PČR (písm. c).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: strážce jednal v zájmu ochrany přírody, prodlení je omluvitelné.* Neutralizace: zákon ukládá neodkladnost (písm. c) právě proto, aby orgán mohl včas zajistit důkazy; dobrá víra prodlení neospravedlní.
+- *Protiargument: strážce smí věc došetřit sám.* Neutralizace: § 81a vymezuje roli jako dohledovou a oznamovací, nikoli vyšetřovací; řízení vede orgán OP.
+- Slabé místo: „neodkladnost" není číselně určena; posuzuje se podle okolností a může být sporná.
+
+#### H. Praktický závěr
+
+§ 81a vymezuje stráž přírody jako dohledový a oznamovací článek — strážce se musí legitimovat, dohlížet a zjištěné závady neodkladně oznámit ustanovujícímu orgánu (či PČR); samostatné vyšetřování a překračování pravomocí mu nepřísluší a může vést ke zrušení ustanovení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda strážce zjištěnou závadu oznámil neodkladně a komu (orgán OP / PČR).
+- [ ] Zkontrolovat legitimaci strážce (odznak + průkaz).
+- [ ] Posoudit, zda strážce nepřekročil dohledovou/oznamovací roli.
+- [ ] U bezprostředního ohrožení zvážit návaznost na § 81 odst. 8 (pozastavení činnosti).
+
+**Typicky rozhodné důkazy / podklady:** záznam strážce o zjištění, doklad o datu a adresátu oznámení, dokumentace poškození, evidence vstupů strážce na pozemek.
 
 ### § 81b
 
@@ -893,6 +2137,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Výklad:** **Specializovaný režim odpovědnosti za škodu** — odchylka od obecné úpravy v zákoně č. 82/1998 Sb. (odpovědnost státu za výkon veřejné moci). Princip: stát objektivně odpovídá za škody (i) osobě poskytující pomoc strážci, (ii) strážci samotnému, (iii) třetím osobám škodou způsobenou strážcem. Zproštění jen při úmyslném zavinění poškozeného. **Klíčová podpora dobrovolnické práce** — bez této ochrany by dobrovolní strážci nesli rizika.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Návštěvník chráněné krajinné oblasti na žádost strážce přírody pomůže zadržet pachatele nelegálního vjezdu čtyřkolkou; při potyčce utrpí zlomeninu ruky a poškodí si oděv. Pachatel naopak tvrdí, že mu strážce při zákroku poškodil čtyřkolku. Osoba poskytující pomoc požaduje od státu náhradu škody. Důkazy: lékařská zpráva, doklady o věcech, popis zákroku, identifikace ustanovujícího úřadu (AOPK).
+
+**2. Právní otázka.** Za jaké škody a vůči komu odpovídá stát v souvislosti s činností stráže přírody a poskytnutím pomoci strážci, a který orgán náhradu poskytuje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 81b odst. 1 (odpovědnost státu osobě poskytující pomoc, zproštění jen při úmyslu poškozeného), odst. 2 (újma na zdraví/smrt — režim pracovních úrazů), odst. 3 (škoda na věcech), odst. 5 a 6 (škoda strážci a škoda způsobená strážcem, výluka u vyprovokovaného zákroku), odst. 7 (náhradu poskytuje ustanovující orgán).
+- *Související ustanovení téhož zákona:* § 81 (stráž přírody, oprávnění), § 81a (povinnosti).
+- *Související předpisy:* zákon č. 82/1998 Sb. (obecná odpovědnost státu — subsidiárně); zákoník práce (odškodňování pracovních úrazů — odkaz v odst. 2); občanský zákoník (náhrada škody).
+- *Judikatura:* obecný výkladový závěr, že jde o zvláštní objektivní odpovědnost státu, oddělenou od režimu zákona č. 82/1998 Sb.
+
+**4. Subsumpce.** Osoba poskytla pomoc na žádost strážce → stát odpovídá objektivně (odst. 1); újma na zdraví se odškodňuje podle pravidel pro pracovní úrazy (odst. 2), škoda na věcech podle odst. 3. Zproštění jen při úmyslu poškozeného (zde není). U škody na čtyřkolce pachatele platí výluka odst. 6 — pachatel zákrok vyprovokoval protiprávním jednáním, stát za škodu neodpovídá. Náhradu poskytuje AOPK (odst. 7).
+
+**5. Řešení.** Pomáhající osoba má nárok na náhradu újmy na zdraví (režim pracovních úrazů) i věcné škody vůči státu zastoupenému AOPK; nemusí prokazovat zavinění. Pachatelův nárok ohledně čtyřkolky je vyloučen (odst. 6). Procesní krok: uplatnit nárok u ustanovujícího orgánu, při sporu žaloba.
+
+**6. Varianty.** (a) Způsobil-li by si pomáhající škodu úmyslně, stát se odpovědnosti zprostí (odst. 1). (b) Kdyby strážce způsobil škodu osobě, která zákrok nevyprovokovala, stát by za ni odpovídal (odst. 6 a contrario).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: náhradu má řešit obecný zákon č. 82/1998 Sb.* Neutralizace: § 81b je lex specialis se širším a objektivním rozsahem; obecná úprava se použije jen podpůrně.
+- *Protiargument: pachatel poškozený při zákroku má též nárok.* Neutralizace: odst. 6 výslovně vylučuje náhradu osobě, která oprávněný a přiměřený zákrok vyvolala svým protiprávním jednáním.
+- Slabé místo: posouzení „přiměřenosti" zákroku a „úmyslu" poškozeného je skutkově náročné a může rozhodnout o (ne)existenci nároku.
+
+#### H. Praktický závěr
+
+§ 81b zakládá zvláštní objektivní odpovědnost státu za škody související s činností stráže přírody — chrání zejména dobrovolné pomocníky a strážce; náhradu poskytuje ustanovující orgán. Výluka platí pro osobu, která přiměřený zákrok sama protiprávně vyvolala.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit, do které kategorie škoda spadá (pomáhající osoba / strážce / třetí osoba).
+- [ ] Ověřit, zda nejde o úmysl poškozeného (zproštění) nebo o vyprovokovaný zákrok (výluka odst. 6).
+- [ ] Újmu na zdraví posoudit podle režimu pracovních úrazů (odst. 2).
+- [ ] Nárok uplatnit u ustanovujícího orgánu (odst. 7).
+
+**Typicky rozhodné důkazy / podklady:** lékařská zpráva, doklady o věcné škodě, popis a vyhodnocení přiměřenosti zákroku, identifikace ustanovujícího orgánu.
+
 ### § 82 — Používání stejnokroje a označení pracovníků ochrany přírody
 
 > **§ 82**
@@ -902,6 +2182,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 > *(2) Podrobnosti o způsobu zavedení a užívání stejnokroje a označení pracovníků ochrany přírody stanoví ministerstvo životního prostředí obecně závazným právním předpisem.*
 
 **Výklad:** **Uniformovaný personál** — pouze AOPK, NPS a ČIŽP. Obecní úředníci a zaměstnanci KÚ stejnokroj nenosí. Vyhláška č. 425/2004 Sb. stanoví vzhled stejnokroje (zelený s rozlišovacími znaky a státním znakem). Stejnokroj je důležitý pro **identifikaci v terénu** — návštěvníci ZCHÚ se mají k autoritě OP chovat s respektem.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soukromá ostraha provozovatele rekreačního areálu sousedícího s národním parkem si nechá ušít zelené uniformy nápadně připomínající stejnokroj pracovníků ochrany přírody, včetně podobného znaku, a pod jejich rouškou usměrňuje návštěvníky a vybírá „poplatky" za vstup do parku. Návštěvníci se domnívají, že jednají s pracovníky Správy NP. Důkazy: fotodokumentace uniforem a znaků, srovnání se vzorem podle vyhlášky, výpovědi návštěvníků.
+
+**2. Právní otázka.** Kdo je oprávněn nosit stejnokroj ochrany přírody a je užívání zaměnitelného oděvu osobou bez oprávnění porušením § 82?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 82 odst. 1 (stejnokroj smějí nosit jen pracovníci AOPK, NPS a ČIŽP), odst. 2 (podrobnosti stanoví MŽP obecně závazným předpisem).
+- *Související ustanovení téhož zákona:* § 81 odst. 4 (odznak a průkaz stráže přírody), § 75 (orgány OP).
+- *Související předpisy:* vyhláška č. 425/2004 Sb. (vzhled a užívání stejnokroje); zákon č. 352/2001 Sb., o užívání státních symbolů (státní znak); přestupkové předpisy postihující neoprávněné užití označení.
+- *Judikatura:* obecný výkladový závěr, že okruh oprávněných nositelů uniformy je taxativní a neoprávněné užití zaměnitelného označení může zakládat odpovědnost.
+
+**4. Subsumpce.** Soukromá ostraha nepatří mezi AOPK/NPS/ČIŽP → není oprávněna nosit stejnokroj OP (odst. 1). Užití zaměnitelného oděvu a znaku navozuje dojem výkonu veřejné moci, který ostraze nepřísluší. Sporné: míra zaměnitelnosti se posoudí srovnáním se vzorem podle vyhlášky č. 425/2004 Sb.
+
+**5. Řešení.** Jednání ostrahy je v rozporu s § 82 a může naplnit i skutkové podstaty mimo ZOPK (neoprávněné užití státního znaku, klamání návštěvníků, případně podvod při výběru „poplatků"). Provozovatel musí užívání zaměnitelných uniforem ukončit; návštěvníci, kteří „poplatky" zaplatili v omylu, mají nárok na vrácení. Orgán OP věc oznámí příslušným orgánům.
+
+**6. Varianty.** (a) Pokud by oděv nebyl zaměnitelný (jiná barva, bez znaku), § 82 porušen není. (b) Skutečný strážce přírody stejnokroj nenosí — legitimuje se odznakem a průkazem (§ 81 odst. 4); záměna se stejnokrojem AOPK/NPS by zde nebyla na místě.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: oblečení barvy khaki nepodléhá regulaci.* Neutralizace: rozhodná je zaměnitelnost se stejnokrojem podle vyhlášky a navození dojmu výkonu veřejné moci, nikoli pouhá barva.
+- *Protiargument: § 82 je jen organizační norma bez sankce.* Neutralizace: byť sám § 82 sankci nestanoví, neoprávněné užití označení a státního znaku je postižitelné podle jiných předpisů a může vést k občanskoprávním nárokům.
+- Slabé místo: posouzení zaměnitelnosti je hodnotové; bez srovnání se vzorem podle vyhlášky je argumentace slabá.
+
+#### H. Praktický závěr
+
+Stejnokroj ochrany přírody smějí nosit pouze pracovníci AOPK, správ národních parků a ČIŽP; jeho podoba je dána vyhláškou č. 425/2004 Sb. Neoprávněné užití zaměnitelného označení může zakládat odpovědnost podle jiných předpisů a občanskoprávní nároky dotčených osob.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda nositel patří mezi oprávněné subjekty (AOPK/NPS/ČIŽP).
+- [ ] Porovnat oděv a označení se vzorem podle vyhlášky č. 425/2004 Sb.
+- [ ] Odlišit stejnokroj OP od legitimace stráže přírody (odznak + průkaz, § 81 odst. 4).
+- [ ] Při neoprávněném užití zvážit oznámení podle předpisů o státním znaku a o klamání spotřebitele.
+
+**Typicky rozhodné důkazy / podklady:** fotodokumentace oděvu a znaků, vzor stejnokroje dle vyhlášky, výpovědi dotčených osob, doklady o vybíraných „poplatcích".
 
 ### HLAVA DRUHÁ
 
@@ -930,6 +2246,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 **Vyloučení (odst. 2):** presumpce **se nepoužije** v EVL/PO, ZCHÚ a národně významných lokalitách výskytu ZCHD. V těchto nejcennějších územích se OZE jako jakýkoli jiný zájem musí poměřovat individuálně.
 
 **Vyloučení vodní energie (odst. 3):** zákonodárce explicitně vyloučil nové vodní elektrárny — vodní toky a jejich biotopy jsou citlivé a vodní energie již prakticky vyčerpaná z hlediska potenciálu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor žádá o výjimku podle § 56 pro výstavbu velké fotovoltaické elektrárny na zemědělské půdě, kde se vyskytuje zvláště chráněný druh (sysel obecný). Lokalita neleží v ZCHÚ ani EVL/PO. Investor tvrdí, že díky § 82a nemusí prokazovat veřejný zájem na záměru, a tedy mu má být výjimka udělena. Orgán OP namítá nedostatečné posouzení jiného uspokojivého řešení. Důkazy: biologické hodnocení, alternativy umístění, posouzení výskytu druhu, vymezení lokality vůči ZCHÚ/EVL.
+
+**2. Právní otázka.** Jaký je dosah zákonné domněnky převažujícího veřejného zájmu podle § 82a v řízení o výjimce u zvláště chráněného druhu a zbavuje žadatele povinnosti prokázat neexistenci jiného uspokojivého řešení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 82a odst. 1 (domněnka převažujícího veřejného zájmu na OZE pro účely § 5b, § 45i a § 56), odst. 2 (vyloučení v EVL/PO, ZCHÚ a lokalitách národně významného výskytu ZCHD), odst. 3 (vyloučení nových vodních zdrojů).
+- *Související ustanovení téhož zákona:* § 56 odst. 1 a 2 (výjimky u ZCHD — převaha jiného veřejného zájmu, neexistence jiného uspokojivého řešení), § 45i, § 5b.
+- *Související předpisy:* směrnice (EU) 2023/2413 (RED III); směrnice o stanovištích a o ptácích (test výjimek).
+- *Judikatura:* obecný výkladový závěr, že i při existenci veřejného zájmu musí být kumulativně splněna podmínka neexistence jiného uspokojivého řešení a příznivého stavu druhu.
+
+**4. Subsumpce.** Lokalita mimo ZCHÚ/EVL a (předpoklad) mimo národně významný výskyt → domněnka podle odst. 1 se uplatní; veřejný zájem na OZE se nemusí zvlášť prokazovat. Avšak § 82a nahrazuje jen jeden prvek testu — investor musí stále prokázat neexistenci jiného uspokojivého řešení (alternativy umístění) a že nebude ohrožen příznivý stav druhu. Sporné: zda jde o národně významnou lokalitu výskytu sysla (pak by se domněnka neuplatnila, odst. 2 písm. c).
+
+**5. Řešení.** Domněnka § 82a investorovi pomáhá u prvku „veřejný zájem", ale nezbavuje jej povinnosti prokázat alternativy a přiměřenost. Orgán OP může výjimku zamítnout, existuje-li jiné uspokojivé řešení (např. umístění mimo kolonii sysla). Pravděpodobný výsledek: výjimka jen při doložení alternativ a kompenzačních/zmírňujících opatření.
+
+**6. Varianty.** (a) Leží-li lokalita v EVL/PO nebo ZCHÚ (odst. 2), domněnka se neuplatní a veřejný zájem se posuzuje individuálně. (b) U nového vodního zdroje se § 82a nepoužije vůbec (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: § 82a zaručuje udělení výjimky pro OZE.* Neutralizace: domněnka kryje jen prvek veřejného zájmu; podmínky neexistence jiného uspokojivého řešení a zachování příznivého stavu druhu zůstávají a musí být prokázány.
+- *Protiargument: presumpce platí všude.* Neutralizace: odst. 2 a 3 ji vylučují v EVL/PO, ZCHÚ, národně významných lokalitách výskytu ZCHD a u nových vodních zdrojů.
+- Slabé místo: zařazení lokality jako „národně významné pro výskyt ZCHD" je neurčité a může být sporné; rozhoduje o aplikovatelnosti domněnky.
+
+#### H. Praktický závěr
+
+§ 82a zavádí zákonnou domněnku převažujícího veřejného zájmu na obnovitelných zdrojích pro účely § 5b, § 45i a § 56, čímž žadateli usnadňuje jeden prvek poměřování; nezbavuje jej však povinnosti prokázat neexistenci jiného uspokojivého řešení a zachování příznivého stavu druhu. Domněnka se neuplatní v nejcennějších územích a u nových vodních zdrojů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda lokalita nespadá do výluk (EVL/PO, ZCHÚ, národně významný výskyt ZCHD; nové vodní zdroje).
+- [ ] I při domněnce doložit neexistenci jiného uspokojivého řešení (alternativy umístění).
+- [ ] Prokázat zachování příznivého stavu dotčeného druhu a navrhnout zmírňující opatření.
+- [ ] Identifikovat, kterého institutu se domněnka týká (§ 5b, § 45i, § 56).
+
+**Typicky rozhodné důkazy / podklady:** biologické hodnocení, analýza alternativ umístění, vymezení lokality vůči ZCHÚ/EVL/PO, posouzení významu lokality pro dotčený druh.
 
 ### HLAVA TŘETÍ
 
@@ -986,6 +2338,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *NSS* [5 A 203/2010 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/547896) — 14. 10. 2014
   > „To, že „k ústnímu jednání přizve orgán ochrany přírody všechny jemu známé účastníky řízení“, neznamená, že měl přizvat všechny vlastníky pozemků, jichž se měla týkat budoucí stavební činnost žadatelky: tito vlastníci totiž budou účastníky až navazujících řízení podle stavebního zákona. … tato podmínka se uplatní jen tam, kde rozhodnutí orgánů ochrany přírody může ovlivnit přírodní poměry v územních obvodech několika obcí"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor potřebuje pro záměr v chráněné krajinné oblasti tři akty podle ZOPK: souhlas se zásahem do krajinného rázu (§ 12), povolení ke kácení (§ 8) a výjimku u zvláště chráněného druhu (§ 56). Orgán OP (AOPK) vede o každém samostatné řízení a vydává tři rozhodnutí s odlišnými lhůtami; první rozhodnutí vydal po 80 dnech. Investor namítá, že měla být sloučena a vyřízena rychleji. Důkazy: žádosti, doklad o zahájení řízení, dokumentace záměru.
+
+**2. Právní otázka.** Je orgán ochrany přírody povinen vést o více souhlasech/povoleních podle ZOPK společné řízení s jedním rozhodnutím a jaké lhůty pro rozhodnutí platí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 83 odst. 4 (obligatorní společné řízení a jedno společné rozhodnutí při více aktech podle ZOPK), odst. 3 (lhůty 60/90 dnů), odst. 1 a 2 (účastnictví, veřejná vyhláška, lhůty k ústnímu jednání 15/30 dnů), odst. 8 a 9 (JES — některé akty se nevydávají, ve ZCHÚ/EVL/PO se vede společné řízení).
+- *Související ustanovení téhož zákona:* § 8, § 12, § 56, § 83a (obsah žádosti).
+- *Související předpisy:* § 1 odst. 2, § 71 odst. 3, § 140 (společné řízení) správního řádu; zákon č. 148/2023 Sb. (JES).
+- *Judikatura:* NSS 5 A 203/2010 (citovaný výše) — okruh přizvaných účastníků a vyhláškové oznámení se řídí tím, zda rozhodnutí může ovlivnit přírodní poměry ve více obcích.
+
+**4. Subsumpce.** Záměr vyžaduje tři akty podle ZOPK → orgán je povinen vést jedno společné řízení a vydat jedno společné rozhodnutí (odst. 4). Vedení tří samostatných řízení je v rozporu s odst. 4. Lhůta: ve složitých věcech 90 dnů (odst. 3) — vydání po 80 dnech ji neporušuje, je-li věc složitá. Námitka rychlosti je tedy dílem nedůvodná, námitka tříštění důvodná.
+
+**5. Řešení.** Orgán měl řízení sloučit a vydat jedno společné rozhodnutí; tříštění je procesní vada, kterou lze namítnout. Pokud záměr vyžaduje JES, vyjmenované akty (§ 83 odst. 8) se samostatně nevydávají a ve ZCHÚ/EVL/PO se vede společné řízení s rozhodnutím zahrnujícím všechny pravomoci orgánu OP (odst. 9). Výsledek: konsolidace řízení, jediné rozhodnutí.
+
+**6. Varianty.** (a) Vyžaduje-li záměr JES a leží mimo ZCHÚ/EVL/PO, příslušné akty se nevydávají vůbec (integrace do JES). (b) V NP zahrnuje společné rozhodnutí i souhlas s odnětím ze ZPF a rozhodnutí podle lesního zákona (odst. 9).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: každý souhlas má svůj režim, proto samostatná řízení.* Neutralizace: odst. 4 ukládá obligatorní společné řízení a jedno rozhodnutí, vyžaduje-li záměr více aktů podle ZOPK.
+- *Protiargument: lhůta 30 dnů podle SŘ byla překročena.* Neutralizace: § 83 odst. 3 je lex specialis a stanoví 60/90 dnů; obecná lhůta SŘ se neuplatní.
+- Slabé místo: posouzení „složitosti" věci (rozhodné pro 90denní lhůtu) je hodnotové a může být sporné.
+
+#### H. Praktický závěr
+
+§ 83 je procesním lex specialis k správnímu řádu — stanoví delší lhůty (60/90 dnů), zvláštní pravidla účastnictví a oznamování a obligatorní společné řízení s jedním rozhodnutím při více aktech podle ZOPK; u záměrů s JES se vyjmenované akty buď nevydávají, nebo se integrují do společného rozhodnutí ve ZCHÚ/EVL/PO.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit, kolik aktů podle ZOPK záměr vyžaduje, a trvat na společném řízení (odst. 4).
+- [ ] Aplikovat lhůty 60/90 dnů (odst. 3), nikoli obecnou lhůtu SŘ.
+- [ ] Ověřit, zda záměr vyžaduje JES (odst. 8, 9) a jak se to dotkne vydávaných aktů.
+- [ ] U vícevobcových dopadů zajistit oznámení veřejnou vyhláškou (odst. 1).
+
+**Typicky rozhodné důkazy / podklady:** žádosti a dokumentace záměru, doklad o zahájení a vedení řízení, podklady k JES, doklady o oznámení a účastnictví.
+
 ### § 83a — Obsah žádosti v řízení ve věcech ochrany přírody
 
 > **§ 83a**
@@ -1010,6 +2398,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Výklad:** **Materiální obsah žádosti** — § 83a stanoví konkrétní obsahové požadavky nad rámec obecných náležitostí podání podle § 37 SŘ. Klíčové: **projektová dokumentace** s popisem záměru, **stanovisko nebo posouzení podle § 45i** (naturové), **biologické hodnocení podle § 67**, **charakteristika přírody v dotčeném území**, **charakteristika vlivů**, **návrh opatření**, **vysvětlení důvodů pro výjimku**. Nedostatky se napravují postupem podle § 45 SŘ (výzva k odstranění vad podání).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel podá žádost o výjimku podle § 56 pro zásah do biotopu zvláště chráněného druhu. Připojí jen stručný popis stavby bez charakteristiky dotčené přírody, bez posouzení podle § 45i, bez biologického hodnocení a bez vysvětlení důvodů pro výjimku. Orgán OP žádost rovnou zamítne jako nedůvodnou. Žadatel namítá, že měl být vyzván k doplnění. Důkazy: text žádosti, příloha (popis stavby), výzva orgánu (chybí).
+
+**2. Právní otázka.** Jaké materiální náležitosti musí žádost podle § 83a obsahovat a jak má orgán postupovat, jsou-li neúplné — vyzvat k doplnění, nebo žádost zamítnout?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 83a odst. 1 (projektová dokumentace a její obsah — umístění, technické řešení, varianty, vstupy/výstupy, stanovisko/posouzení § 45i a hodnocení § 67, výkresy), odst. 2 (charakteristika přírody, vlivů, návrh opatření, důvody pro výjimku), odst. 3 (přiložení JES u § 83 odst. 9).
+- *Související ustanovení téhož zákona:* § 56 (výjimky), § 45i (naturové posouzení), § 67 (biologické hodnocení), § 83 (procesní pravidla).
+- *Související předpisy:* § 37 a § 45 odst. 2 správního řádu (náležitosti a vady podání, výzva k odstranění vad).
+- *Judikatura:* obecný výkladový závěr, že neúplné podání je vadou, k jejímuž odstranění je třeba vyzvat, nikoli věc bez výzvy zamítnout.
+
+**4. Subsumpce.** Žádost postrádá obligatorní obsahové prvky § 83a (charakteristika přírody, § 45i, § 67, důvody pro výjimku) → jde o vady podání podle § 37/§ 45 SŘ, nikoli o nedůvodnost ve věci samé. Orgán měl vyzvat k doplnění a stanovit lhůtu, nikoli rovnou zamítnout. Zamítnutí bez výzvy je procesní vadou.
+
+**5. Řešení.** Orgán je povinen vyzvat žadatele k odstranění vad (doplnění § 45i posouzení, biologického hodnocení, charakteristiky a důvodů) a řízení případně přerušit; teprve při neodstranění vad lze řízení zastavit, resp. po doplnění věcně rozhodnout. Žadatel se proti zamítnutí bez výzvy úspěšně brání v odvolání.
+
+**6. Varianty.** (a) Jde-li o záměr vyžadující JES s hodnocením EIA, přikládá se i JES (odst. 3). (b) Pokud žadatel přes výzvu vady neodstraní, řízení se zastaví podle SŘ — to už není vadou orgánu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: neúplnou žádost lze rovnou zamítnout.* Neutralizace: chybějící náležitosti jsou vadou podání (§ 37, § 45 SŘ), k níž je nutná výzva k odstranění; zamítnutí bez výzvy je nezákonné.
+- *Protiargument: § 45i posouzení a § 67 hodnocení jsou nadbytečné, jde-li o malý zásah.* Neutralizace: § 83a tyto podklady vyžaduje, „jsou-li podle tohoto zákona vyžadovány"; jejich potřebnost je nutné posoudit, nikoli paušálně vyloučit.
+- Slabé místo: rozsah požadované dokumentace je odstupňován podle povahy záměru; hranice „dostatečnosti" podkladů může být sporná.
+
+#### H. Praktický závěr
+
+§ 83a stanoví materiální obsah žádosti nad rámec § 37 SŘ — zejména projektovou dokumentaci, naturové posouzení (§ 45i), biologické hodnocení (§ 67), charakteristiku přírody a vlivů, návrh opatření a důvody pro výjimku. Neúplnost je vadou podání, k níž musí orgán vyzvat, nikoli důvodem k zamítnutí bez výzvy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zkontrolovat úplnost žádosti podle výčtu § 83a odst. 1 a 2.
+- [ ] Doložit (jsou-li vyžadovány) posouzení § 45i a biologické hodnocení § 67.
+- [ ] Při neúplnosti vyzvat k odstranění vad (§ 45 SŘ), nikoli rovnou zamítnout.
+- [ ] U JES-záměrů přiložit JES podle odst. 3.
+
+**Typicky rozhodné důkazy / podklady:** projektová dokumentace, posouzení/stanovisko § 45i, biologické hodnocení § 67, charakteristika dotčené přírody a vlivů, výzva orgánu k doplnění a doklad o jejím doručení.
+
 ### § 84 — Změny a zrušení rozhodnutí
 
 > **§ 84**
@@ -1033,6 +2457,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *NSS* [9 Ca 95/2009 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/555259) — 30. 8. 2012
   > „Vzhledem k tomu, že institut změny a zrušení rozhodnutí podle § 84 zákona č. 114/1992 Sb. není pojímán jako mimořádný opravný prostředek proti pravomocným rozhodnutím vydaným orgánem ochrany přírody, ale je speciálním institutem, který garantuje ochranu přírody a krajiny v případě (dle příkladu v tomto ustanovení) nenadálých a nepředvídaných situací, nelze přistoupit k aplikaci tohoto institutu změny rozhodnutí pro případ zpochybnění zjištění skutkového stavu v původním řízení"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Orgán OP před lety udělil pravomocnou výjimku ke kácení dřevin v lokalitě, kde se mezitím usadil zvláště chráněný druh, jehož biotop by realizace povolení zničila. Oprávněný navíc povolení po více než dva roky nevyužil a opakovaně neplnil podmínky (např. termíny a rozsah). Orgán z vlastního podnětu zahájí řízení o změně/zrušení výjimky. Oprávněný namítá nezměnitelnost pravomocného rozhodnutí. Důkazy: původní rozhodnutí, monitoring nového výskytu druhu, doklady o nevyužívání a porušování podmínek.
+
+**2. Právní otázka.** Lze pravomocné rozhodnutí orgánu ochrany přírody změnit nebo zrušit podle § 84 a za jakých podmínek; jak se tento institut liší od přezkumného řízení podle správního řádu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 84 odst. 1 písm. a)–e) (změna/zrušení při změně rozhodných skutečností, v zájmu přírody zejména při hrozbě vážné ekologické újmy, při opakovaném porušování podmínek, při nevyužívání déle než 2 roky, při poškozování jiných zájmů), odst. 2 (atrakce MŽP u důvodů písm. b/e).
+- *Související ustanovení téhož zákona:* § 56 (výjimky), § 66 (omezení činnosti), § 85 (státní dozor).
+- *Související předpisy:* § 94 a násl. správního řádu (přezkumné řízení — vázané na nezákonnost); zákon č. 167/2008 Sb. (ekologická újma).
+- *Judikatura:* NSS 9 Ca 95/2009 (citovaný výše) — § 84 není mimořádným opravným prostředkem, ale zvláštním institutem pro nenadálé situace; nelze jím zpochybňovat skutkový stav původního řízení.
+
+**4. Subsumpce.** Nový výskyt ZCHD = změna rozhodných skutečností (písm. a) a zájem přírody/hrozba újmy (písm. b); nevyužívání déle než 2 roky (písm. d); opakované porušování podmínek (písm. c). Naplněno více důvodů § 84 odst. 1. Námitka nezměnitelnosti neobstojí — § 84 je zákonný titul pro zásah do pravomocného rozhodnutí z věcných, nikoli z důvodů nezákonnosti.
+
+**5. Řešení.** Orgán je oprávněn po provedeném řízení výjimku změnit či zrušit z titulu § 84 odst. 1. Nejde o přezkum zákonnosti (ten náleží § 94 SŘ), nýbrž o věcný (flexibilní) zásah chránící přírodu. Pozor: nelze jím napravovat původní skutkové vady (NSS 9 Ca 95/2009). U důvodů písm. b)/e) si může věc atrahovat MŽP (odst. 2).
+
+**6. Varianty.** (a) Šlo-li by jen o tvrzení, že původní řízení špatně zjistilo skutkový stav, § 84 použít nelze (NSS) — namístě je přezkumné řízení/obnova. (b) Při bezprostředním ohrožení lze souběžně využít opatření podle § 66 nebo pozastavení činnosti stráží (§ 81 odst. 8).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: pravomocné rozhodnutí je nezměnitelné (res iudicata).* Neutralizace: § 84 je zvláštní zákonný titul prolamující právní moc z taxativně vymezených věcných důvodů; nejde o libovůli.
+- *Protiargument: § 84 lze použít k nápravě jakékoli vady původního řízení.* Neutralizace: podle NSS 9 Ca 95/2009 jím nelze zpochybňovat skutkový stav původního řízení; slouží jen pro nenadálé/nepředvídané situace a věcné změny.
+- Slabé místo: rozhraní mezi § 84 (věcná změna) a § 94 SŘ (nezákonnost) bývá v praxi sporné; chybná volba institutu vede ke zrušení aktu.
+
+#### H. Praktický závěr
+
+§ 84 je dozorčí institut sui generis umožňující změnit nebo zrušit pravomocné rozhodnutí orgánu ochrany přírody z věcných důvodů (změna skutečností, hrozba vážné ekologické újmy, porušování podmínek, nevyužívání déle než 2 roky); neslouží k nápravě skutkových vad původního řízení a u nejzávažnějších důvodů si jej může atrahovat MŽP.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat konkrétní důvod podle § 84 odst. 1 písm. a)–e) a doložit jej.
+- [ ] Odlišit § 84 (věcná změna) od přezkumného řízení podle § 94 SŘ (nezákonnost).
+- [ ] Nepoužívat § 84 k zpochybnění skutkových zjištění původního řízení (NSS 9 Ca 95/2009).
+- [ ] U důvodů písm. b)/e) zvážit možnost atrakce věci MŽP (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** původní rozhodnutí, doklady o změně rozhodných skutečností (monitoring, nový výskyt druhu), evidence nevyužívání a porušování podmínek, posouzení hrozby ekologické újmy.
+
 ### § 85 — Státní dozor v ochraně přírody
 
 > **§ 85**
@@ -1051,6 +2511,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 **Vztah k ČIŽP:** kontrolní pravomoci ČIŽP podle § 80 jsou **odlišné** — ČIŽP kontroluje **mimo územní princip** napříč celou ČR a se sankčními pravomocemi, zatímco státní dozor podle § 85 je územní a více preventivní. V praxi se doplňují.
 
 **Postup kontroly:** podle zákona č. 255/2012 Sb., o kontrole (kontrolní řád). Pověřený zaměstnanec se prokazuje průkazem (odst. 3).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad provádí v rámci státního dozoru podle § 85 odst. 1 kontrolu plnění závazného stanoviska, jímž bylo developerovi povoleno kácení aleje s podmínkou náhradní výsadby 40 stromů. Pověřená zaměstnankyně KÚ se na místě prokáže služebním průkazem podle odst. 3, sepíše protokol o kontrole podle kontrolního řádu a zjistí, že vysazeno bylo jen 12 sazenic, část z nich uschla. Důkazy: kontrolní protokol, fotodokumentace, geodetické zaměření, kopie závazného stanoviska, výpis z evidence dřevin.
+
+**2. Právní otázka.** Může KÚ v rámci státního dozoru podle § 85 odst. 1 uložit opatření k odstranění zjištěných závad (doplnění výsadby), aniž by současně zahajoval přestupkové řízení, a v jakém vztahu je toto opatření k pravomoci ČIŽP podle § 80?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 85 odst. 1 ZOPK — běžný územní státní dozor KÚ/ORP/AOPK/NPS, vč. pravomoci ukládat opatření k odstranění závad.
+- *Související ustanovení téhož zákona:* § 86 (uvedení do původního stavu, náhradní opatření jako nápravný nástroj), § 87 a § 88 (přestupky), § 80 (kontrolní a sankční pravomoc ČIŽP napříč ČR).
+- *Související předpisy:* zákon č. 255/2012 Sb., kontrolní řád (postup kontroly, protokol, námitky); zákon č. 500/2004 Sb., správní řád (ukládání opatření rozhodnutím); zákon č. 250/2016 Sb. (přestupkové řízení).
+- *Judikatura:* NSS opakovaně potvrzuje, že státní dozor a sankce jsou samostatné instituty, jejichž souběh není dvojím trestáním (zásada, že nápravné opatření nemá sankční povahu).
+
+**4. Subsumpce.** KÚ je orgánem uvedeným v odst. 1 a jedná v obvodu své působnosti. Předmětem dozoru je dodržování vydaného závazného stanoviska — výslovně uvedený dozorovaný okruh. Nedostatečná výsadba je „zjištěnou závadou", k jejímuž odstranění lze uložit opatření. Splnění průkazní podmínky (odst. 3) je prokázáno protokolem.
+
+**5. Řešení.** KÚ rozhodnutím uloží doplnění výsadby (opatření k odstranění závad podle § 85 odst. 1, resp. nápravu podle § 86), a samostatně může zahájit přestupkové řízení podle § 88 odst. 1 písm. h) (nesplnění náhradní výsadby). Oba instituty se kumulují, nejde o ne bis in idem, neboť nápravné opatření není trestem. Procesní krok: protokol → vyrozumění o námitkách → rozhodnutí o uložení opatření.
+
+**6. Varianty.** (a) Kdyby šlo o obec bez statutu ORP, neměla by k dozoru podle § 85 odst. 1 pravomoc (OÚ v odst. 1 chybí) a musela by věc postoupit ORP/ČIŽP. (b) Kdyby MŽP zjistilo, že sám KÚ dozor neplní, zasáhlo by v rámci vrchního dozoru podle odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: dozor podle § 85 nelze vykonávat bez zahájení kontroly podle kontrolního řádu.* Neutralizace: odst. 3 i tělo odst. 1 předpokládají formalizovaný postup; opatření se ukládá rozhodnutím ve správním řízení, kontrola podle z. č. 255/2012 Sb. je jeho podkladem — je proto nutné dodržet protokolaci a námitkové řízení.
+- *Protiargument: opatření k odstranění závad a nápravné opatření podle § 86 splývají a hrozí duplicita.* Neutralizace: § 85 odst. 1 je obecné dozorové zmocnění, § 86 je konkrétní hmotněprávní titul pro restituci; v rozhodnutí je vhodné opřít výrok o § 86, dozorovou pravomoc využít k zjištění závady.
+- *Slabé místo:* hranice mezi územním dozorem KÚ a celostátní kontrolou ČIŽP může vést ke kompetenčním sporům; riziko nečinnosti, „přehazování" věci.
+
+#### H. Praktický závěr
+
+Státní dozor podle § 85 je nástroj kontroly dodržování zákona a vydaných aktů s možností uložit opatření k nápravě; je územní a převážně preventivní, na rozdíl od celostátní sankční pravomoci ČIŽP (§ 80). MŽP nad systémem vykonává vrchní dozor a dozoruje i samotné orgány OP.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je kontrolující orgán uveden v § 85 odst. 1 (pozor: OÚ bez ORP nikoli)?
+- [ ] Jedná v rámci své územní působnosti?
+- [ ] Byl dodržen kontrolní řád (průkaz dle odst. 3, protokol, námitky)?
+- [ ] Opírá se uložené opatření o správný hmotněprávní titul (§ 85 odst. 1 / § 86)?
+- [ ] Je zvažováno souběžné přestupkové řízení (§ 87/§ 88)?
+
+**Typicky rozhodné důkazy / podklady:** kontrolní protokol, fotodokumentace, geodetické zaměření, kopie rozhodnutí/závazného stanoviska, evidence dřevin, doklad o pověření kontrolora.
 
 ---
 
@@ -1071,6 +2568,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 **Vztah k zákonu o ekologické újmě (z. č. 167/2008 Sb.):** podle § 90 odst. 5 ZOPK se nápravné opatření **neuloží**, pokud již bylo uloženo podle zákona o ekologické újmě (vztah lex specialis). Zákon o ekologické újmě se uplatní u **závažných** poškození chráněných druhů a stanovišť.
 
 **Pravomocný orgán:** rozhoduje **ten orgán OP, který je věcně příslušný** podle § 75–80 — typicky ORP (na běžném území) nebo AOPK/NPS ve ZCHÚ. ČIŽP rozhoduje vůči PO a PFO podle § 80 odst. 2.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník pozemku v CHKO bez souhlasu orgánu OP odbagruje a zatrubní úsek drobného vodního toku (významný krajinný prvek). Orgán OP zjistí poškození, jednatel firmy provádějící práce i vlastník jsou identifikováni. Důkazy: terénní šetření, fotodokumentace „před/po", odborné posouzení biotopu, projekt stavby, faktury za zemní práce.
+
+**2. Právní otázka.** Je uvedení do původního stavu podle § 86 odst. 1 „možné a účelné", nebo musí orgán OP uložit pouze přiměřená náhradní opatření podle odst. 2, a jak se vztah § 86 a sankce podle § 88 promítne do výroků rozhodnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86 odst. 1 (restitutio in integrum), odst. 2 (náhradní opatření), odst. 3 (souběh s náhradou škody a sankcí).
+- *Související ustanovení téhož zákona:* § 4 odst. 2 (ochrana VKP), § 88 odst. 2 písm. b) (závažné poškození VKP — sankce), § 90 odst. 5 (vyloučení, je-li uložena náprava dle zákona o ekologické újmě), § 67 odst. 4 (náhradní opatření).
+- *Související předpisy:* zákon č. 167/2008 Sb., o předcházení ekologické újmě (lex specialis u závažných škod); občanský zákoník (náhrada škody); zákon č. 254/2001 Sb., vodní zákon (souběžné dotčení vodního toku).
+- *Judikatura:* NSS k § 86 — uvedení do původního stavu je nápravné, nikoli sankční opatření; jeho uložení nevylučuje souběžný postih (potvrzeno i u § 89 ve věci 10 As 300/2023).
+
+**4. Subsumpce.** Došlo k „nedovolené změně" části přírody chráněné zákonem (VKP). Otázka možnosti restituce: zasypaný a zatrubněný tok lze obnovit, je-li to technicky proveditelné a ekologicky účelné — pak primárně odst. 1; není-li, nastupuje odst. 2. Odst. 3 umožňuje současně uložit sankci podle § 88.
+
+**5. Řešení.** Orgán OP rozhodne přednostně o uvedení do původního stavu (odevřením toku), je-li to možné a účelné; jinak uloží náhradní opatření (revitalizace jiného úseku). Souběžně vede přestupkové řízení podle § 88 odst. 2 písm. b). Pozor na § 90 odst. 5: je-li věc závažná a běží řízení o ekologické újmě, řízení o § 86 se přeruší.
+
+**6. Varianty.** (a) Pokud poškození dosáhne intenzity „ekologické újmy" na chráněném stanovišti, příslušnost a režim se přesouvají na zákon č. 167/2008 Sb. a § 86 se neuloží. (b) Je-li zásah malého rozsahu a tok lze snadno obnovit, postačí odst. 1 a uvedení do původního stavu na náklady povinného.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: uvedení do původního stavu je fakticky sankcí a jeho souběh s pokutou je dvojí trest.* Neutralizace: odst. 3 výslovně stanoví kumulaci; judikatura NSS opakovaně potvrzuje nápravnou (nikoli trestní) povahu, takže ne bis in idem se neuplatní.
+- *Protiargument: „možnost a účelnost" restituce je neurčitý pojem zneužitelný k libovůli.* Neutralizace: orgán OP musí účelnost odůvodnit odborným posouzením (ekologická obnovitelnost, náklady, přínos); rozhodnutí je soudně přezkoumatelné.
+- *Slabé místo:* riziko opomenutí § 90 odst. 5 a uložení nápravy paralelně s režimem ekologické újmy; chybějící znalecké posouzení obnovitelnosti.
+
+#### H. Praktický závěr
+
+§ 86 je hlavním nápravným nástrojem ZOPK: primárně restituce, subsidiárně náhradní opatření, vždy vedle náhrady škody a sankce. Klíčové je řádně odůvodnit volbu mezi odst. 1 a 2 a ohlídat přednost zákona o ekologické újmě (§ 90 odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o část přírody chráněnou ZOPK, kterou někdo poškodil/zničil/nedovoleně změnil?
+- [ ] Je uvedení do původního stavu možné a účelné (odborně doloženo)?
+- [ ] Pokud ne, jsou náhradní opatření přiměřená a kompenzační?
+- [ ] Není dán důvod přerušení podle § 90 odst. 5 (ekologická újma)?
+- [ ] Je zvažován souběh se sankcí (§ 87/§ 88) a náhradou škody (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** fotodokumentace „před/po", odborné/znalecké posouzení obnovitelnosti, projekt zásahu, kalkulace nákladů restituce, identifikace povinného.
 
 ### § 87 — Přestupky fyzických osob
 
@@ -1158,6 +2692,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *NSS* [6 As 6/2004 - 98](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/233973) — 24. 5. 2005
   > „Stěžovatelé byli povinni požádat orgán ochrany přírody o souhlas k zamýšlenému zásahu do krajiny spočívajícím v zemních pracích (skrývka zeminy) a umístění dvou objektů; tento souhlas je vydáván ve správním řízení … Pokud tuto svou právní povinnost nesplnili, naplnili výše popsanou činností skutkovou podstatu přestupku vymezeného v § 87 odst. 2 písm. h) zákona č. 114/1992 Sb., o ochraně přírody a krajiny"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Myslivec na běžném honebním pozemku (mimo ZCHÚ) zastřelí rysa ostrovida, kriticky ohroženého zvláště chráněného druhu, v domnění, že jde o velkou kočku domácí. Orgán OP (ORP) zahájí přestupkové řízení. Důkazy: nález kadáveru, pitevní/veterinární zpráva, balistická expertiza, výpověď podezřelého, evidence loveckého lístku, případně DNA.
+
+**2. Právní otázka.** Naplňuje jednání skutkovou podstatu podle § 87 odst. 3 písm. b) (usmrcení kriticky/silně ohroženého druhu) a jaký vliv má na výši pokuty omyl pachatele a místo spáchání (násobitel podle odst. 5)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 87 odst. 3 písm. b) (usmrcení ZCHD kriticky/silně ohroženého — do 100 000 Kč), odst. 5 (zdvojnásobení ve ZCHÚ), odst. 6 (projednává orgán OP).
+- *Související ustanovení téhož zákona:* § 50 (základní podmínky ochrany ZCHD živočichů), § 48 (kategorizace), § 56 (výjimky), § 89 (odebrání jedince).
+- *Související předpisy:* zákon č. 250/2016 Sb., o odpovědnosti za přestupky (zavinění, polehčující okolnosti); § 299 trestního zákoníku (neoprávněné nakládání s chráněnými živočichy) — možný souběh a přednost trestního řízení.
+- *Judikatura:* NSS 6 As 6/2004 (naplnění skutkové podstaty přestupku nesplněním povinnosti opatřit souhlas); obecně k subjektivní stránce přestupku dle z. č. 250/2016 Sb.
+
+**4. Subsumpce.** Usmrcen byl jedinec kriticky ohroženého ZCHD → znak § 87 odst. 3 písm. b) je naplněn. Přestupek FO podle § 87 vyžaduje zavinění; omyl o druhu vylučuje úmysl, ale nedbalost zpravidla zůstává (myslivec měl a mohl rozpoznat). Místo (mimo ZCHÚ) → odst. 5 se neuplatní, pokuta do 100 000 Kč.
+
+**5. Řešení.** Pokud intenzita dosahuje trestného činu podle § 299 TZ, má přednost trestní řízení; orgán OP řízení přeruší. Skončí-li trestní věc jinak než odsouzením, pokračuje se v přestupku. Při zachování přestupkové cesty uloží orgán OP pokutu v rámci sazby odst. 3 písm. c) s přihlédnutím k nedbalostnímu zavinění a polehčujícím okolnostem.
+
+**6. Varianty.** (a) Kdyby ke střelbě došlo v NPR/CHKO, uplatnil by se násobitel odst. 5 (až 200 000 Kč). (b) Kdyby šlo o pouhé poranění (ne usmrcení) ohroženého — ne kriticky/silně — druhu, kvalifikace by klesla do mírnějšího odstavce s nižší sazbou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: jednání je trestným činem, takže přestupkové řízení je nepřípustné.* Neutralizace: správně se uplatní zásada přednosti trestního řízení — orgán OP řízení přeruší/zastaví, nikoli souběžně sankcionuje; po nepravomocném neodsouzení lze pokračovat.
+- *Protiargument: pachatel nevěděl, že jde o rysa, chybí zavinění.* Neutralizace: u přestupku FO postačí nedbalost; u osoby s loveckým lístkem je požadavek rozpoznat zvěř zvýšen, omyl zpravidla nevylučuje nedbalostní odpovědnost.
+- *Slabé místo:* prokázání pachatelství (kdo vystřelil) a příčinné souvislosti smrti se zásahem; bez balistiky/DNA hrozí zproštění.
+
+#### H. Praktický závěr
+
+§ 87 je třístupňový katalog přestupků FO odstupňovaný podle závažnosti (10 000 / 20 000 / 100 000 Kč), s násobitelem ve ZCHÚ (odst. 5). Vždy je třeba prověřit zavinění, správné podřazení pod konkrétní písmeno a možný souběh s trestným činem (přednost trestního řízení).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o fyzickou osobu (nepodnikající) — jinak § 88?
+- [ ] Které konkrétní písmeno a odstavec § 87 je naplněno (závažnost → sazba)?
+- [ ] Bylo prokázáno zavinění (úmysl/nedbalost) podle z. č. 250/2016 Sb.?
+- [ ] Spácháno ve ZCHÚ → násobitel podle odst. 5?
+- [ ] Nehrozí souběh s trestným činem (§ 299/§ 301 TZ) → přednost trestního řízení?
+
+**Typicky rozhodné důkazy / podklady:** nález/kadáver, veterinární a balistická expertiza, DNA, fotodokumentace, výpovědi, doklad o kategorizaci druhu, evidence povolení/výjimek.
+
 ### § 88 — Přestupky právnických a podnikajících fyzických osob
 
 > **§ 88**
@@ -1224,6 +2795,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Odpovědnost PO za přestupek:** podle § 21 zákona č. 250/2016 Sb. — objektivní s liberací (PO se může zprostit, prokáže-li, že vynaložila veškeré úsilí k odvrácení porušení).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební společnost při výstavbě komunikace v evropsky významné lokalitě (EVL) provede bez souhlasu orgánu OP terénní úpravy, jimiž zničí stanoviště zvláště chráněného druhu. ČIŽP zahájí přestupkové řízení; současně vyjde najevo, že místně příslušná správa NP žádné řízení nezahájila. Důkazy: kontrolní protokol ČIŽP, projektová dokumentace, biologické hodnocení EVL, fotodokumentace, výpis z obchodního rejstříku.
+
+**2. Právní otázka.** Je dána pravomoc ČIŽP projednat přestupek PO podle § 88 odst. 2 písm. n) (činnost v EVL bez souhlasu), nebo brání subsidiarita podle § 80 odst. 4, a může se PO liberovat podle § 21 z. č. 250/2016 Sb.?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88 odst. 1 a 2 (katalog přestupků PO/PFO, sazby do 1 000 000 / 2 000 000 Kč), odst. 4 (projednává orgán OP).
+- *Související ustanovení téhož zákona:* § 80 odst. 4 (subsidiární kompetence ČIŽP), § 45g/§ 45i (ochrana EVL a souhlasy), § 86 (souběžné nápravné opatření), § 88a (výnosy z pokut).
+- *Související předpisy:* § 21 zákona č. 250/2016 Sb. (objektivní odpovědnost PO s liberací); směrnice o stanovištích 92/43/EHS (transpoziční pozadí ochrany EVL).
+- *Judikatura:* NSS k subsidiární působnosti ČIŽP a k posuzování liberačních důvodů PO (vynaložení veškerého úsilí, které lze požadovat).
+
+**4. Subsumpce.** PO vykonala v EVL činnost vyžadující souhlas bez tohoto souhlasu → § 88 odst. 2 písm. n). Sazba do 2 000 000 Kč. Otázka kompetence: nezahájil-li řízení místně příslušný orgán (správa NP), nastupuje subsidiárně ČIŽP (§ 80 odst. 4). Liberace: PO by musela prokázat, že vynaložila veškeré úsilí (např. že o nutnosti souhlasu nemohla vědět) — u profesionálního stavebníka je to obtížné.
+
+**5. Řešení.** ČIŽP je oprávněna věc projednat (subsidiarita), uloží pokutu podle odst. 2 a může souběžně iniciovat nápravné opatření podle § 86. Liberace zpravidla neúspěšná — profesionál měl povinnost zajistit si biologické hodnocení a souhlas. Výnos pokuty se rozdělí podle § 88a (SFŽP / obec).
+
+**6. Varianty.** (a) Kdyby řízení dříve zahájila správa NP, ČIŽP by věc neprojednávala (přednost místně příslušného orgánu). (b) Kdyby šlo o méně závažné jednání podle odst. 1, sazba by klesla do 1 000 000 Kč.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: pravomoc má výlučně místně příslušný orgán OP, ČIŽP zasahovat nesmí.* Neutralizace: § 80 odst. 4 zakládá subsidiární kompetenci ČIŽP právě pro případ nečinnosti místního orgánu; přednost má jen tehdy, zahájil-li řízení dříve.
+- *Protiargument: PO se zprostí, neboť porušení způsobil subdodavatel.* Neutralizace: liberace podle § 21 z. č. 250/2016 Sb. vyžaduje prokázání veškerého úsilí; jednání subdodavatele odpovědnost PO zpravidla nevylučuje (výběr a kontrola dodavatele).
+- *Slabé místo:* riziko kompetenčního sporu ČIŽP vs. správa NP/KÚ a litispendence; nutné prokázat, že nutnost souhlasu byla seznatelná.
+
+#### H. Praktický závěr
+
+§ 88 zrcadlí § 87, ale s řádově vyššími sazbami (až 2 mil. Kč) a režimem objektivní odpovědnosti s liberací (§ 21 z. č. 250/2016 Sb.). Velké pokuty typicky ukládá ČIŽP, a to subsidiárně podle § 80 odst. 4. Souběžně lze uložit nápravu podle § 86.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je pachatelem PO nebo PFO (jinak § 87)?
+- [ ] Které písmeno § 88 odst. 1 nebo 2 je naplněno (sazba 1 mil. / 2 mil. Kč)?
+- [ ] Kdo je příslušný — místní orgán OP, nebo subsidiárně ČIŽP (§ 80 odst. 4)?
+- [ ] Existuje liberační důvod podle § 21 z. č. 250/2016 Sb.?
+- [ ] Je zvažováno souběžné nápravné opatření (§ 86) a rozdělení výnosu (§ 88a)?
+
+**Typicky rozhodné důkazy / podklady:** kontrolní protokol, projektová a stavební dokumentace, biologické hodnocení, fotodokumentace, doklady o výběru/kontrole dodavatele (k liberaci), výpis z OR.
+
 ### § 88a — Výnosy z pokut
 
 > **§ 88a**
@@ -1238,6 +2846,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 - *NSS* [8 A 125/2018 - 82](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/670916) — 25. 5. 2021
   > „dle § 88a zákona č. 114/1992 Sb. se výnosy pokut uložených inspekcí dělí způsobem upraveným zvláštním zákonem, konkrétně zákonem č. 388/1991 Sb., o Státním fondu životního prostředí České republiky, ve znění pozdějších předpisů. Ten v § 2 písm. g) stanoví, že příjmem fondu jsou pokuty uložené inspekcí za porušení předpisů a opatření k ochraně životního prostředí a z odst. 3 vyplývá, že z pokut připadá 50 % do rozpočtu obce, v jejímž katastru došlo k porušení předpisů. Obec pak má povinnost využít získané prostředky k ochraně životního prostředí"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obecní úřad ORP uloží podnikateli pokutu 80 000 Kč za nepovolené kácení dřevin a výnos zařadí do běžného rozpočtu obce, z něhož financuje opravu chodníku. Při kontrole hospodaření je namítáno porušení účelové vázanosti. Důkazy: rozhodnutí o pokutě, účetní doklady o použití výnosu, rozpočtové výkazy obce.
+
+**2. Právní otázka.** Smí obec použít výnos z pokuty uložené ORP podle ZOPK na běžné výdaje (chodník), nebo je vázána výhradně na zlepšení životního prostředí a ochranu přírody podle poslední věty § 88a?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88a — distribuce výnosů (ORP → rozpočet obce; KÚ → rozpočet kraje; AOPK/NPS/ČIŽP → dělení podle zvláštního zákona; vojenské újezdy → státní rozpočet) a účelová vázanost obecních výnosů.
+- *Související ustanovení téhož zákona:* § 87 a § 88 (ukládání pokut), § 76–80 (kompetence orgánů ukládajících pokuty).
+- *Související předpisy:* zákon č. 388/1991 Sb., o SFŽP (klíč dělení pokut ČIŽP, 50 % obci); zákon č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů.
+- *Judikatura:* NSS 8 A 125/2018 — výklad dělení výnosů z pokut ČIŽP podle z. č. 388/1991 Sb. a povinnost obce použít prostředky k ochraně životního prostředí.
+
+**4. Subsumpce.** Pokutu uložil ORP → výnos je příjmem rozpočtu obce (věta první). Poslední věta § 88a stanoví, že obec smí výnosy užít **jen** pro zlepšení životního prostředí a ochranu přírody v obci. Oprava chodníku tomuto účelu neodpovídá → účelová vázanost porušena.
+
+**5. Řešení.** Použití výnosu na chodník je v rozporu s § 88a; jde o porušení účelové vázanosti zjistitelné při přezkumu hospodaření (audit, ÚOHS-nezávislé, příp. krajský přezkum). Náprava: výnos je nutné použít na ekologické účely (výsadba zeleně, péče o VKP, bioodpad). Pro KÚ ani pro výnosy ČIŽP obdobná výslovná vázanost přímo v § 88a není (u ČIŽP plyne z § 388/1991 Sb.).
+
+**6. Varianty.** (a) Šlo-li by o pokutu ČIŽP, 50 % připadne obci, na jejímž katastru došlo k porušení, opět s povinností ekologického využití (8 A 125/2018). (b) Při spáchání na území vojenského újezdu by celý výnos byl příjmem státního rozpočtu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: účelová vázanost se vztahuje jen na pokuty ČIŽP dělené přes SFŽP, ne na pokuty ORP.* Neutralizace: poslední věta § 88a hovoří obecně o „výnosech z pokut", které obec získá; vázanost dopadá na obecní výnosy bez ohledu na ukládající orgán.
+- *Protiargument: „zlepšení životního prostředí" je natolik široké, že pokryje i chodník (méně prachu).* Neutralizace: účel je třeba vykládat restriktivně ve vazbě na ochranu přírody a krajiny v obci; běžné komunální investice sem nespadají.
+- *Slabé místo:* absence sankce přímo v § 88a za porušení vázanosti — vymahatelnost se opírá o rozpočtová pravidla a přezkum hospodaření.
+
+#### H. Praktický závěr
+
+§ 88a řídí, kdo bere výnos z pokuty (princip „pokutuje ten, kdo inkasuje"), a u obecních výnosů zavádí účelovou vázanost na ochranu přírody a zlepšení životního prostředí v obci. U pokut ČIŽP se uplatní dělení podle z. č. 388/1991 Sb. (50 % obci s povinností ekologického využití).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Který orgán pokutu uložil (ORP/KÚ/AOPK/NPS/ČIŽP/vojenský újezd)?
+- [ ] Komu výnos připadá podle § 88a (obec/kraj/SFŽP/stát)?
+- [ ] Je u obecního výnosu dodržena účelová vázanost (ochrana přírody/ŽP v obci)?
+- [ ] U pokut ČIŽP — aplikováno dělení dle z. č. 388/1991 Sb. (50 % obci)?
+- [ ] Je použití výnosu doložitelné a auditovatelné?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o pokutě, účetní a rozpočtové doklady obce/kraje, doklady o ekologickém použití prostředků, vyúčtování SFŽP.
 
 ### § 89 — Odebrání nedovoleně držených jedinců zvláště chráněných druhů a jedinců invazních nepůvodních druhů
 
@@ -1277,6 +2922,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 - *NSS* [10 As 300/2023 - 39](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/720500) — 16. 4. 2024
   > „NSS dodává, že odebráním exemplářů není dotčena správněprávní ani trestněprávní odpovědnost a je možné uložit trest osobě, které byly exempláře odebrány. Obdobně je tomu u odebrání nedovoleně držených jedinců zvláště chráněných druhů podle § 89 zákona č. 114/1992 Sb., o ochraně přírody a krajiny …"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při kontrole na chovatelské burze drží osoba živého jedince zvláště chráněného druhu papouška (resp. druhu chráněného podle CITES) a nepředloží osvědčení ani jiný doklad o zákonném původu podle § 54 odst. 1. Orgán OP (ČIŽP) jedince odebere. Důkazy: kontrolní protokol, fotodokumentace, absence/falzifikace osvědčení o původu, veterinární určení druhu, výpověď držitele.
+
+**2. Právní otázka.** Jsou splněny podmínky odebrání podle § 89 odst. 1 (neprokázaný původ), stává se stát vlastníkem ex lege podle odst. 4, a vylučuje odebrání souběžnou sankci za přestupek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89 odst. 1 (odebrání ZCHD a CITES při neprokázaném původu/nedovoleném obchodu), odst. 3 (vyloučení účasti obce dle § 71 odst. 3), odst. 4 (stát vlastníkem ex lege, převod, náhrada výjimky § 56).
+- *Související ustanovení téhož zákona:* § 54 odst. 1 (povinnost prokázat původ), § 56 (výjimky), § 87 odst. 3 písm. o)/§ 88 (souběžné přestupky), § 90 odst. 1 (vyloučení odkladného účinku odvolání u § 89).
+- *Související předpisy:* nařízení (EU) 1143/2014 (IAS — odst. 2); CITES a nařízení (ES) 338/97; zákon č. 100/2004 Sb. (obchodování s ohroženými druhy); zákon č. 500/2004 Sb. (řízení o odebrání).
+- *Judikatura:* NSS 10 As 300/2023 — odebráním není dotčena správní ani trestní odpovědnost; lze uložit trest i osobě, jíž byly exempláře odebrány.
+
+**4. Subsumpce.** Držitel neprokázal původ podle § 54 odst. 1 → podmínka odst. 1 splněna, odebrání možné. Odst. 4: stát se stává vlastníkem ex lege bez zápisu. Odst. 3 vylučuje účast obce, řízení může být rychlé. Vyloučení odkladného účinku odvolání (§ 90 odst. 1) → odebrání je okamžitě vykonatelné, klíčové u živých zvířat.
+
+**5. Řešení.** ČIŽP vydá rozhodnutí o odebrání; jedince umístí do záchranné stanice/zařízení. Stát se stává vlastníkem a může jej převést s tím, že smluvní podmínky převodu nahrazují výjimku podle § 56. Souběžně lze vést přestupkové řízení (§ 87/§ 88) — odebrání není trestem (10 As 300/2023). Odvolání nemá odkladný účinek.
+
+**6. Varianty.** (a) Jde-li o jedince IAS na unijním seznamu, postupuje se podle odst. 2 ve vazbě na čl. 31/32 nařízení 1143/2014 (zájmový vs. obchodní chov). (b) Prokáže-li držitel řádný původ (osvědčení), odebrání nelze provést.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: odebrání věci je sankcí, a souběh s pokutou je dvojí trest.* Neutralizace: NSS 10 As 300/2023 výslovně potvrzuje, že odebrání není trestem a nebrání uložení sankce; jde o nápravně-bezpečnostní opatření.
+- *Protiargument: bez pravomocného rozhodnutí nelze jedince fakticky odebrat.* Neutralizace: § 90 odst. 1 vylučuje odkladný účinek odvolání, rozhodnutí je předběžně vykonatelné — nezbytné pro ochranu živých zvířat.
+- *Slabé místo:* riziko sporu o vlastnictví a o náhradu, pokud se původ dodatečně prokáže; nutnost řádně doložit, že držitel původ neprokázal v řízení (důkazní břemeno).
+
+#### H. Praktický závěr
+
+§ 89 je zvláštní nápravně-bezpečnostní nástroj: orgán OP odebere jedince ZCHD/CITES při neprokázaném původu nebo nedovoleném obchodu (odst. 1) a IAS dle nařízení 1143/2014 (odst. 2). Stát se stává vlastníkem ex lege (odst. 4), odvolání nemá odkladný účinek (§ 90 odst. 1) a odebrání nevylučuje souběžný postih.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o ZCHD/CITES jedince s neprokázaným původem (§ 54 odst. 1), nebo o IAS dle odst. 2?
+- [ ] Bylo dodrženo důkazní břemeno k neprokázání původu?
+- [ ] Je v rozhodnutí zohledněno vyloučení odkladného účinku (§ 90 odst. 1)?
+- [ ] Je vyřešen osud jedince (záchranná stanice, převod dle odst. 4 a § 56)?
+- [ ] Je zvažováno souběžné přestupkové/trestní řízení?
+
+**Typicky rozhodné důkazy / podklady:** kontrolní protokol, fotodokumentace, osvědčení o původu (či jeho absence/falzum), veterinární určení druhu, doklady CITES, evidence chovu.
 
 ---
 
@@ -1369,6 +3051,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 - *NSS* [62 A 113/2021 - 172](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/721442) — 14. 3. 2024
   > „souhlas se zásahem do krajinného rázu může existovat ve dvou formách. V případě, že bude po posouzení snížení či změny krajinného rázu orgánem ochrany přírody navazovat povolující rozhodnutí dle zvláštního právního předpisu vydávané jiným správním orgánem (typicky stavebním úřadem), má souhlas či nesouhlas podle § 90 odst. 1 zákona č. 114/1992 Sb. formu závazného stanoviska podle správního řádu. V ostatních případech je vedeno samostatné správní řízení a příslušný souhlas či nesouhlas je vydáván formou správního rozhodnutí"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor žádá stavební úřad o povolení rozhledny v krajinářsky cenné lokalitě. Orgán OP vydá k zásahu do krajinného rázu „souhlas" s podmínkami. Investor jej chce samostatně napadnout odvoláním jako rozhodnutí; stavební úřad ho však považuje za závazné stanovisko, jež se přezkoumává až s konečným rozhodnutím. Důkazy: žádost, vydaný akt OP, navazující stavební řízení, posouzení krajinného rázu (§ 12).
+
+**2. Právní otázka.** Má souhlas orgánu OP podle § 90 odst. 1 povahu samostatně přezkoumatelného rozhodnutí, nebo závazného stanoviska podle § 149 SŘ, je-li podkladem pro rozhodnutí stavebního úřadu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90 odst. 1 (forma souhlasů/závazných stanovisek; vyloučení odkladného účinku u § 13, 66, 89), dále společná ustanovení odst. 2–23 (obrana státu, transformace ZCHÚ, dohody nahrazující povolení aj.).
+- *Související ustanovení téhož zákona:* § 12 (krajinný ráz), § 4 odst. 2 (VKP), § 44 odst. 4 (souhlas ve ZCHÚ), § 86 a § 90 odst. 5 (vztah k ekologické újmě).
+- *Související předpisy:* § 149 zákona č. 500/2004 Sb. (závazné stanovisko); stavební zákon (navazující řízení); zákon č. 167/2008 Sb. (ekologická újma — odst. 5).
+- *Judikatura:* NSS 62 A 113/2021 — souhlas se zásahem do krajinného rázu má dvojí formu: závazné stanovisko (je-li podkladem rozhodnutí jiného orgánu), jinak samostatné rozhodnutí.
+
+**4. Subsumpce.** Souhlas je podkladem pro povolení stavebního úřadu → podle § 90 odst. 1 a 62 A 113/2021 má formu závazného stanoviska podle § 149 SŘ. Není proto samostatně odvoláním napadnutelný; jeho zákonnost se přezkoumá v rámci odvolání proti konečnému rozhodnutí stavebního úřadu.
+
+**5. Řešení.** Odvolání investora proti „souhlasu" jako samostatnému rozhodnutí by bylo nepřípustné. Námitky proti obsahu závazného stanoviska je třeba uplatnit v navazujícím stavebním řízení, nadřízený orgán OP přezkoumá stanovisko postupem podle § 149 odst. 5 SŘ. Vyloučení odkladného účinku podle § 90 odst. 1 se zde netýká (jde o § 13, 66, 89).
+
+**6. Varianty.** (a) Pokud by zásah do krajinného rázu nebyl podkladem žádného navazujícího rozhodnutí, vedlo by se samostatné správní řízení a souhlas by měl formu rozhodnutí (přímo přezkoumatelného). (b) U rozhodnutí podle § 66 (omezení činnosti) je odvolání bez odkladného účinku — okamžitě vykonatelné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: každý souhlas orgánu OP je samostatným rozhodnutím a musí být samostatně přezkoumatelný.* Neutralizace: § 90 odst. 1 a 62 A 113/2021 rozlišují dvě formy podle toho, zda souhlas slouží jako podklad pro rozhodnutí jiného orgánu (pak závazné stanovisko).
+- *Protiargument: vyloučení odkladného účinku odvolání popírá právo na účinnou obranu.* Neutralizace: omezuje se jen na § 13, 66, 89, kde je okamžitá vykonatelnost nezbytná pro účinnost ochrany; soudní přezkum a žádost o odkladný účinek u soudu zůstávají.
+- *Slabé místo:* roztříštěnost § 90 (23 odstavců) ztěžuje orientaci; riziko opomenutí speciálních pravidel (odst. 5 ekologická újma, odst. 17–20 výjimky pro pracovníky OP).
+
+#### H. Praktický závěr
+
+§ 90 je „velký" společný paragraf. Prakticky nejdůležitější je odst. 1: forma souhlasu OP závisí na tom, zda je podkladem pro rozhodnutí jiného orgánu (závazné stanovisko § 149 SŘ), či nikoli (samostatné rozhodnutí); a vyloučení odkladného účinku odvolání u § 13, 66, 89. Dále upravuje vyloučení obrany státu, transformaci historických ZCHÚ a dohody nahrazující povolení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je souhlas OP podkladem pro rozhodnutí jiného orgánu → závazné stanovisko (§ 149 SŘ)?
+- [ ] Pokud ano, námitky se uplatňují v navazujícím řízení, nikoli samostatným odvoláním?
+- [ ] Jde o rozhodnutí podle § 13/§ 66/§ 89 → odvolání bez odkladného účinku?
+- [ ] Není dán důvod podle odst. 5 (ekologická újma) k nepoužití § 86?
+- [ ] Uplatní se některé z dalších společných pravidel (obrana státu, dohoda nahrazující povolení dle odst. 21)?
+
+**Typicky rozhodné důkazy / podklady:** žádost a vydaný akt OP, posouzení krajinného rázu, spis navazujícího řízení, doklad o povaze aktu (podklad vs. samostatné rozhodnutí).
+
 ### § 90a
 
 > **§ 90a**
@@ -1377,6 +3096,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Výklad:** **Definiční ustanovení.** Veškeré pravomoci orgánů ÚSC (KÚ, ORP, OÚ, magistráty, MČ Prahy) podle ZOPK jsou **přenesenou působností** (státní správou) — nikoli samostatnou působností. Důsledky: dohled MŽP, financování ze státního rozpočtu (příspěvek na výkon přenesené působnosti), soudní přezkum rozhodnutí podle § 65 a násl. SŘS. Výjimkou je § 71 odst. 1 a 5 (samostatná působnost obce — přehled pozemků k náhradní výsadbě, přehled veřejně přístupných účelových komunikací).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zastupitelstvo obce s rozšířenou působností přijme usnesení, jímž ukládá odboru životního prostředí, aby v určité kauze nevydával souhlas ke kácení dřevin. Odbor přesto rozhodne věcně podle zákona. Spor: může zastupitelstvo (orgán samosprávy) řídit výkon agendy podle ZOPK? Důkazy: usnesení zastupitelstva, vydané rozhodnutí, organizační řád úřadu.
+
+**2. Právní otázka.** Je výkon působnosti obecního úřadu podle ZOPK přenesenou působností (státní správou), takže do něj nemohou zasahovat samosprávné orgány, a kdo nad ním vykonává dohled a metodické řízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90a — pravomoci KÚ, ORP, pověřených OÚ, OÚ, magistrátů a MČ Prahy podle ZOPK jsou výkonem přenesené působnosti.
+- *Související ustanovení téhož zákona:* § 76–77a (působnost obcí a krajů), § 79 (působnost MŽP — vrchní dozor a metodika), § 85 odst. 2 (vrchní státní dozor), § 71 odst. 1 a 5 (samostatná působnost obce — výjimky).
+- *Související předpisy:* zákon č. 128/2000 Sb., o obcích, a zákon č. 129/2000 Sb., o krajích (vymezení přenesené a samostatné působnosti); soudní řád správní (přezkum rozhodnutí).
+- *Judikatura:* ustálená správní judikatura — do výkonu přenesené působnosti nesmí zasahovat samosprávné orgány; vázanost zákonem, nikoli usnesením zastupitelstva.
+
+**4. Subsumpce.** Rozhodování o souhlasu ke kácení je výkonem působnosti ORP podle ZOPK → podle § 90a jde o přenesenou působnost. Usnesení zastupitelstva (samospráva) nemůže úředníka v této agendě zavazovat; ten je vázán zákonem a metodickým řízením MŽP/KÚ. Výjimky § 71 odst. 1 a 5 se zde neuplatní.
+
+**5. Řešení.** Rozhodnutí odboru je správné — výkon přenesené působnosti se řídí zákonem, nikoli usnesením zastupitelstva. Usnesení je v této části právně neúčinné (zásah do přenesené působnosti). Dohled a metodiku zajišťuje MŽP (§ 79), resp. KÚ vůči ORP; opravným prostředkem proti rozhodnutí je odvolání ke KÚ, poté soudní přezkum.
+
+**6. Varianty.** (a) Šlo-li by o agendu podle § 71 odst. 1 nebo 5 (přehled pozemků k náhradní výsadbě, přehled účelových komunikací), jde o samostatnou působnost a samospráva o ní rozhoduje. (b) Při nečinnosti ORP může nadřízený orgán (KÚ) využít opatření proti nečinnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: obec je vlastníkem dotčených pozemků, proto smí o agendě rozhodovat samospráva.* Neutralizace: vlastnictví nemění povahu působnosti — výkon státní správy podle § 90a je oddělen od postavení obce jako účastníka/vlastníka.
+- *Protiargument: i přehledy podle § 71 jsou výkonem ZOPK, tedy přenesená působnost.* Neutralizace: § 71 odst. 1 a 5 jsou výslovně koncipovány jako samostatná působnost (výjimka z § 90a) — nutno rozlišovat.
+- *Slabé místo:* v praxi se prolíná role obce jako úřadu (přenesená působnost) a jako účastníka řízení/vlastníka (samospráva); riziko podjatosti a střetu.
+
+#### H. Praktický závěr
+
+§ 90a je výkladové pravidlo: agenda ÚSC podle ZOPK je přenesenou působností (státní správa) s dohledem a metodikou MŽP/KÚ a soudním přezkumem; samospráva do ní nezasahuje. Výjimkou je samostatná působnost obce podle § 71 odst. 1 a 5.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o výkon působnosti orgánu ÚSC podle ZOPK → přenesená působnost (§ 90a)?
+- [ ] Nezasahuje do ní nepřípustně samosprávný orgán (zastupitelstvo/rada)?
+- [ ] Nejde o výjimku samostatné působnosti dle § 71 odst. 1 nebo 5?
+- [ ] Je zajištěn správný instanční postup (odvolání ke KÚ, dozor MŽP)?
+- [ ] Není dán střet rolí obce (úřad vs. účastník/vlastník) → podjatost?
+
+**Typicky rozhodné důkazy / podklady:** organizační řád úřadu, vydané rozhodnutí, usnesení samosprávných orgánů, doklady o instančním a metodickém řízení.
+
 ### § 91 — Ustanovení přechodné
 
 > **§ 91**
@@ -1384,6 +3140,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 > *Státní správu lesního hospodářství nad vojenskými lesy na území Národního parku Šumava, u kterých již pominuly důvody jejich prohlášení za vojenské lesy, vykonává Správa národního parku Šumava v rozsahu podle § 78 odst. 4.*
 
 **Výklad:** Speciální přechodné ustanovení — bývalé vojenské lesy v NP Šumava, u nichž pominul vojenský účel, jsou převedeny pod Správu NP Šumava (která má rozšířenou lesnickou působnost podle § 78 odst. 17). Týká se konkrétně lokalit jako bývalý VVP Dobrá Voda po roce 1991.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Lesní pozemek v bývalém vojenském újezdu Dobrá Voda na území NP Šumava, u něhož po roce 1991 pominul vojenský účel, je předmětem sporu o to, který orgán nad ním vykonává státní správu lesního hospodářství — Správa NP Šumava, nebo obecný orgán státní správy lesů (ORP). Důkazy: rozhodnutí o zrušení vojenského účelu, katastrální vymezení, lesní hospodářský plán.
+
+**2. Právní otázka.** Vykonává nad bývalými vojenskými lesy v NP Šumava, u nichž pominul důvod prohlášení za vojenské lesy, státní správu lesního hospodářství Správa NP Šumava podle § 91 ve spojení s § 78 odst. 4?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 91 — přechodné ustanovení svěřující státní správu lesního hospodářství nad bývalými vojenskými lesy v NP Šumava Správě NP Šumava v rozsahu § 78 odst. 4.
+- *Související ustanovení téhož zákona:* § 78 (působnost Agentury a správ NP, vč. lesnické působnosti ve ZCHÚ), § 15–16d (ochrana NP), § 90 (společná ustanovení).
+- *Související předpisy:* zákon č. 289/1995 Sb., o lesích (orgány státní správy lesů); zákon č. 222/1999 Sb., o zajišťování obrany ČR (vojenské újezdy); NV č. 163/1991 Sb. (zřízení NP Šumava).
+- *Judikatura:* k vymezení působnosti správ NP v lesní agendě ve vztahu k obecným orgánům státní správy lesů.
+
+**4. Subsumpce.** Jde o lesy na území NP Šumava, dříve vojenské, u nichž pominul vojenský účel → § 91 zakládá příslušnost Správy NP Šumava k výkonu státní správy lesního hospodářství v rozsahu § 78 odst. 4. Obecný orgán státní správy lesů (ORP) zde příslušnost nemá.
+
+**5. Řešení.** Státní správu lesního hospodářství nad těmito pozemky vykonává Správa NP Šumava. Spor o příslušnost se řeší ve prospěch správy NP s odkazem na § 91; obecný orgán věc postoupí. Praktický dopad: lesní hospodářské plány a souhlasy schvaluje správa NP integrovaně s ochranou NP.
+
+**6. Varianty.** (a) Pokud by vojenský účel dosud nepominul, šlo by stále o vojenské lesy mimo režim § 91. (b) U lesů v NP, které nikdy nebyly vojenské, plyne příslušnost správy NP přímo z § 78, nikoli z přechodného § 91.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: státní správu lesů vykonává vždy obecný orgán (ORP/KÚ), správa NP nemá lesnickou pravomoc.* Neutralizace: § 91 ve spojení s § 78 odst. 4 zakládá zvláštní příslušnost správy NP právě pro tyto lesy; jde o lex specialis vůči obecné úpravě.
+- *Protiargument: ustanovení je obsoletní, vojenský účel pominul dávno.* Neutralizace: i přechodné ustanovení trvale určuje příslušný orgán; jeho normativní účinek (kompetence správy NP) přetrvává.
+- *Slabé místo:* nejednoznačnost momentu „pominutí důvodů" prohlášení za vojenské lesy — vyžaduje doložení správním aktem nebo faktickým stavem.
+
+#### H. Praktický závěr
+
+§ 91 je úzce zaměřené přechodné ustanovení: nad bývalými vojenskými lesy v NP Šumava, u nichž pominul vojenský účel, vykonává státní správu lesního hospodářství Správa NP Šumava (§ 78 odst. 4). Při kompetenčních sporech má přednost před obecným orgánem státní správy lesů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Leží pozemek v NP Šumava a šlo o bývalé vojenské lesy?
+- [ ] Pominul prokazatelně důvod prohlášení za vojenské lesy?
+- [ ] Vykonává správu lesního hospodářství Správa NP Šumava (§ 78 odst. 4)?
+- [ ] Není věc nesprávně vedena obecným orgánem státní správy lesů?
+
+**Typicky rozhodné důkazy / podklady:** akt o zrušení vojenského účelu, katastrální vymezení, lesní hospodářský plán, doklady o příslušnosti správy NP.
 
 ### § 92 — Ustanovení zrušovací
 
@@ -1409,6 +3201,43 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 
 **Výklad:** **Zrušovací ustanovení.** Klíčový derogační efekt: zrušen **zákon č. 40/1956 Sb., o státní ochraně přírody** (a všechny jeho novely) — předchozí komplexní úprava z dob ČSSR. Současně zrušena částečně NV o NP Šumava, Podyjí a KRNAP (z r. 1991) — jejich územní vymezení zůstalo, ale ochranné podmínky upravuje nyní ZOPK (§ 16, 16b–16d). Dále zrušena prováděcí vyhláška o kácení dřevin (142/1980 — nahrazena vyhláškou 189/2013 Sb. resp. 222/2014 Sb.) a starší úředně-věstníkové vyhlášky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník odkazuje na status „chráněného přírodního výtvoru" vyhlášeného podle zákona č. 40/1956 Sb. a tvrdí, že tento titul ochrany zanikl jeho zrušením podle § 92 bodu 1, takže pozemek již žádné zvláštní ochraně nepodléhá. Důkazy: původní vyhlašovací akt podle z. č. 40/1956 Sb., ústřední seznam ZCHÚ, vyhláška MŽP o kategorizaci.
+
+**2. Právní otázka.** Znamená zrušení zákona č. 40/1956 Sb. podle § 92 bodu 1 zánik ochrany území vyhlášených podle tohoto zákona, nebo tato území přešla do kategorií ZOPK na základě přechodných ustanovení § 90 odst. 6–11?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 92 — zrušení zákona č. 40/1956 Sb. a dalších předpisů (NV o NP Šumava/Podyjí/KRNAP zčásti, vyhláška 142/1980 Sb. o kácení aj.).
+- *Související ustanovení téhož zákona:* § 90 odst. 6–11 (transformace historických ZCHÚ do kategorií ZOPK), § 28, 33, 35, 36, 46 (cílové kategorie), § 12 (přírodní parky z oblastí klidu).
+- *Související předpisy:* zrušený zákon č. 40/1956 Sb.; vyhlášky MŽP o kategorizaci jednotlivých území; vyhláška 189/2013 Sb. (kácení — nahradila zrušenou 142/1980 Sb.).
+- *Judikatura:* k zásadě kontinuity ochrany historických ZCHÚ — derogace zákona neruší samotná území, jež přešla do nových kategorií.
+
+**4. Subsumpce.** § 92 bod 1 sice zrušil zákon č. 40/1956 Sb., avšak § 90 odst. 6–11 současně převedl území podle něj vyhlášená do kategorií ZOPK (chráněný přírodní výtvor → zpravidla přírodní památka, § 90 odst. 8 a § 36). Ochrana tedy nezanikla — pouze se transformoval její právní titul.
+
+**5. Řešení.** Tvrzení vlastníka je nesprávné: zrušením zákona č. 40/1956 Sb. ochrana nezanikla, území přešlo do kategorie ZOPK (PP) s odpovídajícími ochrannými podmínkami (§ 90 odst. 15 — činnosti vázané na souhlas podle § 44 odst. 4). Aktuální status je nutné ověřit v ústředním seznamu ZCHÚ a v kategorizační vyhlášce MŽP.
+
+**6. Varianty.** (a) Pokud by konkrétní území nebylo žádným přechodným ustanovením podchyceno (výjimečně), bylo by třeba zkoumat, zda ochrana skutečně zanikla. (b) Pro režim kácení dřevin: po zrušení vyhlášky 142/1980 Sb. se postupuje podle vyhlášky 189/2013 Sb.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: derogace zákona č. 40/1956 Sb. automaticky ruší i ochranu území podle něj vyhlášených.* Neutralizace: § 90 odst. 6–11 zakládá kontinuitu — území přecházejí do kategorií ZOPK; zrušen je jen předpis, nikoli ochranný status.
+- *Protiargument: bez nové vyhlašovací vyhlášky je ochrana neurčitá a nevymahatelná.* Neutralizace: § 90 odst. 15 zachovává dosavadní ochranné podmínky jako souhlasový režim podle § 44 odst. 4; kategorizaci upřesňuje MŽP vyhláškou.
+- *Slabé místo:* u některých starých území může být obtížné dohledat přesné vymezení a kategorizaci → nezbytný ústřední seznam a archivní akty.
+
+#### H. Praktický závěr
+
+§ 92 je zrušovací ustanovení (zejména derogace zákona č. 40/1956 Sb.). Klíčové je číst jej společně s přechodnými ustanoveními § 90 odst. 6–11 a 15: ochrana historických ZCHÚ nezanikla, území přešla do kategorií ZOPK s dosavadními ochrannými podmínkami. Status je třeba ověřit v ústředním seznamu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo území vyhlášeno podle zrušeného zákona č. 40/1956 Sb.?
+- [ ] Do které kategorie ZOPK přešlo podle § 90 odst. 6–11?
+- [ ] Platí dosavadní ochranné podmínky jako souhlasový režim (§ 90 odst. 15, § 44 odst. 4)?
+- [ ] Je status ověřen v ústředním seznamu ZCHÚ a kategorizační vyhlášce MŽP?
+- [ ] U kácení dřevin — aplikována nová vyhláška 189/2013 Sb. místo zrušené 142/1980 Sb.?
+
+**Typicky rozhodné důkazy / podklady:** původní vyhlašovací akt, ústřední seznam ZCHÚ, kategorizační vyhláška MŽP, archivní dokumentace vymezení území.
+
 ### § 93 — Účinnost
 
 > **§ 93**
@@ -1419,6 +3248,42 @@ Tato kapitola pokrývá závěrečné části zákona č. 114/1992 Sb., o ochran
 > *Pithart v. r.*
 
 **Výklad:** **Účinnost 1. června 1992.** Velmi krátká **legisvakance** (zákon vyhlášen ve Sbírce 25. března 1992 pod č. 114/1992 Sb., účinnost 1. 6. 1992 — tedy cca 2 měsíce). Podpisy: Dagmar Burešová (předsedkyně ČNR) a Petr Pithart (předseda vlády ČR). Zákon byl tedy přijat **Českou národní radou** **ještě před** rozdělením federace (1. 1. 1993) jako jeden z klíčových environmentálních předpisů samostatné české právní úpravy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník řízení napadá rozhodnutí orgánu OP s argumentem, že na jednání z května 1992 (před účinností ZOPK) nelze nově vzniklé povinnosti aplikovat, neboť zákon nabyl účinnosti až 1. 6. 1992. Spor se týká určení rozhodného práva v čase. Důkazy: datum jednání, datum vyhlášení a účinnosti zákona, spisová dokumentace.
+
+**2. Právní otázka.** Od kdy ZOPK zakládá práva a povinnosti — od vyhlášení (25. 3. 1992), nebo od účinnosti podle § 93 (1. 6. 1992), a lze jeho ustanovení aplikovat na skutkové děje před účinností?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 93 — účinnost dnem 1. června 1992.
+- *Související ustanovení téhož zákona:* § 90 a § 91 (přechodná ustanovení řešící vztah k předchozí úpravě), § 92 (zrušení zákona č. 40/1956 Sb.).
+- *Související předpisy:* čl. 52 Ústavy a pravidla o platnosti a účinnosti právních předpisů; zákaz pravé retroaktivity (čl. 1 a 2 Listiny ve spojení s principy právního státu).
+- *Judikatura:* ustálená doktrína Ústavního soudu o zákazu pravé retroaktivity a přípustnosti nepravé retroaktivity.
+
+**4. Subsumpce.** Zákon nabyl účinnosti 1. 6. 1992 (§ 93). Na skutkové děje proběhlé a uzavřené před tímto datem nelze ZOPK aplikovat (zákaz pravé retroaktivity); pro ně platí dřívější úprava (zákon č. 40/1956 Sb. do jeho zrušení § 92). Na trvající stavy a děje po 1. 6. 1992 se ZOPK použije.
+
+**5. Řešení.** Pokud jednání bylo dokončeno před 1. 6. 1992, posoudí se podle dřívějšího práva; orgán OP nemůže nově zaváděné povinnosti ZOPK uplatnit zpětně. U trvajících protiprávních stavů přetrvávajících po účinnosti se ZOPK použije od 1. 6. 1992 dále (nepravá retroaktivita je přípustná).
+
+**6. Varianty.** (a) Jde-li o trvající delikt (přetrvávající nedovolený stav) zasahující za 1. 6. 1992, ZOPK se aplikuje na jeho pokračování. (b) U novel ZOPK platí obdobně rozhodné datum účinnosti té které novely, nikoli původní datum 1. 6. 1992.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument: zákon platí již od vyhlášení, povinnosti tedy vznikají od 25. 3. 1992.* Neutralizace: nutno rozlišovat platnost (od vyhlášení) a účinnost (od 1. 6. 1992, § 93); povinnosti zakládá až účinnost.
+- *Protiargument: ochrana přírody je natolik důležitá, že odůvodňuje zpětnou aplikaci.* Neutralizace: zákaz pravé retroaktivity je ústavní zásada; veřejný zájem ji nepřelomí, přípustná je jen nepravá retroaktivita u trvajících stavů.
+- *Slabé místo:* u dlouhých kauz je třeba pečlivě určit, zda jde o uzavřený děj (dřívější právo), či trvající stav (ZOPK od účinnosti).
+
+#### H. Praktický závěr
+
+§ 93 určuje účinnost ZOPK k 1. 6. 1992. Prakticky je rozhodný pro intertemporální posouzení: na děje uzavřené před tímto datem se ZOPK neaplikuje (zákaz pravé retroaktivity), na trvající stavy a pozdější jednání ano. U pozdějších změn je nutné sledovat účinnost jednotlivých novel.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nastal rozhodný skutkový děj před, nebo po 1. 6. 1992 (§ 93)?
+- [ ] Jde o uzavřený děj (dřívější právo) nebo trvající stav (ZOPK od účinnosti)?
+- [ ] Není nepřípustně aplikována pravá retroaktivita?
+- [ ] U pozdějších věcí — je zohledněna účinnost příslušné novely, nikoli původní datum?
+
+**Typicky rozhodné důkazy / podklady:** datace skutkových dějů, znění zákona účinné v rozhodné době, spisová dokumentace o průběhu a trvání jednání.
 
 ---
 

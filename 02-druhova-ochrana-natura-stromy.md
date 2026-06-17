@@ -68,6 +68,42 @@ Klíčové znaky moratoria:
 
 Moratorium podle § 40 odst. 5 je tuzemským obdobou **předběžné ochrany sporných lokalit Natura 2000** podle § 45b — v obou případech zákonodárce reaguje na nebezpečí znehodnocení území v mezidobí mezi identifikací a formálním vyhlášením ochrany.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Kraj zveřejní záměr na vyhlášení přírodní rezervace na zalesněném svahu o rozloze 60 ha. Vlastník lesního pozemku, společnost L. s.r.o., obdrží individuální písemné oznámení podle § 40 odst. 2. Tři měsíce po zveřejnění záměru (avšak ještě před vyhlášením PR) zahájí L. s.r.o. holosečnou těžbu na 4 ha v jádru navrhovaného území s odůvodněním, že má platný LHP. Důkazy: oznámení a datum jeho doručení, datum zveřejnění záměru na portálu veřejné správy, LHP a evidence vytěžených porostů, biologický posudek o stavu porostu před a po těžbě.
+
+**2. Právní otázka.** Porušila L. s.r.o. moratorium podle § 40 odst. 5, jestliže těžba byla provedena podle platného LHP, a může vlastník zároveň účinně namítat nepotřebnost ochrany?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40 odst. 5 (ex lege moratorium erga omnes), odst. 4 (meze námitky vlastníka — affectatio personalis), odst. 6 (materiální shoda záměru a aktu).
+- *Související ustanovení téhož zákona:* § 66 (omezení a zákaz činnosti), § 87/88 (přestupky), § 43 (důvody výjimek, relevantní i pro zrušení dle § 45).
+- *Související předpisy:* zákon č. 289/1995 Sb., o lesích (LHP); § 101a SŘS (abstraktní přezkum OOP); § 65 SŘS (žaloba proti rozhodnutí o námitkách).
+- *Judikatura:* Pl.ÚS 24/04 (veřejný zájem se zjišťuje v řízení, nelze jej stanovit a priori); NSS 7 As 100/2014 (vlastník může v přezkumu vyhlašovacího aktu napadat procesní vady i nepřiměřenost zásahu).
+
+**4. Subsumpce.** Moratorium dle odst. 5 dopadá na „každého" a zakazuje zásahy, které „negativně mění či poškozují dochovaný stav". Holoseč v jádru území takovým zásahem zjevně je. Sporné je, zda běžné lesní hospodaření podle LHP je z moratoria vyňato — komentář dovozuje, že běžné hospodaření zpravidla povoleno zůstává, avšak holosečná likvidace porostu, který je předmětem navrhované ochrany, překračuje rámec „běžného hospodaření" a maří účel moratoria.
+
+**5. Řešení.** Orgán ochrany přírody zahájí řízení podle § 66 a posoudí přestupek dle § 87/88. Klíčové je odlišit rutinní výchovný zásah (přípustný) od cílené likvidace předmětu ochrany (nepřípustná). Namítat nepotřebnost ochrany jako takové vlastník v námitkovém řízení nemůže (affectatio personalis) — to lze jen v abstraktním přezkumu aktu. Pravděpodobný výsledek: sankce a možná povinnost náhradního opatření.
+
+**6. Varianty.** (a) Kdyby šlo o probírku slabé intenzity bez dotčení předmětu ochrany, moratorium porušeno není. (b) Kdyby od zveřejnění záměru uplynuly 2 roky bez vyhlášení, moratorium by zaniklo a těžba by byla legální.
+
+#### G. Protiargumenty a rizika
+
+- *Argument vlastníka:* „Mám platný LHP, tedy jednám v souladu s právem." Neutralizace: LHP nelegalizuje zásah mařící účel zákonného moratoria; běžnost hospodaření se posuzuje materiálně, nikoli jen formálně.
+- *Argument:* „Moratorium je neústavním zásahem do vlastnictví bez náhrady." Neutralizace: jde o dočasné (max. 2 roky), proporcionální a účelově odůvodněné omezení; náhrada se řeší v režimu § 58.
+- *Slabé místo:* hranice mezi běžným a nadlimitním hospodařením je skutkově sporná — nezbytný je biologický posudek a fotodokumentace stavu před zásahem, jejichž absence oslabuje pozici orgánu OP.
+
+#### H. Praktický závěr
+
+Záměr je současně odborným podkladem i procesním instrumentem; od jeho zveřejnění platí erga omnes moratorium a běží prekluzivní 90denní lhůty pro námitky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit datum zveřejnění záměru a způsob doručení vlastníkům (individuálně × veřejná vyhláška × portál).
+- [ ] Posoudit, zda zásah překračuje rámec běžného hospodaření a maří účel moratoria.
+- [ ] Zkontrolovat dodržení 90denní lhůty pro námitky a jejich omezení na vlastní dotčení (affectatio personalis).
+- [ ] Ověřit soulad rozsahu omezení ve vyhlašovacím aktu se záměrem po vypořádání námitek (odst. 6).
+
+**Typicky rozhodné důkazy / podklady:** záměr, oznámení a doručenky, výpis z portálu veřejné správy, LHP a evidence těžby, biologický posudek stavu území před a po zásahu.
+
 ---
 
 ### § 41 — Změna vymezení a podmínek ZCHÚ
@@ -81,6 +117,42 @@ Moratorium podle § 40 odst. 5 je tuzemským obdobou **předběžné ochrany spo
 § 41 odkazem na § 40 odst. 2–4 zajišťuje **procesní symetrii** mezi vyhlášením a změnou ZCHÚ. Princip je prostý: stejně jako pro vznik chráněného režimu, i pro jeho změnu (rozšíření, zúžení, zpřísnění podmínek) je vyžadováno projednání s dotčenými subjekty a respektování jejich námitek. Materiálně-právní rozsah projednání je však zúžen: změna se projednává pouze s **dotčenými** vlastníky/obcemi/kraji, nikoli se všemi vlastníky v ZCHÚ — což odráží zásadu **legitimního očekávání**: vlastník, jehož pozemek změnou není nikterak dotčen, nemá důvod do procesu vstupovat.
 
 Důležitý praktický důsledek: pokud změna ZCHÚ jen rozšiřuje seznam činností vázaných na souhlas v ochranném pásmu, ale nedotýká se nemovitostí jako takových, projednává se s vlastníky, jejichž využívání pozemků by takovým rozšířením bylo omezeno — tedy s vlastníky pozemků v ochranném pásmu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** U existující přírodní památky chce krajský úřad rozšířit výčet činností vázaných na souhlas v ochranném pásmu o „aplikaci hnojiv a pesticidů". Změna se nedotýká hranic ZCHÚ, ale omezí zemědělce hospodařící na pozemcích v ochranném pásmu. Krajský úřad omylem projedná změnu se všemi vlastníky v PP, nikoli jen s vlastníky v ochranném pásmu. Důkazy: návrh změny, mapa ochranného pásma, seznam dotčených parcel a vlastníků z KN.
+
+**2. Právní otázka.** S kým je orgán ochrany přírody povinen projednat změnu, jež se týká jen činností v ochranném pásmu, a jaké jsou důsledky projednání s nesprávným okruhem subjektů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 41 (procesní symetrie změny a vyhlášení; zúžení na dotčené subjekty).
+- *Související ustanovení téhož zákona:* § 40 odst. 2–4 (přiměřeně použité námitkové řízení), odst. 6 (materiální shoda).
+- *Související předpisy:* § 101a SŘS (přezkum OOP, jímž se změna provádí); SŘ (doručování).
+- *Judikatura:* NSS 7 As 100/2014 (přezkum vyhlašovacího/změnového aktu — procesní vady i proporcionalita).
+
+**4. Subsumpce.** § 41 výslovně stanoví, že změna se projednává „pouze s těmi vlastníky, obcemi a kraji, jichž se dotýká". Dotčeni jsou jen vlastníci pozemků v ochranném pásmu, kde se nově omezuje hospodaření. Projednání s ostatními vlastníky není vadou ke škodě dotčených, ale opomenutí kteréhokoli skutečně dotčeného vlastníka vadou je.
+
+**5. Řešení.** Změnu lze provést, pokud byli projednáni všichni skutečně dotčení vlastníci a respektovány jejich námitky. Nadbytečné projednání s nedotčenými subjekty není důvodem nezákonnosti. Procesní vadou by naopak bylo opomenutí vlastníka pozemku v ochranném pásmu — to zakládá důvod ke zrušení změnového aktu v přezkumu.
+
+**6. Varianty.** (a) Kdyby změna zužovala hranice ZCHÚ (uvolnila část pozemků), dotčenými by byli vlastníci uvolňovaných pozemků. (b) Kdyby šlo o pouhou technickou opravu mapy bez vlivu na práva, projednání by nebylo nutné.
+
+#### G. Protiargumenty a rizika
+
+- *Argument:* „Změna je jen administrativní, projednání není nutné." Neutralizace: jakákoli změna dotýkající se práv vlastníka (rozsah omezení, nové činnosti vázané na souhlas) projednání vyžaduje.
+- *Argument:* „Orgán projednal změnu i s nedotčenými, řízení je proto vadné." Neutralizace: nadbytečné projednání práva nikoho nekrátí a nezákonnost nezakládá.
+- *Slabé místo:* určení okruhu „dotčených" vlastníků je závislé na přesném vymezení ochranného pásma a aktuálnosti dat KN.
+
+#### H. Praktický závěr
+
+Změna ZCHÚ kopíruje proceduru vyhlášení (§ 40 odst. 2–4), ale jen vůči subjektům skutečně dotčeným změnou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vymezit přesně okruh dotčených vlastníků/obcí/krajů podle mapy a KN.
+- [ ] Použít přiměřeně námitkové řízení dle § 40 odst. 2–4 (lhůty, vypořádání).
+- [ ] Ověřit, že žádný skutečně dotčený vlastník nebyl opomenut.
+- [ ] Zkontrolovat materiální shodu změny s projednaným návrhem (§ 40 odst. 6 obdobně).
+
+**Typicky rozhodné důkazy / podklady:** návrh změny, mapa hranic a ochranného pásma, výpisy z KN, doručenky, vypořádání námitek.
 
 ---
 
@@ -116,6 +188,42 @@ Použití státního znaku k označení ZCHÚ je výrazem **veřejnoprávní pov
 - **Malý státní znak** — PR, PP (kategorie krajského významu).
 
 Označení v terénu (pruhové značení na stromech) i v mapách upravuje vyhláška č. 64/2011 Sb. Poškozování označení je samostatnou skutkovou podstatou přestupku podle § 87 odst. 1 písm. a) ZOPK.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor koupí pozemek a před koupí si neověří jeho status. Po realizaci terénních úprav zjistí orgán ochrany přírody, že pozemek leží v přírodní památce evidované v ÚSOP a vyznačené malým státním znakem v terénu; investor tvrdí, že o ochraně „nevěděl". Důkazy: výpis z ÚSOP (drusop.nature.cz), kupní smlouva, fotodokumentace značení v terénu, mapa ZCHÚ.
+
+**2. Právní otázka.** Může se investor zprostit odpovědnosti za zásah ve ZCHÚ tvrzením o nevědomosti, je-li území evidováno v ÚSOP s veřejným dálkovým přístupem a označeno v terénu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 42 odst. 1 a 2 (evidenční, informační a důkazní funkce ÚSOP; veřejný dálkový přístup), odst. 3 (označení státním znakem).
+- *Související ustanovení téhož zákona:* § 87 odst. 1 písm. a) (poškozování označení ZCHÚ), § 72a–72c (RÚIAN), § 14 (kategorie ZCHÚ).
+- *Související předpisy:* zákon č. 365/2000 Sb. (ISVS); vyhláška č. 64/2011 Sb. (členění ÚSOP, označení); vyhláška č. 45/2018 Sb. (plány péče).
+- *Judikatura:* obecná zásada, že u veřejně přístupných registrů neomlouvá tvrzená nevědomost (presumpce znalosti veřejně evidovaných skutečností).
+
+**4. Subsumpce.** ÚSOP je informačním systémem veřejné správy s dálkovým přístupem; status pozemku byl tedy seznatelný. Současně bylo území vyznačeno malým státním znakem (PP = krajská kategorie). Obě okolnosti vylučují omluvitelný omyl o existenci ochranného režimu.
+
+**5. Řešení.** Tvrzení o nevědomosti je neúčinné — ÚSOP plní důkazní funkci a poskytuje veřejnou listinu o existenci a vymezení ZCHÚ. Investor odpovídá za přestupek/zásah; náležitá péče vyžadovala nahlédnutí do ÚSOP před zahájením prací. Praktický krok: vždy provést rešerši v drusop.nature.cz a katastru před nabytím i před zásahem.
+
+**6. Varianty.** (a) Kdyby šlo o čerstvě vyhlášené ZCHÚ ještě nezapsané do ÚSOP a neoznačené v terénu, mohla by být nevědomost relevantní pro míru zavinění. (b) Kdyby investor sám poškodil označení (strhl ceduli se státním znakem), naplnil by samostatnou skutkovou podstatu dle § 87 odst. 1 písm. a).
+
+#### G. Protiargumenty a rizika
+
+- *Argument investora:* „Hranice ZCHÚ v terénu nebyla zřetelná." Neutralizace: rozhodný je zápis v ÚSOP a mapách; terénní značení je doplňkové, nikoli konstitutivní.
+- *Argument:* „ÚSOP nebyl aktuální." Neutralizace: i tehdy platí mapový a normativní podklad vyhlašovacího aktu; nepřesnost evidence sama o sobě ochranu neruší.
+- *Slabé místo:* u zcela nově vyhlášených území může nastat krátké období mezi účinností aktu a zápisem do ÚSOP — zde je třeba dokazovat účinnost aktu.
+
+#### H. Praktický závěr
+
+ÚSOP je centrální veřejný registr s evidenční, informační a důkazní funkcí; status pozemku je seznatelný dálkovým přístupem a tvrzená nevědomost zpravidla neomlouvá.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před nabytím i zásahem ověřit status pozemku v ÚSOP (drusop.nature.cz) a v KN/RÚIAN.
+- [ ] Odlišit ÚSOP, národní seznam EVL, evropský seznam a RÚIAN podle účelu a editora.
+- [ ] Ověřit správnost a zachovalost terénního označení (velký × malý státní znak).
+- [ ] Při poškození značení posoudit přestupek dle § 87 odst. 1 písm. a).
+
+**Typicky rozhodné důkazy / podklady:** výpis z ÚSOP, mapa a vymezení ZCHÚ, vyhlašovací akt, fotodokumentace označení v terénu, výpis z KN.
 
 ---
 
@@ -163,6 +271,42 @@ Označení v terénu (pruhové značení na stromech) i v mapách upravuje vyhl�
 Odst. 2 umožňuje udělit výjimku **opatřením obecné povahy** (OOP), pokud se týká „blíže neurčeného okruhu osob". Typicky: výjimka pro celoplošné jarní vstupy na výzkumné aktivity, výjimka pro tradiční sportovní akce v CHKO. OOP má dvě výhody: (i) ekonomii řízení (jeden akt namísto stovek individuálních povolení), (ii) procesní účast veřejnosti dle § 172 SŘ.
 
 Odst. 3 — **vyhrazení míst a tras** (např. pro horolezectví v NPR, cykloturistiku v zóně NP) — je obligatorně OOP. Důvod: vyhrazení má povahu obecné regulace prostoru, nikoli individuálního povolení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajská silniční správa žádá o výjimku podle § 43 pro rozšíření okresní silnice procházející okrajem přírodní rezervace; v odůvodnění uvádí jen „rozvoj dopravní obslužnosti regionu". Orgán ochrany přírody výjimku udělí, aniž blíže zdůvodní převahu veřejného zájmu nad zájmem ochrany. Spolek dle § 70 napadne rozhodnutí. Důkazy: žádost a její odůvodnění, dokumentace ke stavbě, plán péče o PR, podklady o intenzitě dopravy a alternativních trasách.
+
+**2. Právní otázka.** Postačuje k udělení výjimky dle § 43 odst. 1 (první důvod) obecný odkaz na hospodářský rozvoj, nebo musí orgán konkrétně doložit existenci, naléhavost a převahu jiného veřejného zájmu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 43 odst. 1 (tři alternativní důvody výjimky), odst. 2 (výjimka formou OOP), odst. 3 (vyhrazení míst a tras OOP).
+- *Související ustanovení téhož zákona:* § 56 (výjimky u druhů — souběh při výskytu ZCHD), § 44 (souhlas), § 45g/45i (pokud je území též EVL/PO), § 70 (účast spolků).
+- *Související předpisy:* § 172 SŘ (OOP); SŘS (přezkum).
+- *Judikatura:* NSS 11 A 93/2022 (stojí-li proti sobě dva veřejné zájmy, musí zájem na prolomení ochrany výrazně převažovat a být řádně odůvodněn); Pl.ÚS 24/04 (veřejný zájem nelze stanovit a priori, zjišťuje se v řízení).
+
+**4. Subsumpce.** Výjimku lze udělit z prvního důvodu (převažující jiný veřejný zájem) jen po konkrétním poměření. Obecný odkaz na „rozvoj" nesplňuje požadavek doložení existence, naléhavosti a převahy. Rozhodnutí je nepřezkoumatelné pro nedostatek důvodů.
+
+**5. Řešení.** Soud rozhodnutí zruší pro vady odůvodnění. Orgán musí v novém řízení konkrétně vymezit kolidující zájmy, posoudit alternativy a vysvětlit, proč veřejný zájem na stavbě výrazně převažuje. Při souběžném výskytu ZCHD se vede zpravidla jediné řízení, ale výjimky podle § 43 a § 56 se udělují samostatně.
+
+**6. Varianty.** (a) Kdyby šlo o aktivní ochranářské opatření (odstranění invazního druhu), uplatnil by se druhý důvod (zájem ochrany přírody) bez testu převahy. (b) Kdyby činnost byla biologicky neutrální, postačil by třetí důvod (neovlivnění předmětu ochrany).
+
+#### G. Protiargumenty a rizika
+
+- *Argument orgánu:* „Veřejný zájem na dopravě je notorietou." Neutralizace: notorietou je existence zájmu, nikoli jeho převaha v konkrétní věci — tu nutno doložit (NSS 11 A 93/2022).
+- *Argument:* „Tři důvody jsou kumulativní a postačí splnit kterýkoli." Neutralizace: důvody jsou alternativní, ale zvolený důvod musí být skutečně naplněn a odůvodněn.
+- *Slabé místo:* absence podkladů o alternativních řešeních (jiné trasy) oslabuje závěr o převaze a naléhavosti.
+
+#### H. Praktický závěr
+
+Výjimka ze zákazů ve ZCHÚ stojí na třech alternativních důvodech; první (převažující veřejný zájem) vyžaduje konkrétní a výrazně odůvodněné poměření.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat, o který ze tří důvodů (§ 43 odst. 1) se výjimka opírá.
+- [ ] U prvního důvodu doložit existenci, naléhavost a výraznou převahu jiného veřejného zájmu.
+- [ ] Posoudit, zda nejde o blíže neurčený okruh osob → forma OOP (odst. 2), nebo vyhrazení míst/tras (odst. 3).
+- [ ] Při souběhu s druhovou ochranou vést řízení společně, ale výjimky § 43 a § 56 udělit samostatně.
+
+**Typicky rozhodné důkazy / podklady:** žádost a odůvodnění, plán péče o ZCHÚ, podklady o alternativách, posouzení vlivu na předmět ochrany, dokumentace záměru.
 
 ---
 
@@ -214,6 +358,42 @@ Toto vyloučení **neplatí** pro národní park (§ 44 odst. 1 hovoří o „NP
 
 Klíčové hmotněprávní kritérium odst. 5 — souhlas vydá orgán ochrany přírody, „**pokud se prokáže, že navrhovaný způsob využití, zásah nebo činnost neohrozí zachování příznivého stavu předmětu ochrany**". Tato formulace je obdobou unijního testu „**no significant adverse effect**" z čl. 6 odst. 3 Habitats Directive (srov. § 45g a § 45i). Důkazní břemeno **nese žadatel** — souhlas nelze udělit, pokud existují **vědecky odůvodněné pochybnosti** o neovlivnění. Toto pravidlo je obdobou tzv. **principu předběžné opatrnosti** (precautionary principle), který SDEU formuloval v rozsudku *Waddenzee* (C-127/02).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavebník chce postavit rodinný dům na pozemku v zastavěném území obce ve IV. zóně CHKO. Stavební úřad si vyžádá souhlas orgánu ochrany přírody podle § 44 odst. 1. Stavebník namítá, že souhlas se zde nevydává (odst. 3). U sousední parcely, rovněž v CHKO, ale mimo zastavěné území, stavebník naopak souhlas nepředloží a zahájí terénní úpravy. Důkazy: výpis z KN, územní plán a vymezení zón CHKO, hranice zastavěného území, projektová dokumentace.
+
+**2. Právní otázka.** Kdy je souhlas orgánu ochrany přírody podle § 44 vyloučen (odst. 3) a jaký je vztah souhlasu k navazujícímu povolovacímu řízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44 odst. 1 (integrace souhlasu do povolovacích řízení), odst. 3 (vyloučení v zastavěném území IV. zóny CHKO / při regulačním plánu), odst. 5 (test příznivého stavu, důkazní břemeno žadatele).
+- *Související ustanovení téhož zákona:* § 43 (výjimka — odlišný institut), § 45g/45i (je-li území EVL/PO), § 44a (interpretační direktiva ÚP).
+- *Související předpisy:* zákon č. 283/2021 Sb. (jednotné environmentální stanovisko); vodní zákon; SŘ (OOP).
+- *Judikatura:* princip předběžné opatrnosti z rozsudku SDEU Waddenzee (C-127/02) — souhlas nelze udělit při vědecky odůvodněných pochybnostech.
+
+**4. Subsumpce.** U první parcely (zastavěné území IV. zóny CHKO) se souhlas dle odst. 3 písm. a) nevydává — vyloučení platí. U druhé parcely (CHKO mimo zastavěné území) je souhlas k terénním úpravám podle odst. 2 nezbytný; jeho absence činí zásah nezákonným. Vyloučení dle odst. 3 přitom neplatí pro národní park.
+
+**5. Řešení.** První dům lze povolit bez souhlasu OP. U druhé parcely orgán OP zahájí řízení o nepovoleném zásahu; stavebník měl podat žádost a unést důkazní břemeno, že činnost neohrozí příznivý stav předmětu ochrany. Souhlas je závazným podkladem navazujícího řízení a po rekodifikaci se integruje do jednotného environmentálního stanoviska.
+
+**6. Varianty.** (a) Kdyby táž parcela ležela v národním parku, souhlas by byl nutný i v zastavěném území. (b) Kdyby pro plochu byl vydán regulační plán, souhlas by se nevydával dle odst. 3 písm. b).
+
+#### G. Protiargumenty a rizika
+
+- *Argument stavebníka:* „Souhlas a výjimka jsou totéž." Neutralizace: § 44 (souhlas) řeší činnost nezakázanou, ale vázanou na souhlas; § 43 (výjimka) prolamuje zákaz — odlišné testy.
+- *Argument:* „IV. zóna CHKO znamená, že souhlas není nikdy nutný." Neutralizace: vyloučení platí jen pro zastavěné území obce ve IV. zóně, ne pro celou IV. zónu.
+- *Slabé místo:* test příznivého stavu (odst. 5) je důkazně náročný; bez podkladů žadatele nelze souhlas udělit.
+
+#### H. Praktický závěr
+
+Souhlas podle § 44 je závazným podkladem navazujících povolení; vydá se jen prokáže-li žadatel, že činnost neohrozí příznivý stav předmětu ochrany. Vyloučení dle odst. 3 se týká jen CHKO, nikoli NP.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda jde o NP nebo CHKO a v jaké zóně/zastavěném území leží záměr.
+- [ ] Posoudit aplikaci vyloučení dle odst. 3 (zastavěné území IV. zóny CHKO / regulační plán).
+- [ ] Odlišit režim souhlasu (§ 44) od výjimky (§ 43).
+- [ ] Doložit, že činnost neohrozí příznivý stav předmětu ochrany (důkazní břemeno žadatele).
+
+**Typicky rozhodné důkazy / podklady:** územní plán a vymezení zón CHKO, hranice zastavěného území, projektová dokumentace, posouzení vlivu na předmět ochrany, případně regulační plán.
+
 ---
 
 ### § 44a — Územní plánování a stavební činnost ve ZCHÚ
@@ -229,6 +409,42 @@ Klíčové hmotněprávní kritérium odst. 5 — souhlas vydá orgán ochrany p
 Pojem „**optimální ekologické funkce ZCHÚ**" je úzce navázán na pojem **příznivého stavu** ekosystému (§ 3 odst. 1 písm. r); pojem „**prostupnost krajiny**" je pak vazbou na **územní systém ekologické stability** (§ 4 odst. 1) — biokoridory, biocentra. Zákonodárce požaduje **integrovaný přístup**: územní plánování není volně manévrující nástroj, kterým by bylo možno obcházet ochranná pravidla; naopak musí ochranářské cíle aktivně **promítat** do urbanistických a architektonických řešení.
 
 > **Aplikační poznámka:** Nesoulad územního plánu s § 44a je důvodem pro jeho zrušení v abstraktním přezkumu podle § 101a SŘS. NSS opakovaně judikoval, že pokud územní plán nepřiměřeně zatěžuje ZCHÚ (např. umožňuje rozsáhlou zástavbu uvnitř CHKO), je nezákonný i přes svou formálně bezvadnou proceduru.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec pořizuje nový územní plán, který uvnitř CHKO vymezuje rozsáhlou zastavitelnou plochu pro komerční areál na úkor biokoridoru ÚSES. Plán projde formálně bezvadnou procedurou (projednání, SEA). Spolek dle § 70 napadne územní plán návrhem na zrušení podle § 101a SŘS s odkazem na rozpor s § 44a. Důkazy: textová a grafická část ÚP, vymezení ÚSES a zón CHKO, SEA a naturový screening (§ 45i odst. 1).
+
+**2. Právní otázka.** Je územní plán nezákonný pro rozpor s § 44a, jestliže nepřiměřeně zatěžuje ZCHÚ a narušuje prostupnost krajiny, byť proceduru dodržel?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44a (interpretační direktiva — zachování optimálních ekologických funkcí ZCHÚ, prostupnost krajiny, biologická rozmanitost, ráz sídel).
+- *Související ustanovení téhož zákona:* § 3 odst. 1 písm. r) (příznivý stav), § 4 odst. 1 (ÚSES), § 44 (souhlas), § 45h/45i (naturové hodnocení ÚP).
+- *Související předpisy:* § 101a SŘS (abstraktní přezkum OOP); zákon č. 283/2021 Sb. (stavební zákon); zákon č. 100/2001 Sb. (SEA).
+- *Judikatura:* ustálená praxe NSS, podle níž je nepřiměřené zatížení ZCHÚ územním plánem důvodem jeho zrušení i přes formálně bezvadnou proceduru.
+
+**4. Subsumpce.** § 44a ukládá orgánům ÚP vykonávat působnost tak, aby byly zachovány ekologické funkce ZCHÚ a prostupnost krajiny. Vymezení velké zastavitelné plochy na úkor biokoridoru je s tímto cílem v rozporu. Formální bezvadnost procedury nezhojí materiální rozpor s § 44a.
+
+**5. Řešení.** Soud může územní plán v napadené části zrušit pro rozpor s § 44a (test proporcionality a nezbytnosti zásahu do ZCHÚ). Obec musí vymezení přehodnotit, zohlednit ÚSES a prokázat, že zásah je nezbytný a nejméně omezující. § 44a není samostatnou pravomocí, ale hodnotovým vodítkem pro výkon plánovacích pravomocí.
+
+**6. Varianty.** (a) Kdyby plocha ležela mimo ZCHÚ a nenarušovala biokoridor, rozpor s § 44a by nebyl dán. (b) Kdyby naturový screening zjistil možný významný vliv na EVL, plán by navíc vyžadoval posouzení dle § 45i.
+
+#### G. Protiargumenty a rizika
+
+- *Argument obce:* „Procedura byla dodržena, plán je zákonný." Neutralizace: § 44a je materiální korektiv — dodržení procedury nezhojí věcný rozpor s ochranou ZCHÚ.
+- *Argument:* „§ 44a je jen proklamace bez normativní síly." Neutralizace: jde o závaznou interpretační direktivu, jejíž porušení zakládá nezákonnost ÚP.
+- *Slabé místo:* posouzení „nepřiměřenosti" je hodnotící; nezbytné jsou odborné podklady (ÚSES, biologické hodnocení) prokazující dotčení ekologických funkcí.
+
+#### H. Praktický závěr
+
+§ 44a váže orgány územního plánování a stavební úřady, aby aktivně promítaly ochranu ZCHÚ, prostupnost krajiny a ráz sídel do svých rozhodnutí; jeho porušení je důvodem zrušení ÚP.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda ÚP zachovává ekologické funkce ZCHÚ a prostupnost krajiny (ÚSES).
+- [ ] Posoudit nezbytnost a proporcionalitu zásahu do ZCHÚ.
+- [ ] Zkontrolovat respekt k měřítku, charakteru a struktuře zástavby (ráz sídel).
+- [ ] Prověřit, zda nebylo nutné naturové posouzení (§ 45h/45i).
+
+**Typicky rozhodné důkazy / podklady:** územní plán (text + výkresy), vymezení zón CHKO a ÚSES, SEA, naturový screening, odborné posouzení vlivu na ekologické funkce.
 
 ---
 
@@ -252,6 +468,42 @@ Pojem „**optimální ekologické funkce ZCHÚ**" je úzce navázán na pojem *
 #### Zrušení smluvní ochrany (odst. 2)
 
 Smluvní ochrana podle § 39 je založena na **konsensu** vlastníka a orgánu ochrany přírody, proto i její zrušení vyžaduje primárně dohodu. Při nesouhlasu vlastníka však rozhoduje orgán ochrany přírody **jednostranně** — zákonodárce zde zvolil koncepci, podle níž je ochrana přírody **veřejným zájmem nadřazeným soukromé vůli**, takže vlastník nemůže zcela jednostranně zrušit ochranný režim, do kterého kdysi dobrovolně vstoupil. Rozhodnutí o zrušení je standardním správním aktem podléhajícím přezkumu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V přírodní rezervaci vyhlášené k ochraně mokřadního stanoviště dojde k odvodnění okolních pozemků (nesouvisejícímu se správou PR), v jehož důsledku mokřad během několika let vyschne a předmět ochrany (populace obojživelníků) vymizí. Investor následně podá podnět ke zrušení PR s argumentem, že „důvody ochrany zanikly". Důkazy: monitoring stavu mokřadu, evidence vodoprávních povolení k odvodnění, plán péče, posudek o příčině zániku populace.
+
+**2. Právní otázka.** Lze zrušit ZCHÚ z důvodu zániku předmětu ochrany, byl-li zánik způsoben porušením povinností (nepovoleným odvodněním) třetí osoby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45 odst. 1 (zásada contrarius actus; důvody zrušení — důvody pro výjimku dle § 43 nebo zánik důvodů ochrany), odst. 2 (zrušení smluvní ochrany).
+- *Související ustanovení téhož zákona:* § 43 (důvody výjimek), § 39 (smluvní ochrana), § 66 (zákaz škodlivé činnosti), § 87/88 (přestupky).
+- *Související předpisy:* vodní zákon (povolení k nakládání s vodami); SŘS (přezkum aktu o zrušení).
+- *Judikatura:* praxe NSS vyžadující, aby zánik důvodů ochrany byl objektivně nezvratný a nezpůsobený porušením povinností.
+
+**4. Subsumpce.** Zrušit ZCHÚ může jen orgán, který je vyhlásil, a stejnou formou (contrarius actus). Důvod „zánik předmětu ochrany" je naplněn jen tehdy, je-li zánik objektivně nezvratný a nezpůsobený protiprávním jednáním. Zde byl zánik důsledkem odvodnění — zrušení by paradoxně „odměnilo" porušení zákona.
+
+**5. Řešení.** Podnět ke zrušení nelze vyhovět: zánik důvodů nebyl nezvratný v právně přijatelném smyslu a byl způsoben protiprávním zásahem. Namístě je naopak řešit odpovědnost za poškození (§ 66, § 87/88) a obnovu stanoviště. Teprve při skutečně nevratném a nezaviněném zániku (např. přírodní katastrofa) by bylo zrušení možné.
+
+**6. Varianty.** (a) Kdyby mokřad zničila nepředvídatelná přírodní událost (sesuv, povodeň trvale měnící hydrologii) bez zavinění, zrušení by připadalo v úvahu. (b) Kdyby šlo o smluvní ochranu dle § 39, řešilo by se primárně dohodou s vlastníkem, při nesouhlasu rozhodnutím OP.
+
+#### G. Protiargumenty a rizika
+
+- *Argument:* „Předmět ochrany fakticky zanikl, ochrana je bezpředmětná." Neutralizace: faktický zánik způsobený protiprávně nezakládá důvod zrušení; jinak by se porušení zákona vyplácelo.
+- *Argument:* „Contrarius actus je jen formalita." Neutralizace: jde o materiální záruku — zrušit lze jen stejným orgánem, stejnou formou a jen z kvalifikovaných důvodů.
+- *Slabé místo:* prokázání kauzality mezi odvodněním a zánikem populace vyžaduje odborný posudek; bez něj je závěr o zavinění sporný.
+
+#### H. Praktický závěr
+
+Zrušení ZCHÚ je možné jen contrarius actus a jen z kvalifikovaných důvodů (důvody výjimky dle § 43 nebo nezvratný a nezaviněný zánik důvodů ochrany).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že o zrušení rozhoduje vyhlašující orgán a stejnou formou.
+- [ ] Posoudit, zda zánik předmětu ochrany je objektivně nezvratný a nezaviněný.
+- [ ] Vyloučit, že zánik je důsledkem porušení povinností (kauzalita, zavinění).
+- [ ] U smluvní ochrany (§ 39) preferovat dohodu; při nesouhlasu rozhodnout.
+
+**Typicky rozhodné důkazy / podklady:** monitoring předmětu ochrany, plán péče, vodoprávní a jiná povolení, posudek o příčině a nevratnosti zániku, evidence ÚSOP.
 
 ---
 
@@ -334,6 +586,42 @@ Tato struktura odráží **třístupňový mechanismus zajištění ochrany**:
 
 Sporné lokality (proposed Sites of Community Importance — pSCI), které jsou předmětem konzultace s Komisí o redukci či doplnění, vyhlašuje MŽP sdělením ve Sbírce zákonů. Tyto lokality podléhají **předběžné ochraně podle § 45b** stejně jako lokality národního seznamu — jejich poškozování je zakázáno až do rozhodnutí.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Lokalita s výskytem prioritního stanoviště (rašelinný les „91D0*") je navržena do národního seznamu EVL nařízením vlády. Vlastník namítá, že nařízení neuvádí kategorii ZCHÚ, v níž bude lokalita vyhlášena, a požaduje proto neúčinnost ochrany na svém pozemku. Současně MŽP eviduje, že prioritní lokality v ČR se blíží 5 % rozlohy státu. Důkazy: nařízení vlády o národním seznamu, mapa a vymezení lokality, biologický průzkum dokládající výskyt prioritního stanoviště.
+
+**2. Právní otázka.** Jaké náležitosti musí národní seznam u každé EVL obsahovat a jaký právní význam má označení lokality jako prioritní?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45a odst. 1 (materiální kritéria zařazení), odst. 2 (náležitosti — název, poloha, mapa, rozloha, stanoviště/druhy, kategorie dle § 14), odst. 4 (sporné lokality).
+- *Související ustanovení téhož zákona:* § 45b (předběžná ochrana), § 45c (vyhlášení po evropském seznamu), § 45d (redukce při 5 %), § 39 (smluvní ochrana), § 14 (kategorie ZCHÚ).
+- *Související předpisy:* směrnice 92/43/EHS (čl. 4); nařízení vlády č. 318/2013 Sb. (národní seznam).
+- *Judikatura:* judikatura SDEU k povinnosti členského státu věcně (vědecky) vymezit lokality přispívající k soustavě.
+
+**4. Subsumpce.** Národní seznam musí dle odst. 2 uvést u každé EVL název, polohu, mapu, rozlohu, předmět ochrany a kategorii dle § 14, v níž bude vyhlášena, nebude-li chráněna smluvně či postačí-li naturový režim. Uvedení kategorie je tedy podmíněné — její absence sama o sobě neúčinnost ochrany nezakládá, neboť do vyhlášení platí předběžná ochrana dle § 45b. Prioritní status zakládá přísnější procedurální i hmotněprávní režim.
+
+**5. Řešení.** Námitka vlastníka neobstojí: lokalita podléhá předběžné ochraně bez ohledu na to, že kategorie ZCHÚ je teprve perspektivní (k zajištění až po evropském seznamu). Prioritní status znamená, že případné výjimky z naturového posouzení jsou omezeny (§ 45i odst. 5) a při překročení 5 % rozlohy se konzultuje Komise (§ 45d).
+
+**6. Varianty.** (a) Kdyby lokalita neobsahovala prioritní typ, neuplatnila by se zpřísnění dle § 45d a § 45i odst. 5. (b) Kdyby šlo o spornou lokalitu (odst. 4), byla by vyhlášena sdělením a rovněž by podléhala předběžné ochraně dle § 45b.
+
+#### G. Protiargumenty a rizika
+
+- *Argument vlastníka:* „Bez uvedené kategorie ZCHÚ není ochrana účinná." Neutralizace: do vyhlášení platí předběžná ochrana (§ 45b); kategorie se zajišťuje až po zařazení do evropského seznamu.
+- *Argument:* „Zařazení je politické rozhodnutí." Neutralizace: kritéria odst. 1 jsou vědecká (přínos k příznivému stavu stanoviště/druhu, biodiverzita oblasti); diskrece je omezená.
+- *Slabé místo:* identifikace prioritního stanoviště závisí na kvalitě biologického průzkumu a aktuální mapě biotopů.
+
+#### H. Praktický závěr
+
+Národní seznam EVL je nařízením vlády s předepsanými náležitostmi; do vyhlášení po evropském seznamu platí předběžná ochrana, prioritní status zakládá zpřísněný režim.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda národní seznam u lokality uvádí všechny náležitosti odst. 2.
+- [ ] Posoudit, zda jde o prioritní typ stanoviště/druh (důsledky pro § 45d a § 45i odst. 5).
+- [ ] Zjistit fázi procesu (národní seznam × evropský seznam × vyhlášení) a navazující režim ochrany.
+- [ ] U sporné lokality ověřit sdělení MŽP a aplikaci § 45b.
+
+**Typicky rozhodné důkazy / podklady:** nařízení vlády o národním seznamu, mapa a vymezení lokality, biologický průzkum stanovišť a druhů, údaje o rozloze prioritních lokalit.
+
 ---
 
 ### § 45b — Předběžná ochrana EVL
@@ -371,6 +659,42 @@ Předběžná ochrana **přestává platit**:
 - **b)** dnem zveřejnění sdělení MŽP, že lokalita **nebyla** zařazena do evropského seznamu (typicky tehdy, kdy Komise lokalitu odmítla).
 
 V druhém případě je předběžná ochrana retroaktivně „bez navazujícího účinku" — lokalita se vrací do běžného režimu. Pokud však byly mezitím realizovány nevratné zásahy, mohou vzniknout otázky odpovědnosti za přechodné omezení (vlastníci by mohli žádat náhradu újmy podle § 58, pokud splňují podmínky tohoto ustanovení).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Lokalita je zařazena do národního seznamu EVL, ale dosud není zařazena do evropského seznamu. Developer chce na jejím okraji vybudovat příjezdovou komunikaci, jež by zasáhla část stanoviště. Tvrdí, že předběžná ochrana se na něj nevztahuje, neboť „nejde o řádné hospodaření, ale o legitimní investici". Důkazy: projektová dokumentace, biologické hodnocení vlivu na stanoviště, sdělení MŽP o statusu lokality.
+
+**2. Právní otázka.** Vztahuje se zákaz poškozování dle § 45b odst. 1 i na investiční záměr, a za jakých podmínek lze udělit výjimku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45b odst. 1 (zákaz poškozování; vynětí řádného hospodaření; výjimka jen z naléhavých důvodů převažujícího veřejného zájmu — IROPI), odst. 2 (trvání předběžné ochrany).
+- *Související ustanovení téhož zákona:* § 45a (národní seznam), § 45c (definitivní režim), § 45h/45i (naturové hodnocení — nedotčeno), § 69 (smlouvy o hospodaření), § 58 (náhrada újmy).
+- *Související předpisy:* směrnice 92/43/EHS.
+- *Judikatura:* SDEU Bund Naturschutz in Bayern (C-244/05) — povinnost zabránit vážnému poškození ekologických charakteristik lokality v mezidobí před zařazením do evropského seznamu.
+
+**4. Subsumpce.** Záměr není řádným hospodařením dle § 69, nýbrž investicí, jež by stanoviště poškodila — dopadá tedy na něj zákaz odst. 1. Výjimku lze udělit jen z naléhavých důvodů převažujícího veřejného zájmu (IROPI), což je přísnější než standardní test § 43. Současně nejsou dotčeny § 45h/45i ani ochranné podmínky případného ZCHÚ.
+
+**5. Řešení.** Bez výjimky z IROPI je záměr nepřípustný. Developer by musel prokázat naléhavý (časově tísnivý, bezalternativní, závažný) veřejný zájem; běžný komerční záměr tímto testem zpravidla neprojde. Pokud zásah současně podléhá naturovému hodnocení, musí proběhnout obě procedury kumulativně.
+
+**6. Varianty.** (a) Kdyby šlo o pokračování řádného zemědělského hospodaření dle § 69, nešlo by o poškozování. (b) Kdyby lokalita nakonec nebyla zařazena do evropského seznamu (odst. 2), předběžná ochrana by zanikla a vlastník by mohl za přechodné omezení žádat náhradu dle § 58.
+
+#### G. Protiargumenty a rizika
+
+- *Argument developera:* „Předběžná ochrana je jen dočasná, lze ji ignorovat." Neutralizace: zákaz platí erga omnes až do vyhlášení/vyřazení; jeho porušení je sankcionovatelné.
+- *Argument:* „IROPI splňuje hospodářský přínos projektu." Neutralizace: IROPI vyžaduje naléhavost a bezalternativnost; čistě ekonomický zájem investora nestačí.
+- *Slabé místo:* určení, co je „řádné hospodaření" × poškozování, závisí na odborném posouzení; nejasná hranice zvyšuje riziko sporu.
+
+#### H. Praktický závěr
+
+Předběžná ochrana EVL zakazuje poškozování lokality erga omnes (vyjma řádného hospodaření); výjimka je možná jen z naléhavých důvodů převažujícího veřejného zájmu a trvá až do vyhlášení nebo vyřazení lokality.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit fázi (národní seznam / sporná lokalita) a tím existenci předběžné ochrany.
+- [ ] Odlišit řádné hospodaření (§ 69) od poškozování.
+- [ ] U výjimky uplatnit přísný test IROPI, nikoli standardní § 43.
+- [ ] Ověřit souběh s § 45h/45i a ochrannými podmínkami ZCHÚ.
+
+**Typicky rozhodné důkazy / podklady:** sdělení/nařízení o statusu lokality, biologické hodnocení vlivu, doklad o řádném hospodaření (smlouvy § 69), podklady k IROPI.
 
 ---
 
@@ -437,6 +761,42 @@ Odst. 5 zakotvuje **proces nabídky smluvní ochrany**:
 
 Tato procesní kaskáda implementuje princip **„best endeavours"** — stát musí nejprve nabídnout konsensuální řešení, teprve při jeho neúspěchu přistoupit k autoritativnímu vyhlášení. Toto pravidlo má praktický význam i v rovině náhrad: vlastník, který přijal smluvní ochranu, dostává finanční příspěvek podle § 69 a má jiné postavení než vlastník, jehož pozemek byl autoritativně zatížen vyhlášením ZCHÚ (kde se uplatní § 58 — náhrada za ztížení hospodaření).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** EVL zařazená do evropského seznamu se z části překrývá s přírodní rezervací (přísnější režim Části třetí) a z části leží mimo ZCHÚ. Vlastník pozemku v části mimo ZCHÚ zamýšlí zásah, který by mohl vést k poškození stanoviště, a žádá o souhlas dle § 45c odst. 2. Orgán ochrany přírody vydá souhlas, aniž zpracuje stanovisko dle § 45i odst. 1. Důkazy: nařízení vlády o vyhlášení EVL, mapa překryvu s PR, žádost o souhlas, projektová dokumentace.
+
+**2. Právní otázka.** Je orgán ochrany přírody v řízení o souhlasu dle § 45c odst. 2 povinen vydat stanovisko podle § 45i odst. 1, a jak se uplatní subsidiarita naturového režimu vůči přísnější ochraně PR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45c odst. 2 (pět prvků naturového režimu, subsidiarita vůči Části třetí), odst. 3 (souhrn doporučených opatření), odst. 5 (smluvní cesta a lhůty, dovyhlášení do 6 let).
+- *Související ustanovení téhož zákona:* § 45i odst. 1 (screeningové stanovisko), § 45h (naturové hodnocení), § 39 (smluvní ochrana), § 58 (náhrada).
+- *Související předpisy:* směrnice 92/43/EHS (čl. 6 odst. 2 a 3).
+- *Judikatura:* NSS 16 A 41/2023 (orgán OP je v řízení o souhlasu dle § 45c odst. 2 povinen vydat stanovisko dle § 45i odst. 1; jen jím lze autoritativně vyloučit významný vliv); SDEU Sweetman (C-258/11) k pojmu celistvosti.
+
+**4. Subsumpce.** V části překryté PR platí přísnější režim Části třetí (subsidiarita dle odst. 2 in fine) — souhlas dle § 45c odst. 2 se zde neuplatní samostatně. V části mimo ZCHÚ platí naturový režim; k zásahu s možnými nežádoucími důsledky je nutný souhlas, jehož součástí je stanovisko dle § 45i odst. 1. Souhlas bez tohoto stanoviska je vadný.
+
+**5. Řešení.** Souhlas vydaný bez stanoviska dle § 45i odst. 1 je nezákonný — významný vliv lze autoritativně vyloučit jen takovým stanoviskem (NSS 16 A 41/2023). Orgán OP musí nejprve provést screening; nelze-li vliv vyloučit, následuje naturové posouzení dle § 45i odst. 2.
+
+**6. Varianty.** (a) Kdyby celá lokalita ležela v PR, aplikoval by se přímo přísnější režim Části třetí. (b) Kdyby vlastník v rámci § 45c odst. 5 uzavřel smlouvu dle § 39, dovyhlášení ZCHÚ by nebylo třeba.
+
+#### G. Protiargumenty a rizika
+
+- *Argument orgánu:* „Souhlas dle § 45c odst. 2 je samostatný a stanovisko § 45i netřeba." Neutralizace: NSS 16 A 41/2023 — bez stanoviska § 45i odst. 1 nelze významný vliv vyloučit.
+- *Argument:* „Naturový režim je flexibilní, postačí obecné posouzení." Neutralizace: flexibilita neznamená absenci posouzení celistvosti a předmětu ochrany (Sweetman).
+- *Slabé místo:* hranice mezi částí pod PR a částí v čistém naturovém režimu musí být přesně zmapována; nepřesnost vede k aplikaci nesprávného režimu.
+
+#### H. Praktický závěr
+
+EVL po zařazení do evropského seznamu je chráněna naturovým režimem (§ 45c odst. 2), který je subsidiární vůči přísnější ochraně ZCHÚ; souhlas k zásahům vyžaduje předchozí screeningové stanovisko dle § 45i odst. 1.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit, zda lokalita (nebo její část) podléhá přísnější ochraně Části třetí (subsidiarita).
+- [ ] Před souhlasem dle § 45c odst. 2 vydat stanovisko dle § 45i odst. 1.
+- [ ] Posoudit dotčení celistvosti lokality a předmětu ochrany.
+- [ ] U soukromých vlastníků nabídnout smluvní ochranu (§ 39) v režimu odst. 5; sledovat 6letou lhůtu pro dovyhlášení.
+
+**Typicky rozhodné důkazy / podklady:** nařízení o vyhlášení EVL, mapa překryvu se ZCHÚ, souhrn doporučených opatření, stanovisko § 45i odst. 1, biologické hodnocení vlivu.
+
 ---
 
 ### § 45d — Redukce při překročení 5 % rozlohy ČR
@@ -450,6 +810,41 @@ Tato procesní kaskáda implementuje princip **„best endeavours"** — stát m
 § 45d je transpozicí **čl. 4 odst. 2 třetího pododstavce HD**, který stanoví, že pokud v některém členském státě přesahují prioritní lokality 5 % rozlohy státu, lze s Komisí konzultovat redukci kritérií. Účelem je zajistit **proporcionalitu mezi povinnostmi ochrany a hospodářskou kapacitou státu**.
 
 V praxi tato situace v ČR (zatím) nenastala — prioritní lokality tvoří méně než 5 % rozlohy. Ustanovení má proto spíše rezervní charakter.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při sestavování návrhu národního seznamu EVL součet lokalit s výskytem prioritních stanovišť/druhů hypoteticky dosáhne 5,3 % rozlohy ČR. MŽP zvažuje, zda může jednostranně z národního seznamu vyřadit některé prioritní lokality, aby se pod hranici 5 % vrátilo. Důkazy: souhrnná bilance rozloh prioritních lokalit, mapové podklady, korespondence s Komisí.
+
+**2. Právní otázka.** Může členský stát při překročení 5 % rozlohy prioritních lokalit jednostranně redukovat výběr, nebo musí postupovat konzultací s Komisí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45d (povinnost projednat s Komisí redukované uplatnění kritérií při překročení 5 % rozlohy prioritními lokalitami).
+- *Související ustanovení téhož zákona:* § 45a (národní seznam, odlišení prioritních lokalit), § 45i odst. 5 (zpřísnění u prioritních lokalit).
+- *Související předpisy:* čl. 4 odst. 2 třetí pododstavec směrnice 92/43/EHS.
+- *Judikatura:* obecná zásada loajální spolupráce a vázanosti kritérií výběru lokalit dle judikatury SDEU.
+
+**4. Subsumpce.** § 45d podmiňuje redukci „odpovídajícím návrhem" projednaným s Komisí — nikoli jednostranným vyřazením. Stát nemá diskreci sám redukovat prioritní lokality; redukované uplatnění kritérií je možné jen v součinnosti s Komisí.
+
+**5. Řešení.** MŽP nesmí prioritní lokality jednostranně vyřazovat; musí s Komisí projednat redukované uplatnění kritérií. Bez tohoto projednání by hrozilo řízení o porušení smluv. V praxi ČR této hranice (zatím) nedosáhla, takže ustanovení má rezervní charakter.
+
+**6. Varianty.** (a) Kdyby prioritní lokality nepřekročily 5 %, § 45d se neuplatní a redukce není přípustná vůbec. (b) Kdyby šlo o neprioritní lokality, mechanismus 5 % se nepoužije.
+
+#### G. Protiargumenty a rizika
+
+- *Argument:* „5 % je vnitrostátní strop, o němž rozhoduje stát." Neutralizace: jde o unijní kritérium uplatnitelné jen po projednání s Komisí.
+- *Argument:* „Ustanovení je obsoletní, protože hranice nebyla dosažena." Neutralizace: ustanovení má rezervní, ale platnou funkci; při budoucím nárůstu prioritních lokalit se aktivuje.
+- *Slabé místo:* přesný výpočet podílu prioritních lokalit závisí na metodice vymezení a aktuálních mapách biotopů.
+
+#### H. Praktický závěr
+
+§ 45d umožňuje redukované uplatnění výběrových kritérií jen tehdy, přesáhnou-li prioritní lokality 5 % rozlohy ČR, a pouze po projednání s Komisí; stát nemá jednostrannou diskreci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit podíl prioritních lokalit na rozloze ČR.
+- [ ] Při překročení 5 % iniciovat projednání s Komisí, nikoli jednostranně redukovat.
+- [ ] Doložit metodiku výpočtu a mapové podklady.
+
+**Typicky rozhodné důkazy / podklady:** bilance rozloh prioritních lokalit, mapové podklady, korespondence/stanovisko Komise.
 
 ---
 
@@ -504,6 +899,42 @@ Smlouva tedy plní roli **dlouhodobé předběžné dispozice** — vlastník z�
 
 Odst. 5 je **specifický procesní ventil** — spory mezi orgánem ochrany přírody a vlastníky/obcemi v PO řeší **soud**. Tato úprava je odchylkou od obecného režimu SŘ (kde by spory řešily nadřízené správní orgány) a odráží zvláštní povahu PO jako prostoru kolize unijního práva, vlastnických práv a hospodářských zájmů. V praxi se odst. 5 uplatňuje výjimečně — spory o vymezení PO se zpravidla řeší v rámci abstraktního přezkumu nařízení vlády.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vláda vymezuje novou ptačí oblast k ochraně populace lelka lesního. Dotčená obec a kraj v rámci projednání namítají, že vymezení brání plánované výstavbě větrného parku, a požadují zmenšení PO z hospodářských důvodů. MŽP zvažuje, zda tyto zájmy zohlednit při samotném vymezení hranic PO. Důkazy: ornitologické podklady o výskytu, stavu a početnosti populace, návrh nařízení o PO, zápis z projednání s krajem a obcí.
+
+**2. Právní otázka.** Lze při vymezení hranic ptačí oblasti zohlednit hospodářské, rekreační a rozvojové zájmy, nebo je kritérium vymezení čistě ornitologické?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45e odst. 1 a 2 (vymezení PO podle ornitologických kritérií; hospodářské zájmy jen u stanovení činností vázaných na souhlas), odst. 3 (projednání s kraji a obcemi), odst. 4 (smlouvy o hospodaření), odst. 5 (soudní řešení sporů).
+- *Související ustanovení téhož zákona:* § 45h/45i (naturové hodnocení záměrů v PO), § 45g (podmínky povolení).
+- *Související předpisy:* směrnice 2009/147/ES (čl. 4); nařízení vlády č. 51/2005 Sb. a další.
+- *Judikatura:* SDEU Komise v. Nizozemsko (C-3/96) — při vymezení PO nemá stát diskreci porovnávat ochranářské zájmy s hospodářskými; kritérium je čistě ornitologické.
+
+**4. Subsumpce.** Vymezení PO (hranice) se řídí výlučně ornitologickými kritérii (výskyt, stav, početnost populací). Hospodářské, rekreační a rozvojové zájmy lze zohlednit až při stanovení činností vázaných na souhlas (manažerský režim dle odst. 2), nikoli při vymezení hranic. Požadavek na zmenšení PO z hospodářských důvodů je proto nepřípustný.
+
+**5. Řešení.** MŽP nesmí zúžit hranice PO kvůli větrnému parku — to by odporovalo C-3/96 i § 45e. Hospodářské zájmy se promítnou jen do režimu činností vázaných na souhlas; samotná výstavba větrného parku pak podléhá naturovému hodnocení dle § 45h/45i. Spory mezi orgánem OP a obcí/krajem řeší dle odst. 5 soud.
+
+**6. Varianty.** (a) Kdyby šlo o smluvní úpravu hospodaření dle odst. 4, vlastník/nájemce by mohl získat jistotu povolených činností a nahradit jí jednotlivé souhlasy. (b) Kdyby PO ležela mimo dosud chráněné území, vyžaduje vymezení projednání s kraji a obcemi (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Argument obce:* „Hospodářské zájmy musí být zohledněny při vymezení PO." Neutralizace: C-3/96 — vymezení je ornitologické; hospodářské zájmy patří do manažerského režimu.
+- *Argument:* „Projednání s krajem zakládá právo na zmenšení PO." Neutralizace: projednání zajišťuje vypořádání připomínek, nezakládá právo na věcnou redukci v rozporu s ornitologickými kritérii.
+- *Slabé místo:* kvalita ornitologických podkladů je rozhodující; nedostatečné mapování může vést k napadnutelnosti nařízení.
+
+#### H. Praktický závěr
+
+Ptačí oblasti se vymezují nařízením vlády podle čistě ornitologických kritérií; hospodářské a rekreační zájmy se zohledňují až v režimu činností vázaných na souhlas, spory řeší soud.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že hranice PO jsou vymezeny podle ornitologických kritérií (výskyt, stav, početnost).
+- [ ] Zohlednit hospodářské/rekreační zájmy jen při stanovení činností vázaných na souhlas.
+- [ ] U PO mimo dosavadní ZCHÚ provést projednání s kraji a obcemi (odst. 3) se zápisem.
+- [ ] Zvážit smluvní úpravu hospodaření (odst. 4); spory směřovat k soudu (odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** ornitologické podklady o populacích, návrh nařízení o PO, zápis z projednání, případné smlouvy dle odst. 4, naturové hodnocení záměrů.
+
 ---
 
 ### § 45f — Sledování stavu (monitoring)
@@ -533,6 +964,42 @@ Pojem „příznivý stav" (favourable conservation status) je definován v § 3
 - **Druh** je v příznivém stavu, pokud (i) jeho populace je dlouhodobě udržitelná, (ii) jeho přirozený areál se nezmenšuje, (iii) existuje a bude i nadále existovat dostatečné stanoviště.
 
 Tato definice je **klíčové výkladové vodítko** pro celou Naturu 2000 — všechny posouzení podle § 45g, § 45i a další jsou prováděny pohledem dopadu na příznivý stav. Pojem je dynamický (zaměřený na trend), nikoli statický (zaměřený na momentální stav).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V řízení o naturovém posouzení záměru se vede spor, zda druh, který byl v době vyhlášení EVL veden jako příznivý, je nyní v nepříznivém stavu. Žadatel argumentuje momentálním stavem populace; orgán OP vychází z dlouhodobého trendu poklesu. Důkazy: monitorovací data (§ 45f), šestiletá zpráva dle čl. 17 HD, nařízení vlády vymezující příznivý stav (§ 45f odst. 2), znalecký posudek o trendu populace.
+
+**2. Právní otázka.** Posuzuje se „příznivý stav" stanoviště/druhu staticky (momentální stav) nebo dynamicky (trend), a jaký podklad je rozhodný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45f odst. 1 (monitoring, reporting Komisi), odst. 2 (vláda nařízením stanoví, jaký stav je příznivý).
+- *Související ustanovení téhož zákona:* § 3 odst. 1 písm. q) a r) (definice příznivého stavu), § 45g, § 45i (posouzení vychází z dopadu na příznivý stav), § 56 (test neovlivnění příznivého stavu druhu).
+- *Související předpisy:* čl. 1 písm. e), i), čl. 17 směrnice 92/43/EHS; čl. 12 směrnice 2009/147/ES.
+- *Judikatura:* SDEU Waddenzee (C-127/02) — princip předběžné opatrnosti; obecná judikatura k dynamickému (trendovému) pojetí příznivého stavu.
+
+**4. Subsumpce.** Pojem příznivého stavu je dle § 3 odst. 1 písm. q) a r) a § 45f odst. 2 definován trendově (stabilita/rozšiřování areálu, udržitelnost populace), nikoli okamžitým stavem. Rozhodným podkladem je monitoring a nařízení vlády stanovící příznivý stav, nikoli izolovaný momentální údaj žadatele.
+
+**5. Řešení.** Orgán OP správně vychází z dlouhodobého trendu; klesající trend svědčí o nepříznivém stavu i tehdy, je-li momentální početnost vyšší. To zpřísňuje test § 45i/§ 56. Při vědecky odůvodněné pochybnosti o neovlivnění příznivého stavu nelze povolení/výjimku vydat (princip předběžné opatrnosti).
+
+**6. Varianty.** (a) Kdyby trend byl stabilní/rostoucí, byl by stav příznivý a test mírnější. (b) Kdyby chyběla monitorovací data, orgán musí pochybnost vyložit ve prospěch ochrany (in dubio pro natura).
+
+#### G. Protiargumenty a rizika
+
+- *Argument žadatele:* „Populace je momentálně početná, stav je příznivý." Neutralizace: příznivý stav je trendový pojem; rozhoduje dlouhodobá udržitelnost, ne momentka.
+- *Argument:* „Definice příznivého stavu je vágní." Neutralizace: je upřesněna § 3 odst. 1 písm. q), r) a nařízením vlády dle § 45f odst. 2.
+- *Slabé místo:* spolehlivost monitorovacích dat; mezery v datech zvyšují roli předběžné opatrnosti, ale i riziko sporu o důkazní hodnotu.
+
+#### H. Praktický závěr
+
+Monitoring a reporting podle § 45f tvoří datový základ pro posuzování příznivého stavu, který je pojímán dynamicky (trend); příznivý stav definuje nařízení vlády a je výkladovým vodítkem pro celou Naturu 2000.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyžádat aktuální monitorovací data a šestiletou zprávu o stavu.
+- [ ] Posuzovat příznivý stav trendově (areál, udržitelnost populace), ne staticky.
+- [ ] Aplikovat nařízení vlády dle § 45f odst. 2 a definice § 3 odst. 1 písm. q), r).
+- [ ] Při pochybnostech rozhodnout ve prospěch ochrany (předběžná opatrnost).
+
+**Typicky rozhodné důkazy / podklady:** monitorovací data, šestiletá/tříletá zpráva, nařízení vlády o příznivém stavu, znalecký posudek o trendu populace.
 
 ---
 
@@ -564,6 +1031,42 @@ Test je **kumulativní** — selhání kteréhokoli ze tří kritérií brání 
 - Výjimka pro památný strom v EVL (§ 56) — § 45g platí navíc k § 56.
 
 V praxi to znamená, že rozhodnutí orgánu ochrany přírody v EVL/PO **musí kumulovat dvě hmotněprávní zdůvodnění** — jedno podle obecného režimu (např. § 56), druhé podle § 45g.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V ptačí oblasti žádá provozovatel o souhlas ke kácení dřevin (§ 8) v rámci údržby liniové stavby. Kácení samo o sobě není rozsáhlé, ale v PO se vyskytuje hnízdící chráněný pták a v okolí již probíhají další zásahy. Orgán OP vydá souhlas dle § 8, ale opomene posoudit kumulativní vyrušování druhu a dosahování cílů ochrany PO. Důkazy: žádost dle § 8, ornitologický posudek o hnízdění, přehled souběžných zásahů, souhrn doporučených opatření pro PO.
+
+**2. Právní otázka.** Jaké hmotněprávní podmínky musí orgán OP kumulativně splnit při vydání souhlasu dle § 8 v ptačí oblasti, a jak se § 45g vztahuje k jiným povolovacím režimům?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45g (trojí kumulativní test — vyloučení závažného/nevratného poškození, vyloučení soustavného/dlouhodobého vyrušování, neovlivnění cílů ochrany; „nestanoví-li § 45i jinak").
+- *Související ustanovení téhož zákona:* § 8 (kácení dřevin), § 44 (souhlas ve ZCHÚ), § 56 (výjimky u druhů), § 45i (naturové posouzení a IROPI).
+- *Související předpisy:* směrnice 2009/147/ES, 92/43/EHS (čl. 6).
+- *Judikatura:* SDEU Komise v. Francie (C-374/98) — rušení musí být významné z hlediska cílů ochrany.
+
+**4. Subsumpce.** § 45g se aplikuje napříč všemi povolovacími režimy v EVL/PO. Souhlas dle § 8 v PO proto musí navíc projít trojím testem § 45g, včetně posouzení soustavného/dlouhodobého vyrušování a kumulativních vlivů. Opomenutí tohoto testu činí souhlas vadným.
+
+**5. Řešení.** Orgán OP musí kumulovat odůvodnění podle § 8 i podle § 45g a posoudit i in-combination vliv souběžných zásahů. Pokud nelze vyloučit významný negativní vliv, je namístě postup dle § 45i. Souhlas vydaný bez testu § 45g je nepřezkoumatelný/nezákonný.
+
+**6. Varianty.** (a) Kdyby kácení proběhlo mimo hnízdní období a bez kumulace, mohl by být test § 45g splněn. (b) Kdyby naturové posouzení dle § 45i prokázalo přípustnost (případně přes IROPI a kompenzace), § 45g by ustoupil (lex specialis).
+
+#### G. Protiargumenty a rizika
+
+- *Argument žadatele:* „Souhlas dle § 8 stačí, § 45g je duplicitní." Neutralizace: § 45g je samostatná hmotněprávní podmínka pro EVL/PO, nutno kumulovat.
+- *Argument:* „Vyrušování je zanedbatelné." Neutralizace: rozhodné je, zda je významné z hlediska cílů ochrany (C-374/98), nikoli subjektivní hodnocení žadatele.
+- *Slabé místo:* posouzení kumulativních vlivů vyžaduje přehled souběžných záměrů, který bývá neúplný.
+
+#### H. Praktický závěr
+
+§ 45g ukládá při všech povoleních v EVL/PO trojí kumulativní test; platí napříč povolovacími režimy a ustupuje jen postupu dle § 45i.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] V EVL/PO kumulovat odůvodnění podle obecného režimu (§ 8/§ 44/§ 56) a podle § 45g.
+- [ ] Posoudit závažné/nevratné poškození, soustavné/dlouhodobé vyrušování a vliv na cíle ochrany.
+- [ ] Zahrnout kumulativní (in-combination) vlivy souběžných zásahů.
+- [ ] Při nemožnosti vyloučit významný vliv přejít na § 45i.
+
+**Typicky rozhodné důkazy / podklady:** žádost dle příslušného režimu, ornitologický/biologický posudek, přehled souběžných záměrů, souhrn doporučených opatření pro EVL/PO.
 
 ---
 
@@ -610,6 +1113,42 @@ Naturové hodnocení **se začleňuje do procesů EIA** (vlivy na životní pros
 - Pro **územně plánovací dokumentaci** — posuzuje se v procesu pořizování dle stavebního zákona (§ 45i odst. 2 in fine).
 
 § 45i pak stanoví specifické procesní postupy, které mají před zákonem o EIA přednost (lex specialis).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec pořizuje územní plán, jehož zadání zahrnuje rozvojovou plochu poblíž EVL. Orgán ochrany přírody ve stanovisku dle § 45h/§ 45i odst. 1 konstatuje, že územní plán nemůže významně ovlivnit příznivý stav předmětu ochrany ani celistvost EVL, a SEA proto nepožaduje. Spolek namítá, že naturové hodnocení bylo nezbytné. Důkazy: zadání ÚP, screeningové stanovisko orgánu OP, podklady o vzdálenosti plochy od EVL a o předmětu ochrany.
+
+**2. Právní otázka.** Za jaké podmínky podléhá koncepce/záměr naturovému hodnocení dle § 45h, a kdy lze posouzení (SEA) nepožadovat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45h odst. 1 (povinnost hodnocení při možném významném ovlivnění; vynětí plánů péče a SDO), odst. 2 (integrace do EIA/SEA).
+- *Související ustanovení téhož zákona:* § 45i odst. 1 (screeningové stanovisko), § 45c odst. 3, § 45e odst. 6 (souhrny doporučených opatření).
+- *Související předpisy:* zákon č. 100/2001 Sb. (EIA/SEA); stavební zákon; čl. 6 odst. 3 směrnice 92/43/EHS.
+- *Judikatura:* NSS 55 A 10/2022 (ÚP podléhá SEA jen, mohl-li by významně ovlivnit příznivý stav nebo celistvost EVL; pokud orgán OP tuto podmínku vyloučí, požadavek na SEA není namístě); SDEU Waddenzee (C-127/02) — posouzení nutné, nelze-li významný vliv objektivně vyloučit.
+
+**4. Subsumpce.** Hodnocení dle § 45h je nezbytné, jen pokud koncepce/záměr může významně ovlivnit předmět ochrany nebo celistvost EVL/PO. Práh významnosti je biologický; posouzení je nutné vždy, existuje-li vědecky odůvodněná pochybnost. Vyloučil-li orgán OP významný vliv řádně odůvodněným screeningem, SEA požadovat nemusí.
+
+**5. Řešení.** Pokud screeningové stanovisko vylučuje významný vliv na podloženém základě, je postup obce souladný (NSS 55 A 10/2022). Spolek může uspět jen, prokáže-li, že vyloučení významného vlivu bylo nepodložené nebo že existovala objektivní pochybnost (Waddenzee). Plány péče a souhrny doporučených opatření hodnocení nepodléhají.
+
+**6. Varianty.** (a) Kdyby plocha přímo zasahovala stanoviště EVL, významný vliv by nešlo vyloučit a SEA s naturovým posouzením by byla nutná. (b) Kdyby šlo o plán péče o ZCHÚ překryté EVL, hodnocení by bylo z § 45h vyňato.
+
+#### G. Protiargumenty a rizika
+
+- *Argument:* „Screening byl jen formální, vliv nelze vyloučit." Neutralizace: rozhodné je, zda vyloučení významného vlivu bylo objektivně a vědecky podloženo.
+- *Argument:* „Každá plocha u EVL vyžaduje SEA." Neutralizace: rozhoduje práh významnosti, nikoli pouhá blízkost.
+- *Slabé místo:* kvalita screeningu; nedostatečně odůvodněné vyloučení vlivu je hlavním důvodem zrušení v přezkumu.
+
+#### H. Praktický závěr
+
+Naturové hodnocení (§ 45h) je nezbytné při možném významném ovlivnění EVL/PO; je-li významný vliv řádně odůvodněným screeningem vyloučen, SEA se nepožaduje. Ochranářské plány a SDO jsou z hodnocení vyňaty.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit, zda koncepce/záměr může významně ovlivnit předmět ochrany nebo celistvost EVL/PO.
+- [ ] Zohlednit kumulativní vlivy (samostatně i ve spojení s jinými).
+- [ ] Řádně odůvodnit screeningové vyloučení vlivu (§ 45i odst. 1), jinak hrozí zrušení.
+- [ ] Ověřit vynětí plánů péče a souhrnů doporučených opatření.
+
+**Typicky rozhodné důkazy / podklady:** zadání koncepce/dokumentace záměru, screeningové stanovisko, podklady o předmětu ochrany a vzdálenosti, kumulativní přehled záměrů.
 
 ---
 
@@ -707,6 +1246,42 @@ Stanovisko Komise je vázající — orgán ochrany přírody nemůže koncepci/
 
 O kompenzacích uložených v rámci IROPI je MŽP povinno informovat Komisi. Tato informační povinnost umožňuje Komisi monitorovat aplikaci čl. 6 odst. 4 HD a případně zahájit infringement proceedings.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor plánuje obchvat obce, jehož trasa zasahuje EVL s prioritním stanovištěm. Naturové posouzení prokáže významný negativní vliv. Investor nabízí vytvoření nového obdobného stanoviště na náhradní lokalitě a tvrdí, že tím záměr „ztrácí negativní vliv" a IROPI test není třeba. Důkazy: naturové posouzení autorizované osoby, varianty trasování, projektová dokumentace, podklady k veřejnému zájmu (intenzita dopravy, bezpečnost).
+
+**2. Právní otázka.** Lze vytvoření náhradního stanoviště považovat za mitigaci, jež eliminuje negativní vliv, nebo jde o kompenzaci vyžadující plný postup dle § 45i odst. 4–6 (IROPI)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45i odst. 1 (screening), odst. 2 (naturové posouzení a varianty), odst. 3 (schválení jen při vyloučení významného vlivu), odst. 4 (IROPI + kompenzace), odst. 5 (zpřísnění u prioritních stanovišť — jen veřejné zdraví, bezpečnost, příznivé důsledky pro ŽP; jinak stanovisko Komise), odst. 6–7 (kompenzace zajištěny před realizací).
+- *Související ustanovení téhož zákona:* § 45h (povinnost hodnocení), § 45j (autorizovaná osoba), § 45g.
+- *Související předpisy:* čl. 6 odst. 3 a 4 směrnice 92/43/EHS; zákon č. 100/2001 Sb.
+- *Judikatura:* SDEU Briels (C-521/12) a Orleans (C-387/15) — vytvoření nového stanoviště mimo lokalitu je kompenzace, ne mitigace; Waddenzee (C-127/02) — schválení jen při vyloučení škodlivých účinků bez rozumných pochybností.
+
+**4. Subsumpce.** Vytvoření náhradního stanoviště mimo dotčenou lokalitu je kompenzací, nikoli mitigací (Briels, Orleans). Záměr proto neztrácí negativní vliv a musí projít plným testem IROPI. Jelikož jde o prioritní stanoviště, platí zpřísnění odst. 5 — schválit lze jen z důvodů veřejného zdraví, bezpečnosti nebo příznivých důsledků pro ŽP, jiné důvody jen po stanovisku Komise.
+
+**5. Řešení.** Naturové posouzení musí argumentaci „nulového vlivu" odmítnout. Schválit obchvat lze jen, neexistuje-li varianta bez významného vlivu, z kvalifikovaných důvodů odst. 5 a po uložení kompenzačních opatření, jež musí být zajištěna před realizací (odst. 7). U jiných než vyjmenovaných důvodů je nutné stanovisko Komise (po dobu jeho vyžádání lhůty neběží).
+
+**6. Varianty.** (a) Kdyby nešlo o prioritní stanoviště, postačily by naléhavé důvody převažujícího veřejného zájmu vč. socioekonomických (odst. 4) bez stanoviska Komise. (b) Kdyby existovala varianta trasy bez významného vlivu, musela by být zvolena (odst. 2) a IROPI by se neuplatnil.
+
+#### G. Protiargumenty a rizika
+
+- *Argument investora:* „Náhradní biotop je mitigace, vliv je nulový." Neutralizace: Briels/Orleans — jde o kompenzaci; nutný plný IROPI postup.
+- *Argument:* „Obchvat je veřejně prospěšný, IROPI je splněn." Neutralizace: u prioritního stanoviště je katalog důvodů zúžen (odst. 5); ekonomický přínos sám nestačí, jinak nutno stanovisko Komise.
+- *Slabé místo:* doložení neexistence variantního řešení bez vlivu; nedostatečné posouzení alternativ je nejčastější příčinou zrušení.
+
+#### H. Praktický závěr
+
+§ 45i je dvoustupňový filtr (screening + naturové posouzení); negativní záměr lze schválit jen variantu s nejmenším vlivem, z naléhavých důvodů převažujícího veřejného zájmu a po zajištění kompenzací před realizací. U prioritních stanovišť je katalog důvodů zúžen a může vyžadovat stanovisko Komise.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Provést screening (odst. 1) a při nemožnosti vyloučit vliv naturové posouzení (odst. 2).
+- [ ] Odlišit mitigaci od kompenzace (Briels/Orleans) — náhradní biotop = kompenzace.
+- [ ] Doložit neexistenci variantního řešení a naplnění IROPI; u prioritních stanovišť ověřit odst. 5 a stanovisko Komise.
+- [ ] Zajistit kompenzační opatření před realizací; uplatnit odklad vykonatelnosti (odst. 7).
+
+**Typicky rozhodné důkazy / podklady:** naturové posouzení autorizované osoby, analýza variant, podklady k IROPI, projekt kompenzačních opatření, případně stanovisko Komise.
+
 ---
 
 ### § 45j — Autorizovaná osoba pro naturové hodnocení
@@ -747,6 +1322,42 @@ Pro státní občany jiných členských států EU platí specifická úprava:
 - **Odborná kvalifikace** se posuzuje podle směrnice 2005/36/ES o uznávání odborných kvalifikací;
 - **Dočasné nebo ojedinělé výkonávání služeb** — nevyžaduje autorizaci, pouze písemné prokázání, že osoba je státním příslušníkem EU a oprávněna v zemi původu;
 - Kontrola MŽP je možná v rozsahu odst. 10–13.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Naturové posouzení zpracuje osoba s magisterským vzděláním v oboru zoologie a platnou autorizací, avšak v posouzení opomene podstatnou populaci chráněného druhu a podcení negativní vliv, čímž vyhoví zadavateli. Orgán OP i konkurenční autorizovaná osoba na pochybení upozorní. Důkazy: posudek a jeho metodika, údaje o opomenutém druhu, autorizační doklad zpracovatele, korespondence se zadavatelem.
+
+**2. Právní otázka.** Jaké jsou předpoklady autorizace a jaké důsledky má porušení povinnosti zpracovat posouzení v plném rozsahu, odborně a objektivně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45j odst. 1 (monopol autorizovaných osob, předpoklady, doba 5 let), odst. 2 (vzdělání odpovídajícího zaměření), odst. 3 (povinnost plného rozsahu, odbornosti a objektivity).
+- *Související ustanovení téhož zákona:* § 45i odst. 2 (naturové posouzení), § 67 (biologické hodnocení).
+- *Související předpisy:* směrnice 2005/36/ES (uznávání kvalifikací); vyhláška MŽP o zkoušce a autorizaci.
+- *Judikatura:* obecné zásady přezkumu odborných podkladů ve správním řízení (nepřezkoumatelnost vadného posudku).
+
+**4. Subsumpce.** Autorizace vyžaduje VŠ vzdělání odpovídajícího zaměření, bezúhonnost a zkoušku. Zpracovatel splnil formální předpoklady, ale porušil odst. 3 — posouzení nebylo v plném rozsahu, odborné a objektivní (opomenutí druhu, podcenění vlivu ve prospěch zadavatele). To je důvodem pro odnětí autorizace.
+
+**5. Řízení.** Vadné posouzení je nezpůsobilým podkladem rozhodnutí; orgán OP je nesmí převzít a musí vyžádat doplnění či nový posudek. MŽP může zahájit řízení o odnětí autorizace; po odnětí lze o novou autorizaci požádat až po uplynutí zákonné doby. Tím je chráněna profesní integrita a kvalita posouzení, na nichž závisí ochrana přírodních hodnot i investice.
+
+**6. Varianty.** (a) Kdyby zpracovatel neměl vzdělání odpovídajícího zaměření, nesměl by posouzení vůbec zpracovat (neplatnost podkladu). (b) Kdyby šlo o občana jiného členského státu poskytujícího službu dočasně, postupovalo by se podle režimu uznávání kvalifikací (směrnice 2005/36/ES).
+
+#### G. Protiargumenty a rizika
+
+- *Argument zpracovatele:* „Mám platnou autorizaci, posudek je tedy bezvadný." Neutralizace: autorizace nezaručuje obsahovou správnost; porušení odst. 3 je samostatným důvodem odnětí.
+- *Argument:* „Opomenutí druhu je marginální." Neutralizace: požadavek plného rozsahu nedovoluje opominout podstatné chráněné zájmy.
+- *Slabé místo:* prokázání zaujatosti/neobjektivity bývá obtížné; opřít je třeba o věcné vady metodiky a opomenutá data.
+
+#### H. Praktický závěr
+
+Naturové posouzení (§ 45i) i biologické hodnocení (§ 67) smí zpracovat jen autorizovaná osoba, a to v plném rozsahu, odborně a objektivně; porušení vede k nepoužitelnosti posudku a k odnětí autorizace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit platnou autorizaci a odpovídající vzdělání zpracovatele.
+- [ ] Posoudit, zda posudek pokrývá plný rozsah dotčených chráněných zájmů.
+- [ ] Zkontrolovat odbornost (aktuální poznání) a objektivitu (nezávislost na zadavateli).
+- [ ] Při vadách vyžádat doplnění/nový posudek a zvážit podnět k odnětí autorizace.
+
+**Typicky rozhodné důkazy / podklady:** autorizační doklad, posudek a jeho metodika, údaje o předmětu ochrany, korespondence se zadavatelem.
 
 ---
 
@@ -822,6 +1433,42 @@ Zákonný výčet zakázaných činností „například výstavba, terénní ú
 
 V praxi je zrušení památného stromu velmi výjimečné. Nejčastější situace: **přirozené dožití stromu** — zde se ochrana zruší rozhodnutím orgánu OP po posudku dendrologa.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Na sousedním pozemku roste platan vyhlášený za památný strom. Vlastník sousedního pozemku chce stavět rodinný dům; část základů by zasáhla do ochranného pásma stromu (orgán OP samostatné pásmo nevymezil). Vlastník namítá, že strom „nikdo neohrožuje" a vyhlášení bylo nadbytečné. Důkazy: rozhodnutí o vyhlášení památného stromu, dendrometrická data (průměr kmene ve 130 cm), projekt stavby, situační výkres s vyznačením základního pásma.
+
+**2. Právní otázka.** Jaký je rozsah základního ochranného pásma památného stromu, je-li vázáno na souhlas vlastník sousedního pozemku, a je podmínkou vyhlášení reálné ohrožení stromu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 46 odst. 1 (mimořádná významnost), odst. 2 (zákaz poškozovat, ničit, rušit; ošetřování se souhlasem), odst. 3 (vyhlášené × základní pásmo — kruh o poloměru 10× průměr kmene ve 130 cm), odst. 4 (zrušení jen z důvodů § 56).
+- *Související ustanovení téhož zákona:* § 56 (výjimky/zrušení), § 47 (evidence, označení), § 8 (kácení dřevin obecně).
+- *Související předpisy:* vyhláška č. 189/2013 Sb. (ochrana dřevin); SŘ (rozhodnutí).
+- *Judikatura:* NSS 4 As 492/2019 (vlastník sousedního pozemku je povinen strpět omezení svého vlastnického práva, splňuje-li strom kritéria památného stromu); NSS 30 A 97/2018 (pro vyhlášení postačuje mimořádná významnost, reálné ohrožení škodlivou činností není podmínkou).
+
+**4. Subsumpce.** Základní pásmo má tvar kruhu o poloměru 10× průměr kmene ve 130 cm; v něm jsou zakázány pro strom škodlivé činnosti (demonstrativně výstavba, terénní úpravy, odvodňování, chemizace). Stavba zasahující do pásma je takovou činností. Omezení dopadá i na vlastníka sousedního pozemku (NSS 4 As 492/2019). Reálné ohrožení není podmínkou vyhlášení (NSS 30 A 97/2018).
+
+**5. Řešení.** Stavba v rozsahu zasahujícím základní pásmo je bez výjimky dle § 56 nepřípustná. Vlastník musí buď projekt upravit mimo pásmo, nebo žádat o výjimku. Námitka o „nepotřebnosti" ochrany neobstojí — rozhodné je naplnění kritéria mimořádné významnosti. Ošetření stromu samotného vyžaduje souhlas orgánu, který ochranu vyhlásil.
+
+**6. Varianty.** (a) Kdyby orgán OP vymezil užší vyhlášené ochranné pásmo, řídil by se rozsah jím, nikoli zákonným kruhem. (b) Kdyby stavba ležela zcela mimo pásmo, souhlas/výjimka dle § 56 by k ní nebyly potřeba.
+
+#### G. Protiargumenty a rizika
+
+- *Argument vlastníka:* „Strom nic neohrožuje, ochrana je nadbytečná." Neutralizace: NSS 30 A 97/2018 — postačuje mimořádná významnost, ohrožení není podmínkou.
+- *Argument:* „Omezení se mě jako souseda netýká." Neutralizace: NSS 4 As 492/2019 — strpět omezení musí i vlastník sousedního pozemku.
+- *Slabé místo:* přesný výpočet poloměru pásma závisí na správném změření průměru kmene ve 130 cm; chybné měření zpochybní rozsah pásma.
+
+#### H. Praktický závěr
+
+Památný strom se vyhlašuje rozhodnutím; chrání jej zákaz poškozování/ničení/rušení a ochranné pásmo (vyhlášené, jinak zákonný kruh o poloměru 10× průměr kmene). Omezení dopadá i na sousedy, ohrožení stromu není podmínkou vyhlášení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit existenci vyhlášeného pásma; jinak spočítat základní pásmo (10× průměr kmene ve 130 cm).
+- [ ] Posoudit, zda zamýšlená činnost je pro strom škodlivá (výčet je demonstrativní).
+- [ ] Při zásahu do pásma nebo do stromu zajistit souhlas/výjimku (§ 56).
+- [ ] Zohlednit, že omezení váže i vlastníky sousedních pozemků.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o vyhlášení, dendrometrická data, situační výkres s pásmem, projekt zásahu, dendrologický posudek.
+
 ---
 
 ### § 47 — Evidence a označování památných stromů
@@ -843,6 +1490,41 @@ Památné stromy jsou součástí ÚSOP (drusop.nature.cz). Evidence obsahuje in
 #### Označení malým státním znakem
 
 Použití malého státního znaku odpovídá kategorii „**lokálního chráněného objektu**" — je analogické označení PR a PP (§ 42 odst. 3). Vyhlášku k označení v terénu stanoví MŽP (vyhláška č. 189/2013 Sb. o ochraně dřevin).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor před koupí pozemku pro výstavbu si neověří, zda na něm neroste památný strom; v ÚSOP přitom je evidována lipová alej vyhlášená za památné stromořadí. Po zahájení prací poškodí kořenový systém jedné z lip. Důkazy: výpis z ÚSOP (drusop.nature.cz), evidenční list stromořadí, fotodokumentace poškození, projektová dokumentace.
+
+**2. Právní otázka.** Lze se dovolávat nevědomosti o ochraně památného stromu, je-li evidován v ÚSOP s veřejným dálkovým přístupem a označen malým státním znakem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 47 odst. 1 (evidence v ÚSOP dle § 42), odst. 2 (označení malým státním znakem), odst. 3 (způsob označení vyhláškou).
+- *Související ustanovení téhož zákona:* § 42 (ÚSOP — důkazní funkce), § 46 (zákazy, pásmo), § 87 (poškozování označení).
+- *Související předpisy:* vyhláška č. 189/2013 Sb.; zákon č. 365/2000 Sb. (ISVS).
+- *Judikatura:* obecná presumpce seznatelnosti veřejně evidovaných skutečností.
+
+**4. Subsumpce.** Památné stromy jsou součástí ÚSOP s veřejným dálkovým přístupem; status pozemku byl seznatelný. Označení malým státním znakem odpovídá kategorii lokálně chráněného objektu. Poškození kořenového systému je zákazem dle § 46 odst. 2. Nevědomost při dostupné evidenci neomlouvá.
+
+**5. Řešení.** Investor odpovídá za poškození; náležitá péče vyžadovala rešerši v ÚSOP a katastru. Doporučený postup: před nabytím i zásahem ověřit drusop.nature.cz a respektovat ochranné pásmo. Případné poškození vlastního označení (státního znaku) by zakládalo i přestupek dle § 87.
+
+**6. Varianty.** (a) Kdyby stromořadí dosud nebylo zapsáno do ÚSOP a neoznačeno, mohla by být nevědomost relevantní pro míru zavinění. (b) Kdyby investor strom jen ošetřil bez poškození, potřeboval by k tomu souhlas orgánu dle § 46 odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- *Argument investora:* „O ochraně jsem nevěděl." Neutralizace: ÚSOP plní důkazní funkci a je veřejně přístupný; nevědomost zpravidla neomlouvá.
+- *Argument:* „Označení v terénu chybělo." Neutralizace: rozhodný je zápis v ÚSOP; terénní značení je doplňkové.
+- *Slabé místo:* u čerstvě vyhlášených stromů může vzniknout prodleva mezi rozhodnutím a zápisem/označením.
+
+#### H. Praktický závěr
+
+Památné stromy se evidují v ÚSOP a označují malým státním znakem; jejich status je veřejně seznatelný a tvrzená nevědomost zpravidla neomlouvá.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před nabytím i zásahem ověřit ÚSOP (drusop.nature.cz) a KN.
+- [ ] Respektovat ochranné pásmo a zákazy dle § 46.
+- [ ] Posoudit případné poškození označení dle § 87.
+
+**Typicky rozhodné důkazy / podklady:** výpis z ÚSOP, evidenční list stromu/stromořadí, fotodokumentace, projektová dokumentace.
 
 ---
 
@@ -920,6 +1602,42 @@ Toto ustanovení se aplikuje typicky na:
 
 > **Vztah k zákonu CITES (č. 100/2004 Sb.):** § 48 odst. 4 funguje **paralelně** se zákonem o obchodování s ohroženými druhy, který implementuje CITES (Úmluva o mezinárodním obchodu s ohroženými druhy, Washington 1973). Zákon 100/2004 Sb. reguluje **mezinárodní obchod** (dovoz, vývoz, reexport, vnitrounijní obchod) s druhy uvedenými v přílohách CITES a v evropském nařízení (ES) č. 338/97. Zatímco CITES režim sleduje primárně mezinárodní hledisko, § 48 odst. 4 ZOPK chrání **tuzemský domácí trh** se zvláště chráněnými druhy podle vyhlášky 395/1992 Sb. V praxi se oba režimy uplatňují **kumulativně** — jedinec může být zároveň CITES exemplářem i tuzemským zvláště chráněným druhem (např. orel mořský — je v příloze I CITES i v příloze KO vyhlášky 395/1992 Sb.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Celní orgán zadrží u sběratele preparát z dravce a trofej z kriticky ohroženého savce; sběratel tvrdí, že jde o „starou rodinnou sbírku". Současně je u něj nalezen živý exemplář druhu, který je zároveň v příloze I CITES i v kategorii kriticky ohrožených dle vyhlášky 395/1992 Sb. Důkazy: preparát s etiketou, doklady o původu (či jejich absence), kroužkování/mikročip, posudek o druhové příslušnosti.
+
+**2. Právní otázka.** Vztahuje se ochrana i na mrtvého jedince a výrobek z něj, a jak se režim § 48 vztahuje k režimu CITES (zákon č. 100/2004 Sb.)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 48 odst. 1 (kritéria zvláštní ochrany), odst. 2 (tři kategorie — KO, SO, O), odst. 3 (vyhláška 395/1992 Sb.), odst. 4 (ochrana mrtvého jedince, jeho části a výrobku — je-li patrná z dokumentu/obalu/značky/etikety nebo okolností).
+- *Související ustanovení téhož zákona:* § 49, § 50 (základní podmínky ochrany), § 54 (prokázání původu), § 56 (výjimky).
+- *Související předpisy:* zákon č. 100/2004 Sb. (CITES); nařízení (ES) č. 338/97; vyhláška 395/1992 Sb.
+- *Judikatura:* NSS 15 A 160/2015 (§ 56 jako transpozice čl. 16 HD směřuje k vyšší úrovni ochrany biotopů ZCHD než obecná druhová ochrana dle § 5).
+
+**4. Subsumpce.** Podle odst. 4 je chráněn i mrtvý jedinec, jeho část či výrobek, je-li z etikety/okolností patrný původ z chráněného druhu — preparát i trofej tedy spadají pod ochranu. Druh zároveň v CITES příloze I a v kategorii KO podléhá kumulativně oběma režimům (§ 48 odst. 4 ZOPK + zákon 100/2004 Sb.).
+
+**5. Řešení.** Sběratel musí prokázat zákonný původ (§ 54); tvrzení o „rodinné sbírce" bez dokladů nestačí. U mrtvých jedinců se uplatní výjimky § 50 odst. 5 (historicky nabyté/dovezené) jen při prokázaném zákonném původu. Oba režimy (tuzemský i CITES) se aplikují vedle sebe; nesplnění kteréhokoli vede k zákazu držení a k odebrání.
+
+**6. Varianty.** (a) Kdyby šlo o druh jen v kategorii „ohrožené" (O), uplatnily by se mírnější pravidla při běžném obhospodařování, ale režim mrtvého jedince zůstává. (b) Kdyby exemplář nebyl v CITES, aplikoval by se jen tuzemský režim ZOPK.
+
+#### G. Protiargumenty a rizika
+
+- *Argument sběratele:* „Mrtvý exemplář ochraně nepodléhá." Neutralizace: odst. 4 výslovně chrání mrtvého jedince, jeho části a výrobky.
+- *Argument:* „CITES a ZOPK se vylučují." Neutralizace: režimy se uplatňují kumulativně (mezinárodní obchod × tuzemský trh).
+- *Slabé místo:* určení druhové příslušnosti preparátu/výrobku může vyžadovat znalecký/genetický posudek.
+
+#### H. Praktický závěr
+
+Zvláště chráněné druhy se dělí do tří kategorií (KO, SO, O) dle vyhlášky 395/1992 Sb.; ochrana zahrnuje i mrtvého jedince, jeho části a výrobky a uplatňuje se kumulativně s režimem CITES.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit druh a jeho kategorii (KO/SO/O) podle vyhlášky 395/1992 Sb.
+- [ ] Posoudit, zda jde o mrtvého jedince/část/výrobek dle odst. 4.
+- [ ] Ověřit souběh s CITES (zákon 100/2004 Sb., nařízení 338/97).
+- [ ] Vyžádat prokázání zákonného původu (§ 54).
+
+**Typicky rozhodné důkazy / podklady:** určovací/znalecký posudek, doklady o původu, etikety/obaly, evidence CITES, výpis z vyhlášky 395/1992 Sb.
+
 ---
 
 ### § 49 — Základní podmínky ochrany zvláště chráněných rostlin
@@ -993,6 +1711,42 @@ Pro **kriticky a silně ohrožené druhy** se vyloučení podle odst. 2 písm. a
 4. Dohoda **nahrazuje výjimku** podle § 56 — to je zásadní procesní zjednodušení (jeden akt místo dvou).
 
 Tato úprava implementuje princip **„cooperative compliance"** — preferuje smluvní cestu před autoritativním povolováním výjimek.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zemědělec hospodaří na louce, na jejímž okraji roste kriticky ohrožená rostlina. Při běžném sečení a následném odvodnění části pozemku dojde k poškození rostlin. Zemědělec tvrdí, že šlo o „běžné obhospodařování", jež je z ochrany vyňato. Důkazy: evidence hospodaření, botanický průzkum lokality (výskyt a kategorie druhu), doklady o odvodnění, případná dohoda dle § 49 odst. 4.
+
+**2. Právní otázka.** Vztahuje se vynětí běžného obhospodařování dle § 49 odst. 2 písm. a) i na kriticky ohrožené druhy a zahrnuje „běžné obhospodařování" odvodnění pozemku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 49 odst. 1 (komplexní ochrana všech částí, stadií a biotopu), odst. 2 (tři výjimky), odst. 3 (negativní vymezení běžného obhospodařování — vyňaty zásahy do hydrologie, půdního povrchu, chemismu, kromě hospodaření dle LHP), odst. 4 (zpřísnění pro KO/SO, dohoda nahrazující výjimku).
+- *Související ustanovení téhož zákona:* § 56 (výjimky, důvody), § 50 (živočichové obdobně), § 48 (kategorie).
+- *Související předpisy:* zákon č. 289/1995 Sb. (LHP); vyhláška 395/1992 Sb.
+- *Judikatura:* NSS 5 A 81/2016 (smyslem § 49 a § 50 je ochrana konkrétních rostlin/živočichů, nikoli soukromých zájmů z vlastnictví pozemků).
+
+**4. Subsumpce.** Odvodnění je zásahem do hydrologických poměrů, který dle odst. 3 není běžným obhospodařováním (nejde-li o hospodaření dle LHP). U kriticky ohroženého druhu se navíc vynětí dle odst. 2 písm. a) vůbec neuplatní (odst. 4). Poškození proto není kryto a vyžaduje dohodu nebo výjimku.
+
+**5. Řešení.** Zemědělec potřeboval dohodu dle § 49 odst. 4 (nahrazující výjimku) nebo výjimku dle § 56; bez nich je zásah protiprávní. Dohodu lze uzavřít jen při splnění tří kumulativních podmínek (neexistence jiného uspokojivého řešení, důvod dle § 56 odst. 1/2, neovlivnění příznivého stavu druhu), jež musí být v dohodě výslovně uvedeny.
+
+**6. Varianty.** (a) Kdyby šlo o druh jen „ohrožený" (O) a o pouhé sečení bez odvodnění, šlo by o běžné obhospodařování vyňaté z ochrany. (b) Kdyby zásah probíhal v lese dle platného LHP, byl by „běžným obhospodařováním" i při změně hydrologie.
+
+#### G. Protiargumenty a rizika
+
+- *Argument zemědělce:* „Hospodařím běžně, ochrana se neuplatní." Neutralizace: odvodnění je dle odst. 3 vyňato z pojmu běžného obhospodařování a u KO/SO vynětí neplatí vůbec.
+- *Argument:* „Ochrana sleduje můj zájem na rekultivaci." Neutralizace: NSS 5 A 81/2016 — § 49 chrání rostliny, nikoli soukromé zájmy vlastníka.
+- *Slabé místo:* prokázání, že šlo o KO/SO druh a o zásah do hydrologie, vyžaduje botanický a hydrologický podklad.
+
+#### H. Praktický závěr
+
+Zvláště chráněné rostliny jsou chráněny ve všech částech, stadiích i v biotopu; běžné obhospodařování je vyňato jen úzce (nezahrnuje zásahy do hydrologie/půdy/chemismu) a u KO/SO druhů vynětí neplatí — namístě je dohoda dle § 49 odst. 4 nebo výjimka § 56.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit druh a kategorii (zejména KO/SO → přísnější režim).
+- [ ] Posoudit, zda zásah spadá pod úzký pojem běžného obhospodařování (odst. 3).
+- [ ] U KO/SO zajistit dohodu dle odst. 4 (tři kumulativní podmínky) nebo výjimku § 56.
+- [ ] Ověřit, zda nejde o hospodaření dle LHP (výjimka z odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** botanický průzkum, evidence hospodaření, doklady o zásahu do hydrologie/půdy, LHP, dohoda dle § 49 odst. 4.
 
 ---
 
@@ -1073,6 +1827,42 @@ Toto pravidlo respektuje **legitimní očekávání historicky nabytých sbírko
 
 § 50 odst. 7 zakotvuje **interpretační princip**: opatření přijímaná podle ZOPK musí brát v úvahu **hospodářské, sociální a kulturní požadavky, regionální a místní zvláštnosti**. Tato klauzule transponuje čl. 2 odst. 3 HD a čl. 2 BD — povinnost členských států vyvažovat ochranářské zájmy s hospodářskými/sociálními/kulturními potřebami. Klauzule je výkladovým vodítkem pro **proporcionalitu** ochrany a brání tomu, aby ochrana druhu byla aplikována absolutisticky bez zohlednění jiných oprávněných zájmů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Developer plánuje stavbu na pozemku, v jehož půdním krovu (podkroví staré budovy) sídlí kolonie netopýrů (silně ohrožený druh). Záměr vyžaduje územní rozhodnutí. Developer chce řešit ochranu druhů až ve fázi stavebního povolení. Důkazy: chiropterologický průzkum, projektová dokumentace, harmonogram prací (období hnízdění/zimování), stanovisko orgánu OP dle § 50 odst. 3.
+
+**2. Právní otázka.** V jaké fázi povolovacího procesu se má posoudit zásah do přirozeného vývoje zvláště chráněných živočichů a potřeba výjimky dle § 56?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 50 odst. 1 (ochrana všech stadií, sídel vč. umělých, biotopu), odst. 2 (katalog zákazů — chytat, rušit, zraňovat, usmrcovat, ničit sídla, obchodovat), odst. 3 (vynětí běžného obhospodařování/hygieny/bezpečnosti/leteckého provozu s předchozím stanoviskem), odst. 4 (zpřísnění pro KO/SO), odst. 7 (integrační klauzule).
+- *Související ustanovení téhož zákona:* § 56 (výjimky), § 49 (rostliny obdobně), § 48 (kategorie).
+- *Související předpisy:* vyhláška 395/1992 Sb.; směrnice 2009/147/ES, 92/43/EHS.
+- *Judikatura:* NSS 7 As 207/2024 (třístupňový test: výskyt ZCHD → zásah do biotopu/ohrožení → posouzení výjimky dle § 56 odst. 2); NSS 6 As 319/2021 (zásah dle § 50 odst. 2 a potřebu výjimky § 56 řešit již v souvislosti s územním řízením jako jeho podklad); SDEU Komise v. Francie (C-374/98) k pojmu rušení.
+
+**4. Subsumpce.** Kolonie netopýrů využívá umělé sídlo chráněné dle odst. 1; zamýšlené práce by je rušily/ničily (odst. 2). Jelikož jde o silně ohrožený druh, vynětí běžného obhospodařování dle odst. 3 neplatí (odst. 4). Podle NSS 6 As 319/2021 a 7 As 207/2024 je třeba zásah a potřebu výjimky řešit již jako podklad územního řízení, nikoli odložit na stavební povolení.
+
+**5. Řešení.** Developer musí získat výjimku dle § 56 ještě před/územním rozhodnutím (resp. jako jeho podklad). Orgán OP může uložit náhradní ochranné opatření (záchranný přenos kolonie, náhradní úkryty) a podmínky (časové omezení mimo období rozmnožování/zimování). Bez výjimky je záměr nepřípustný.
+
+**6. Varianty.** (a) Kdyby šlo o druh jen „ohrožený" a o nezbytný hygienický zásah, postačilo by předchozí stanovisko dle odst. 3 bez výjimky. (b) Kdyby šlo o naléhavý zásah z hlediska veřejné bezpečnosti, předchozí stanovisko by se nevyžadovalo.
+
+#### G. Protiargumenty a rizika
+
+- *Argument developera:* „Druhovou ochranu vyřeším až u stavebního povolení." Neutralizace: NSS 6 As 319/2021 — řešit již jako podklad územního řízení.
+- *Argument:* „Rušení netopýrů je nevýznamné." Neutralizace: C-374/98 — rozhodné je, zda je rušení významné z hlediska cílů ochrany.
+- *Slabé místo:* doložení obsazenosti úkrytu a načasování prací vyžaduje chiropterologický průzkum ve správném ročním období.
+
+#### H. Praktický závěr
+
+Zvláště chránění živočichové jsou chráněni ve všech stadiích, sídlech (i umělých) a biotopu; u KO/SO druhů neplatí vynětí běžného obhospodařování a potřebu výjimky § 56 je nutné řešit již jako podklad územního řízení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Provést průzkum výskytu ZCHD a obsazenosti sídel ve vhodném období.
+- [ ] Aplikovat třístupňový test dle NSS 7 As 207/2024.
+- [ ] U KO/SO zajistit výjimku § 56 jako podklad územního řízení (NSS 6 As 319/2021).
+- [ ] Zvážit náhradní ochranná opatření a časová omezení (odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** zoologický/chiropterologický průzkum, projekt a harmonogram, stanovisko orgánu OP, doklad o výjimce/náhradních opatřeních.
+
 ---
 
 ### § 51 — Zvláštní ochrana nerostů
@@ -1104,6 +1894,42 @@ Důvod je praktický — mineralogické trhy jsou rozsáhlé a tuzemský pojem �
 #### Realizace vyhláškou 395/1992 Sb.
 
 Seznam zvláště chráněných nerostů obsahuje příloha V vyhlášky č. 395/1992 Sb. Zahrnuje typicky cca 20–30 nerostů a několik desítek lokalit (typicky historické doly, lomy, geologicky exponovaná místa).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Sběratel minerálů odebere na historickém krasovém nalezišti, evidovaném jako lokalita zvláště chráněného nerostu, několik krystalů a část jich nabídne k prodeji na burze. Orgán OP věc prošetřuje. Důkazy: lokalizace odběru, vyhláška 395/1992 Sb. (příloha V — seznam nerostů a lokalit), případné povolení orgánu OP, doklady k nabízeným exemplářům.
+
+**2. Právní otázka.** Jaký je rozsah zákazu u zvláště chráněných nerostů — vztahuje se i na držení a obchod, nebo jen na poškozování/sběr na místě přirozeného výskytu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 51 odst. 1 (kritéria — vzácnost, vědecká/kulturní hodnota), odst. 2 (zákaz poškozovat/sbírat na místě přirozeného výskytu bez povolení), odst. 3 (vyhláška 395/1992 Sb.).
+- *Související ustanovení téhož zákona:* § 53 (vývoz nerostů zakázán), § 57 (činnosti vázané na souhlas), § 10 (krasové jevy).
+- *Související předpisy:* vyhláška 395/1992 Sb. (příloha V).
+- *Judikatura:* —
+
+**4. Subsumpce.** Zákaz dle odst. 2 je úzký — postihuje pouze poškozování a sběr na místě přirozeného výskytu bez povolení. Držení a obchod (na rozdíl od § 49 a § 50) zakázány nejsou. Sběr krystalů na nalezišti bez povolení proto naplňuje zákaz; následný prodej sám o sobě zákaz neporušuje, ale prokazuje protiprávní odběr.
+
+**5. Řešení.** Sběrateli hrozí postih za nepovolený sběr na nalezišti; obchod sám o sobě sankcionovatelný není, slouží však jako důkaz nelegálního odběru. Legální cesta: požádat orgán OP o povolení sběru. Pozor na § 53 — vývoz nerostů je zakázán (výjimečně s povolením MŽP).
+
+**6. Varianty.** (a) Kdyby sběratel měl povolení orgánu OP, odběr by byl legální. (b) Kdyby šlo o sběr na haldách starých dolů mimo místo přirozeného výskytu, mohl by být mimo zákaz (dle bližších podmínek dle § 57).
+
+#### G. Protiargumenty a rizika
+
+- *Argument sběratele:* „Nerosty lze volně držet a prodávat." Neutralizace: to platí, ale jen je-li odběr legální; sběr na nalezišti bez povolení je zakázán.
+- *Argument:* „Nevěděl jsem o statusu lokality." Neutralizace: lokality jsou uvedeny ve vyhlášce 395/1992 Sb.; seznatelnost je dána.
+- *Slabé místo:* prokázání, že odběr proběhl na „místě přirozeného výskytu" konkrétní lokality, může být skutkově obtížné.
+
+#### H. Praktický závěr
+
+Ochrana nerostů je úzká — zakázáno je jen poškozování a sběr na místě přirozeného výskytu bez povolení; držení a obchod zakázány nejsou, vývoz však zakazuje § 53.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda nerost a lokalita jsou ve vyhlášce 395/1992 Sb. (příloha V).
+- [ ] Posoudit, zda došlo ke sběru/poškození na místě přirozeného výskytu bez povolení.
+- [ ] Zohlednit bližší podmínky dle § 57 (sběr na haldách apod.).
+- [ ] U vývozu aplikovat zákaz dle § 53.
+
+**Typicky rozhodné důkazy / podklady:** lokalizace odběru, vyhláška 395/1992 Sb., povolení orgánu OP, doklady k exemplářům.
 
 ---
 
@@ -1138,6 +1964,42 @@ V ČR existuje řada záchranných programů, koordinovaných AOPK ČR — např
 - Záznamy o průběhu ošetření;
 - Předchozí oznámení vypuštění do volné přírody příslušnému orgánu OP (termín, místo, způsob).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nálezce najde poraněného zvláště chráněného dravce neschopného letu. Místo předání do záchranné stanice si jej ponechá doma „do uzdravení" a po měsíci jej vypustí, aniž cokoli oznámí. Pták uhyne. Důkazy: svědectví o nálezu, veterinární posudek o stavu, evidence záchranné stanice (její absence), komunikace s orgánem OP.
+
+**2. Právní otázka.** Jakou povinnost má osoba, která se ujme zvláště chráněného živočicha neschopného přežít ve volné přírodě, a jaké jsou důsledky jejího nesplnění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52 odst. 1 (záchranné programy), odst. 2 (povinnost bezodkladně předat živočicha záchranné stanici; evidence; předchozí oznámení vypuštění orgánu OP).
+- *Související ustanovení téhož zákona:* § 50 (zákaz držení/chovu ZCHD), § 56 (výjimky), § 5 (obecná ochrana).
+- *Související předpisy:* vyhláška 395/1992 Sb.; veterinární předpisy.
+- *Judikatura:* —
+
+**4. Subsumpce.** Nálezce, který se ujal živočicha neschopného přežít ve volné přírodě, byl povinen jej bezodkladně předat záchranné stanici (odst. 2). Ponecháním doma a samostatným vypuštěním povinnost porušil; současně neoprávněně držel ZCHD (§ 50 odst. 2) bez výjimky. Vypuštění bez předchozího oznámení orgánu OP odporuje odst. 2.
+
+**5. Řešení.** Jednání zakládá porušení § 52 odst. 2 i neoprávněné držení dle § 50. Správný postup: bezodkladné předání do záchranné stanice, která vede evidenci, zajistí ošetření a předem oznámí orgánu OP termín, místo a způsob vypuštění. Laické držení a vypuštění zvyšuje riziko úhynu a je protiprávní.
+
+**6. Varianty.** (a) Kdyby nálezce živočicha bezodkladně předal stanici, povinnost by splnil. (b) Kdyby šlo o živočicha schopného přežít ve volné přírodě (jen dočasně dezorientovaného), povinnost předání by nevznikla.
+
+#### G. Protiargumenty a rizika
+
+- *Argument nálezce:* „Pomáhal jsem zvířeti, nešlo o držení." Neutralizace: zákon ukládá předání odborné stanici; laické držení ZCHD je bez výjimky zakázáno.
+- *Argument:* „Vypuštění je v zájmu ochrany." Neutralizace: vypuštění musí předem oznámit stanice orgánu OP; svévolné vypuštění je v rozporu s odst. 2.
+- *Slabé místo:* prokázání, že živočich byl neschopen přežít ve volné přírodě, může vyžadovat veterinární posudek.
+
+#### H. Praktický závěr
+
+Kdo se ujme zvláště chráněného živočicha neschopného přežít ve volné přírodě, musí jej bezodkladně předat záchranné stanici; ta vede evidenci a vypuštění předem oznamuje orgánu OP. Laické držení je protiprávní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit, zda živočich byl neschopen přežít ve volné přírodě.
+- [ ] Zajistit bezodkladné předání do záchranné stanice.
+- [ ] Ověřit vedení evidence a předchozí oznámení vypuštění orgánu OP.
+- [ ] Vyloučit neoprávněné držení ZCHD dle § 50.
+
+**Typicky rozhodné důkazy / podklady:** veterinární posudek, evidence záchranné stanice, oznámení orgánu OP, svědectví o nálezu a držení.
+
 ---
 
 ### § 53 — Vývoz
@@ -1162,6 +2024,42 @@ Důvod asymetrie: u rostlin a živočichů existuje sofistikovaný režim CITES 
 #### Vztah k jiným povolením (odst. 2)
 
 Vývozní povolení podle § 53 odst. 1 **nenahrazuje** jiná povolení (např. celní povolení, dovozní/vývozní povolení podle zvláštních předpisů, povolení podle veterinárních předpisů). Žadatel musí zajistit **plný balík povolení** pro legální vývoz.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Muzeum chce vyvézt do zahraničí na výstavu vzácný vltavín (zvláště chráněný nerost) a sbírku preparátů ze zvláště chráněných ptáků. Žádá MŽP o povolení vývozu. Domnívá se, že jedno povolení dle § 53 vyřeší vše. Důkazy: žádost o vývoz, doklady o původu exemplářů, evidence CITES u ptáků, účel výstavy.
+
+**2. Právní otázka.** Jaký režim platí pro vývoz nerostů a pro vývoz zvláště chráněných rostlin/živočichů a nahrazuje povolení dle § 53 jiná povolení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 53 odst. 1 (vývoz nerostů zakázán, výjimečně povolení MŽP v případech hodných zvláštního zřetele; vývoz rostlin/živočichů dle zvláštního předpisu), odst. 2 (povolení nenahrazuje jiné souhlasy).
+- *Související ustanovení téhož zákona:* § 51 (ochrana nerostů), § 54 (prokázání původu), § 50 odst. 5 (mrtví jedinci).
+- *Související předpisy:* zákon č. 100/2004 Sb. (CITES); nařízení (ES) č. 338/97; celní předpisy.
+- *Judikatura:* —
+
+**4. Subsumpce.** Vývoz nerostu (vltavínu) je zakázán; výjimečně jej může povolit MŽP v případě hodném zvláštního zřetele (vědecké/muzejní účely tomu odpovídají). Vývoz preparátů ze ZCHD se řídí zvláštním předpisem — zákonem 100/2004 Sb. (CITES) a nařízením 338/97. Povolení dle § 53 nenahrazuje jiná povolení (celní, veterinární, CITES).
+
+**5. Řešení.** Muzeum potřebuje: pro nerost povolení MŽP dle § 53 odst. 1; pro preparáty doklady dle režimu CITES (povolení/potvrzení dle nařízení 338/97) a prokázání původu dle § 54. Jedno povolení dle § 53 nestačí — nutný je plný balík povolení. Po výstavě se uplatní režim reexportu/zpětného dovozu dle CITES.
+
+**6. Varianty.** (a) Kdyby šlo jen o tuzemské zapůjčení bez vývozu, povolení dle § 53 by nebylo třeba. (b) Kdyby preparáty nebyly CITES exempláři, postačilo by prokázání zákonného původu dle § 54 a § 50 odst. 5.
+
+#### G. Protiargumenty a rizika
+
+- *Argument muzea:* „Jedno povolení MŽP pokryje celý vývoz." Neutralizace: odst. 2 — povolení nenahrazuje jiná povolení; nerosty a ZCHD mají odlišný režim.
+- *Argument:* „Muzejní účel automaticky zakládá výjimku." Neutralizace: jde o případy hodné zvláštního zřetele, posuzované individuálně, nikoli automaticky.
+- *Slabé místo:* doložení původu historických sbírkových exemplářů může být obtížné (chybějící doklady).
+
+#### H. Praktický závěr
+
+Vývoz nerostů je zakázán (výjimečně s povolením MŽP), vývoz ZCHD se řídí režimem CITES; povolení dle § 53 nenahrazuje ostatní potřebná povolení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odlišit režim nerostů (§ 53 — zákaz, výjimka MŽP) a ZCHD (CITES/338-97).
+- [ ] Zajistit prokázání zákonného původu (§ 54).
+- [ ] Obstarat všechna potřebná povolení (celní, veterinární, CITES) — § 53 je nenahrazuje.
+- [ ] U muzejního vývozu doložit případ hodný zvláštního zřetele.
+
+**Typicky rozhodné důkazy / podklady:** žádost o vývoz, doklady o původu, evidence/povolení CITES, povolení MŽP, celní doklady.
 
 ---
 
@@ -1213,6 +2111,42 @@ Důležitý detail: **odebrané** exempláře (např. odebraný papoušek šedý
 
 **Potvrzení o výjimce ze zákazu obchodních činností** vydané podle nařízení EU 338/97 pro exempláře CITES odchované v zajetí **nahrazuje** osvědčení podle § 54. Tato úprava zabraňuje duplicitě dokladů — jedna listina kryje povinnosti podle obou režimů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Chovatel papoušků (druh v příloze I CITES, zároveň zvláště chráněný) odchová mládě. Mládě neoznačí ani nepožádá o osvědčení o odchovu v lidské péči a po několika měsících jej nabídne k prodeji s odkazem na „legálně chované rodiče". Orgán OP jej vyzve k prokázání původu. Důkazy: kroužek/mikročip (či jejich absence), žádost o osvědčení, doklady o původu rodičů, evidence chovu.
+
+**2. Právní otázka.** Lze legálně obchodovat se zvláště chráněným/CITES živočichem odchovaným v zajetí bez osvědčení o odchovu a jak se prokazuje zákonný původ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 54 odst. 1 (povinnost prokázat zákonný původ; bez prokázání zákaz držení/chovu/dopravy/prodeje), odst. 4–10 (osvědčení o odchovu jako veřejná listina; lhůty, označení, přenos, zánik; potvrzení EU dle 338/97 nahrazuje osvědčení).
+- *Související ustanovení téhož zákona:* § 50 odst. 2 (zákaz obchodu), § 5a (ochrana ptáků), § 89 (odebrání), § 56 (výjimky).
+- *Související předpisy:* zákon č. 100/2004 Sb.; nařízení (ES) č. 338/97.
+- *Judikatura:* NSS 2 As 52/2018 (smyslem prokázání původu je osvědčit, že exemplář byl předmětem výjimky umožňující obchod); NSS 14 A 24/2017 (zákonný původ nelze prokázat registračními listy; způsob prokázání upravuje § 54 — nabývací titul).
+
+**4. Subsumpce.** Chovatel byl povinen mládě označit nezaměnitelně a ve lhůtě požádat o osvědčení (odst. 4). Bez osvědčení/prokázaného původu vznikají zákazy dle § 54 odst. 1 vč. zákazu prodeje. Odkaz na legálnost rodičů sám o sobě původ neprokazuje; registrační listy k prokázání nestačí (NSS 14 A 24/2017).
+
+**5. Řešení.** Obchod je bez osvědčení nelegální. Chovatel musí mládě označit a získat osvědčení (nebo potvrzení EU dle 338/97, jež je nahrazuje). Při nesplnění hrozí zákaz nakládání a odebrání dle § 89; odebraný exemplář pak má zákonný původ ex lege (rozhodnutí o odebrání).
+
+**6. Varianty.** (a) Kdyby chovatel měl potvrzení o výjimce dle nařízení 338/97, nahradilo by osvědčení dle § 54. (b) Kdyby šlo o mrtvého jedince dovezeného se zákonným původem, uplatnil by se § 50 odst. 5.
+
+#### G. Protiargumenty a rizika
+
+- *Argument chovatele:* „Rodiče jsou legální, tedy i mládě." Neutralizace: původ je nutné prokázat osvědčením/nabývacím titulem, nikoli pouhým odkazem (NSS 2 As 52/2018).
+- *Argument:* „Registrační listy stačí." Neutralizace: NSS 14 A 24/2017 — registrační listy nejsou nabývacím titulem.
+- *Slabé místo:* nezaměnitelnost označení (kroužek/mikročip) je rozhodná; nesprávné označení zpochybní vazbu osvědčení na konkrétního jedince.
+
+#### H. Praktický závěr
+
+Držitel/obchodník musí na výzvu prokázat zákonný původ ZCHD a CITES exempláře; u jedinců odchovaných v zajetí slouží osvědčení o odchovu (nebo potvrzení EU dle 338/97), bez něhož je nakládání zakázáno.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistit nezaměnitelné označení jedince (kroužek/mikročip).
+- [ ] Včas požádat o osvědčení o odchovu (lhůty dle odst. 4) nebo doložit potvrzení EU 338/97.
+- [ ] Prokázat zákonný původ nabývacím titulem (ne registračními listy).
+- [ ] Při absenci dokladů počítat se zákazem nakládání a odebráním (§ 89).
+
+**Typicky rozhodné důkazy / podklady:** osvědčení o odchovu / potvrzení 338/97, doklad o označení, nabývací titul, evidence chovu, doklady o původu rodičů.
+
 ---
 
 ### § 55 — Projednávání záměrů na vyhlášení
@@ -1243,6 +2177,42 @@ Důležitý detail: **odebrané** exempláře (např. odebraný papoušek šedý
 Vyhlášení zvláště chráněného druhu rostliny/živočicha/nerostu vyžaduje **dohodu MŽP s MZe**. Toto pravidlo respektuje skutečnost, že **většina chráněných druhů žije v zemědělské nebo lesní krajině** — ochrana druhu se proto dotýká kompetencí MZe (zemědělství, lesnictví, rybářství). Dohoda zajišťuje, že seznam chráněných druhů nezatěžuje zemědělskou činnost nepřiměřeně a respektuje hospodářské zájmy.
 
 V praxi je tato dohoda zdrojem opakovaných sporů — MZe brání zařazení druhů, jejichž ochrana by mohla omezit zemědělskou činnost (např. spory o status ohrožených druhů hmyzu v travních porostech).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Orgán ochrany přírody zamýšlí vyhlásit nový zvláště chráněný druh hmotyzu vázaný na travní porosty. MŽP připraví vyhlášku, ale opomene ji projednat v dohodě s ministerstvem zemědělství. Současně chce obec vyhlásit za památný strom lípu na soukromém pozemku bez projednání s vlastníkem. Důkazy: návrh vyhlášky, doklad o (ne)projednání s MZe, záměr na vyhlášení památného stromu, doklad o projednání s vlastníkem.
+
+**2. Právní otázka.** Jaké procesní podmínky platí pro vyhlášení zvláště chráněného druhu (dohoda s MZe) a pro vyhlášení památného stromu (projednání s vlastníkem) a co způsobí jejich nedodržení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55 odst. 1 (záměr na památný strom projednat s vlastníky a dotčenými orgány přiměřeně dle § 40), odst. 2 (druhy vyhlašuje OP v dohodě s MZe a po projednání s ústředními orgány), odst. 3 (lhůta 30 dnů pro vyjádření).
+- *Související ustanovení téhož zákona:* § 40 (procedura projednání), § 46 (památné stromy), § 48 (druhy).
+- *Související předpisy:* SŘ; kompetenční zákon (působnost MZe).
+- *Judikatura:* —
+
+**4. Subsumpce.** Vyhlášení druhu vyžaduje povinnou dohodu MŽP s MZe a projednání s ústředními orgány; absence dohody je podstatnou procesní vadou. Vyhlášení památného stromu vyžaduje projednání s vlastníkem přiměřeně dle § 40; jeho opomenutí je rovněž vadou řízení.
+
+**5. Řešení.** Vyhláška o druhu bez dohody s MZe je vadná a napadnutelná; MŽP musí dohodu zajistit. Rozhodnutí o památném stromu bez projednání s vlastníkem je zatíženo procesní vadou (porušení práva účastníka) a v přezkumu zrušitelné. Dotčené orgány mají na vyjádření 30 dnů (odst. 3).
+
+**6. Varianty.** (a) Kdyby šlo o vyhlášení nerostu, platila by rovněž dohoda/projednání dle odst. 2. (b) Kdyby u památného stromu byl vlastník řádně projednán a jen nesouhlasil, vyhlášení by bylo přípustné (jeho souhlas není podmínkou).
+
+#### G. Protiargumenty a rizika
+
+- *Argument MŽP:* „Dohoda s MZe je formalita." Neutralizace: jde o obligatorní podmínku (odst. 2); její absence je podstatnou vadou.
+- *Argument:* „Vlastník stromu nemá právo do řízení zasahovat." Neutralizace: § 55 odst. 1 vyžaduje projednání s vlastníkem přiměřeně dle § 40.
+- *Slabé místo:* doložení řádného projednání (doručení, vypořádání) je rozhodné; chybějící doklady oslabují obhajobu zákonnosti aktu.
+
+#### H. Praktický závěr
+
+Vyhlášení zvláště chráněných druhů a nerostů vyžaduje dohodu MŽP s MZe a projednání s ústředními orgány; vyhlášení památného stromu projednání s vlastníkem přiměřeně dle § 40. Souhlas vlastníka stromu však podmínkou není.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U druhů/nerostů zajistit dohodu s MZe a projednání s ústředními orgány.
+- [ ] U památného stromu projednat záměr s vlastníky a dotčenými orgány (přiměřeně § 40).
+- [ ] Dodržet 30denní lhůtu pro vyjádření dotčených orgánů.
+- [ ] Doložit doručení a vypořádání připomínek.
+
+**Typicky rozhodné důkazy / podklady:** návrh vyhlášky/záměr, doklad o dohodě s MZe, doklady o projednání s vlastníky a orgány, vypořádání připomínek.
 
 ---
 
@@ -1331,6 +2301,42 @@ Pro důvody **a) (ochrana přírody)** a **d) (výzkum/vzdělávání/reintroduk
 
 > **Praktická poznámka:** § 56 je v praxi nejčastěji aplikovaným ustanovením z této kapitoly. Typické situace: stavební úpravy budov s výskytem netopýrů, kácení dřevin s hnízdy chráněných ptáků, regulace bobrů na rybníku, odchyt syslů pro reintrodukční program. Rozhodnutí podle § 56 musí být **velmi důkladně odůvodněno** — soudní praxe (NSS, ÚS) opakovaně rušila výjimky pro nedostatečné odůvodnění (zejména ve smyslu absence alternativ a neovlivnění příznivého stavu).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor žádá o výjimku dle § 56 k zásahu do biotopu evropsky chráněného druhu (bobr evropský) na vodním díle, kde bobři působí škody. V žádosti uvede jen prevenci škod na majetku, ale nedoloží neexistenci jiného uspokojivého řešení (např. protierozní opatření, drátěné ochrany) ani neovlivnění příznivého stavu druhu. Orgán OP výjimku udělí. Spolek ji napadne. Důkazy: žádost a odůvodnění, posouzení alternativ, údaje o stavu populace bobra, dokumentace škod, stanovisko EIA (pokud bylo).
+
+**2. Právní otázka.** Jaké podmínky musí být u evropsky chráněného druhu kumulativně splněny pro povolení výjimky dle § 56 a kdo nese důkazní břemeno absence jiného uspokojivého řešení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56 odst. 1 (dva režimy — tuzemský/evropský; u evropsky chráněných druhů kumulativně: důvod dle odst. 2 + neexistence jiného uspokojivého řešení + neovlivnění příznivého stavu), odst. 2 (taxativní katalog důvodů), odst. 3 (označení a podmínky), odst. 4 (OOP), odst. 5 (dohoda nahrazující výjimku).
+- *Související ustanovení téhož zákona:* § 49, § 50 (zákazy), § 45g/45i (je-li lokalita EVL/PO), § 46 odst. 4 (zrušení památného stromu dle § 56).
+- *Související předpisy:* čl. 16 směrnice 92/43/EHS; čl. 9 směrnice 2009/147/ES; zákon č. 100/2001 Sb. (EIA).
+- *Judikatura:* NSS 9 As 29/2024 (výjimka dle § 56 odst. 1 — výrazná převaha jiného veřejného zájmu — musí být vydána před rozhodnutím o umístění stavby); NSS 5 A 105/2010 (řízení o výjimce navazuje na EIA; stanovisko EIA je v části ZCHD závazným podkladem); SDEU Tapiola (C-674/17) a Komise v. Finsko (C-342/05) — důkazní břemeno absence alternativy nese povolující orgán.
+
+**4. Subsumpce.** Bobr je evropsky chráněný druh; výjimku lze udělit jen kumulativně — z důvodu dle odst. 2 (prevence závažných škod, písm. b), při doložené neexistenci jiného uspokojivého řešení a neovlivnění příznivého stavu. Žádost tyto podmínky nedoložila; orgán navíc nese vlastní břemeno posoudit a vyjmenovat zvažované alternativy (Tapiola). Výjimka je proto vadná.
+
+**5. Řešení.** Soud výjimku zruší pro neúplné splnění kumulativních podmínek a nedostatek odůvodnění alternativ. Orgán OP musí v novém řízení doložit, proč konkrétní alternativy nejsou uspokojivé, a posoudit vliv na příznivý stav populace. Pro důvody a) a d) lze namísto výjimky uzavřít dohodu dle odst. 5. Výjimka musí být vydána před územním rozhodnutím (NSS 9 As 29/2024).
+
+**6. Varianty.** (a) Kdyby šlo o čistě tuzemský druh (mimo HD/BD), postačil by převažující veřejný zájem nebo zájem ochrany bez striktního testu alternativ. (b) Kdyby šlo o odchyt ptáků v malém množství, uplatnil by se specifický důvod odst. 2 písm. e).
+
+#### G. Protiargumenty a rizika
+
+- *Argument orgánu:* „Alternativy nejsou, žadatel je nedoložil." Neutralizace: břemeno doložit absenci uspokojivé alternativy nese orgán, ne žadatel (Tapiola, C-342/05).
+- *Argument:* „Prevence škod stačí jako důvod." Neutralizace: u evropsky chráněných druhů je důvod jen jednou ze tří kumulativních podmínek.
+- *Slabé místo:* posouzení vlivu na příznivý stav vyžaduje data o populaci; jejich absence vede ke zrušení výjimky.
+
+#### H. Praktický závěr
+
+§ 56 rozlišuje tuzemský a evropský režim výjimek; u evropsky chráněných druhů je nutné kumulativně doložit důvod dle odst. 2, neexistenci jiného uspokojivého řešení a neovlivnění příznivého stavu. Výjimka musí předcházet územnímu rozhodnutí a být velmi důkladně odůvodněna.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit, zda jde o tuzemský nebo evropsky chráněný druh (rozsah testu).
+- [ ] U evropsky chráněných doložit kumulativně všechny tři podmínky (odst. 1, 2).
+- [ ] Vyjmenovat a odůvodnit zvažované alternativy (břemeno orgánu — Tapiola).
+- [ ] Vydat výjimku před územním rozhodnutím (NSS 9 As 29/2024); zvážit dohodu dle odst. 5.
+
+**Typicky rozhodné důkazy / podklady:** žádost a odůvodnění, analýza alternativ, data o stavu populace, dokumentace škod, stanovisko EIA, případná dohoda dle odst. 5.
+
 ---
 
 ### § 57 — Souhlas k některým činnostem týkajícím se zvláště chráněných druhů
@@ -1344,6 +2350,41 @@ Pro důvody **a) (ochrana přírody)** a **d) (výzkum/vzdělávání/reintroduk
 § 57 je **zmocňovacím ustanovením** pro vyhlášku MŽP, která může v rámci „bližších ochranných podmínek" konkrétních druhů stanovit činnosti vázané na souhlas. Jde o flexibilní instrument, který umožňuje **diferenciaci ochranného režimu** podle specifické ekologie druhu.
 
 Tato úprava se uplatňuje primárně u nerostů (vyhláška 395/1992 Sb. příloha V), kde různé typy nerostů mají různé režimy přístupnosti (např. sběr v terénu vs. sběr na haldách starých dolů).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vyhláška MŽP stanoví u určitého zvláště chráněného nerostu v rámci bližších ochranných podmínek, že vstup a fotodokumentace na konkrétní lokalitě jsou vázány na předchozí souhlas orgánu OP. Geolog provede na lokalitě dokumentační práce bez souhlasu s tím, že nejde o sběr ani poškození. Důkazy: vyhláška a její bližší ochranné podmínky, popis provedené činnosti, evidence lokality.
+
+**2. Právní otázka.** Může vyhláška v rámci bližších ochranných podmínek vázat na souhlas i činnosti, které nejsou samotným sběrem či poškozením, a je takový souhlas potřeba?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 57 (zmocnění vymezit v bližších ochranných podmínkách druhů a nerostů činnosti vázané na předchozí souhlas orgánu OP).
+- *Související ustanovení téhož zákona:* § 50 odst. 5, § 51 odst. 3 (bližší ochranné podmínky), § 51 odst. 2 (sběr/poškození nerostů).
+- *Související předpisy:* vyhláška 395/1992 Sb.
+- *Judikatura:* —
+
+**4. Subsumpce.** § 57 umožňuje v bližších ochranných podmínkách stanovit činnosti vázané na souhlas i nad rámec základních zákazů (diferenciace režimu podle ekologie druhu/nerostu). Je-li ve vyhlášce stanoveno, že vstup a dokumentace na lokalitě vyžadují souhlas, je geolog povinen jej získat, byť nejde o sběr/poškození.
+
+**5. Řešení.** Činnost bez vyžadovaného souhlasu je v rozporu s bližšími ochrannými podmínkami a § 57. Geolog měl o souhlas požádat. Rozsah činností vázaných na souhlas je dán konkrétní vyhláškou — proto je nezbytné ověřit přesné znění bližších ochranných podmínek dané lokality/druhu.
+
+**6. Varianty.** (a) Kdyby vyhláška takovou podmínku neobsahovala, souhlas by nebyl třeba a šlo by jen o obecný zákaz dle § 51 odst. 2. (b) Kdyby šlo o zvláště chráněný druh rostliny/živočicha, souhlas dle § 57 by se opíral o § 50 odst. 5.
+
+#### G. Protiargumenty a rizika
+
+- *Argument geologa:* „Nesbíral jsem ani nepoškodil, souhlas netřeba." Neutralizace: § 57 umožňuje vázat na souhlas i jiné činnosti, jsou-li tak stanoveny ve vyhlášce.
+- *Argument:* „Zmocnění je příliš obecné." Neutralizace: konkretizaci provádí vyhláška; rozsah je tak dostatečně určitý.
+- *Slabé místo:* nutnost ověřit aktuální znění bližších ochranných podmínek — bez něj nelze rozsah souhlasu spolehlivě určit.
+
+#### H. Praktický závěr
+
+§ 57 je zmocněním, aby vyhláška v bližších ochranných podmínkách druhů a nerostů vázala vybrané činnosti na předchozí souhlas orgánu OP; rozsah je nutné ověřit v konkrétní vyhlášce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda vyhláška u daného druhu/nerostu stanoví činnosti vázané na souhlas.
+- [ ] Před činností na lokalitě obstarat předchozí souhlas orgánu OP.
+- [ ] Odlišit obecné zákazy (§ 50, § 51) od činností vázaných na souhlas dle § 57.
+
+**Typicky rozhodné důkazy / podklady:** vyhláška 395/1992 Sb. a bližší ochranné podmínky, popis činnosti, evidence lokality, případný souhlas orgánu OP.
 
 ---
 
@@ -1391,6 +2432,42 @@ Důvody této úpravy:
 #### Předkupní právo státu k pozemkům souvisejícím s jeskyněmi (§ 61 odst. 1)
 
 § 61 odst. 1 zakotvuje **předkupní právo státu** k „pozemkům souvisejícím s jeskyněmi". Toto právo doplňuje § 61 odst. 4 — pokud jeskyně sama nemůže být ve vlastnictví, stát si chce zajistit kontrolu alespoň nad **přístupovými pozemky** (vstupy do jeskyní, povrchové krasové jevy). Předkupní právo se zapisuje do katastru nemovitostí.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník pozemku, pod nímž se táhne jeskyně s výskytem zimujících netopýrů, chce jeskyni zpřístupnit jako komerční turistickou atrakci a tvrdí, že jako vlastník pozemku je i vlastníkem jeskyně (superficies solo cedit). Současně zahájí úpravy vstupu. Důkazy: výpis z KN, speleologická dokumentace jeskyně, chiropterologický průzkum, doklad o vyhlášení/evidenci, případné předkupní právo státu (§ 61 odst. 1).
+
+**2. Právní otázka.** Je jeskyně předmětem vlastnictví vlastníka pozemku a může ji bez dalšího komerčně využívat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 61 odst. 4 (jeskyně nejsou součástí pozemku ani předmětem vlastnictví — res extra commercium), odst. 1 (předkupní právo státu k souvisejícím pozemkům).
+- *Související ustanovení téhož zákona:* § 10 (obecná ochrana jeskyní — zákaz ničení/poškozování/úprav, výjimka jen z naléhavých důvodů veřejného zájmu, průzkum s povolením), § 50 (ochrana netopýrů), § 56 (výjimky).
+- *Související předpisy:* § 506 zákona č. 89/2012 Sb. (OZ — superficies solo cedit pro stavby); § 61 odst. 4 ZOPK činí výjimku.
+- *Judikatura:* —
+
+**4. Subsumpce.** Podle § 61 odst. 4 jeskyně není součástí pozemku ani předmětem vlastnictví — vlastník pozemku jeskyni nevlastní. Komerční úpravy vstupu jsou úpravou jeskyně dle § 10 (zakázanou bez výjimky z naléhavých důvodů veřejného zájmu) a zároveň zásahem do biotopu zimujících netopýrů (§ 50). Tvrzení o vlastnictví dle superficies solo cedit je vyloučeno speciální úpravou § 61 odst. 4.
+
+**5. Řešení.** Vlastník nemůže jeskyni vlastnit ani ji svévolně využívat. Úpravy vyžadují výjimku z § 10 (naléhavý veřejný zájem) a zpravidla i výjimku § 56 kvůli netopýrům; průzkum/výzkum jeskyně podléhá povolení OP. Stát má navíc předkupní právo k souvisejícím pozemkům (§ 61 odst. 1). Bez těchto titulů je zásah protiprávní.
+
+**6. Varianty.** (a) Kdyby šlo o povrchový krasový jev (závrt), platila by obdobná ochrana dle § 10. (b) Kdyby vstup do jeskyně neúmyslně odkryla těžba/geologické práce, vznikla by povinnost oznámení a dokumentace dle § 10.
+
+#### G. Protiargumenty a rizika
+
+- *Argument vlastníka:* „Vlastním pozemek, tedy i jeskyni pod ním." Neutralizace: § 61 odst. 4 výslovně vylučuje jeskyni z předmětu vlastnictví (lex specialis k § 506 OZ).
+- *Argument:* „Komerční využití je v mém zájmu." Neutralizace: úpravy jeskyně podléhají § 10 a ochraně netopýrů (§ 50); soukromý zájem výjimku nezakládá.
+- *Slabé místo:* vymezení rozsahu jeskyně a souvisejících pozemků (předkupní právo) vyžaduje speleologickou a geodetickou dokumentaci.
+
+#### H. Praktický závěr
+
+Jeskyně nejsou předmětem vlastnictví (§ 61 odst. 4) a požívají obecné ochrany dle § 10; jejich úprava či zpřístupnění vyžaduje výjimku a zpravidla i ochranu jeskynní fauny dle § 50.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyloučit vlastnické nároky k jeskyni (§ 61 odst. 4 vs. § 506 OZ).
+- [ ] U úprav/zpřístupnění zajistit výjimku z § 10 (naléhavý veřejný zájem) a povolení průzkumu.
+- [ ] Posoudit dotčení jeskynní fauny (netopýři) a potřebu výjimky § 56.
+- [ ] Ověřit předkupní právo státu k souvisejícím pozemkům (§ 61 odst. 1).
+
+**Typicky rozhodné důkazy / podklady:** speleologická dokumentace, chiropterologický průzkum, výpis z KN, doklad o evidenci/ochraně, povolení a výjimky.
 
 ---
 
@@ -1443,6 +2520,42 @@ Hodnocení musí zpracovat **autorizovaná osoba** podle § 45j — režim je sj
 Biologické hodnocení se **integruje do EIA** — pokud splňuje požadavky EIA, plní obě funkce současně. Hodnocení je dále **součástí žádosti o povolení/souhlas/závazné stanovisko** podle ZOPK. Realizace opatření vyplývajících z hodnocení jde **na náklad investora**.
 
 > **Praktická poznámka:** § 67 v praxi znamená, že každý větší stavební nebo zemědělský projekt v ČR (mimo lokality Natura 2000) musí zahrnovat biologické hodnocení od autorizované osoby. Toto hodnocení je drahým, ale významným preventivním nástrojem — eliminuje konflikty mezi investicí a ochranářskými zájmy ve fázi přípravy, nikoli ve fázi realizace. Nepořízení hodnocení vede k tomu, že orgán OP nevydá souhlasy potřebné pro realizaci záměru.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor zahájí přípravu velkého logistického areálu na zemědělské ploše mimo lokality Natura 2000, na níž se vyskytují zvláště chráněné druhy (sysel obecný) a krajinné prvky. Biologické hodnocení dle § 67 nezajistí a podá rovnou žádost o potřebné souhlasy/závazné stanovisko dle ZOPK. Orgán OP žádost vrátí. Důkazy: projektová dokumentace, údaje o výskytu ZCHD, stanovisko orgánu OP k závažnosti zásahu (§ 67 odst. 1), absence biologického hodnocení.
+
+**2. Právní otázka.** Je investor povinen zajistit biologické hodnocení dle § 67 a jaké jsou důsledky jeho nepořízení pro povolovací proces?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 67 odst. 1 (povinnost investora zajistit na svůj náklad hodnocení vlivu závažného zásahu; pre-screening stanovisko OP do 30 dnů; návrh opatření k vyloučení/zmírnění a náhradních opatření), odst. 2 (integrace do EIA), odst. 3 (hodnocení je součástí žádosti), odst. 4 (povinnost realizovat opatření na náklad investora).
+- *Související ustanovení téhož zákona:* § 45j (autorizovaná osoba), § 45i (naturové hodnocení — pro EVL/PO), § 56 (výjimky u druhů), Části II, III, V (chráněné zájmy).
+- *Související předpisy:* zákon č. 100/2001 Sb. (EIA); vyhláška MŽP o náležitostech hodnocení.
+- *Judikatura:* —
+
+**4. Subsumpce.** Záměr je závažným zásahem dotýkajícím se zájmů chráněných v Částech II, III a V (výskyt ZCHD, krajinné prvky). Investor byl povinen zajistit biologické hodnocení od autorizované osoby dle § 45j a předložit je jako součást žádosti (odst. 3). Bez hodnocení nelze vydat souhlasy/závazné stanovisko.
+
+**5. Řešení.** Žádost je neúplná; orgán OP nevydá potřebné akty bez biologického hodnocení. Investor musí zajistit hodnocení (na svůj náklad), v němž autorizovaná osoba navrhne mitigační a případně náhradní opatření; ta je investor povinen realizovat (odst. 4). V pochybnostech o závažnosti zásahu lze využít pre-screening stanovisko OP (do 30 dnů). Při souběhu s EIA hodnocení plní obě funkce.
+
+**6. Varianty.** (a) Kdyby orgán OP v pre-screeningu konstatoval, že zásah není závažný, plné hodnocení by nebylo třeba. (b) Kdyby záměr ležel v EVL/PO, uplatnilo by se navíc naturové hodnocení dle § 45i.
+
+#### G. Protiargumenty a rizika
+
+- *Argument investora:* „Hodnocení je drahé a zdržuje, lze je vynechat." Neutralizace: je obligatorní součástí žádosti (odst. 3); bez něj OP souhlasy nevydá.
+- *Argument:* „Zásah není závažný." Neutralizace: závažnost posoudí pre-screening stanovisko OP, nikoli investor sám.
+- *Slabé místo:* určení „závažnosti" zásahu je hodnotící; nejistotu řeší stanovisko OP, jehož absence ponechává riziko na investorovi.
+
+#### H. Praktický závěr
+
+Investor je povinen u závažných zásahů zajistit na svůj náklad biologické hodnocení od autorizované osoby; hodnocení je součástí žádosti o povolení/souhlas/závazné stanovisko a navržená opatření realizuje investor.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit, zda jde o závažný zásah do zájmů Částí II, III, V (případně využít pre-screening OP do 30 dnů).
+- [ ] Zajistit biologické hodnocení od autorizované osoby dle § 45j.
+- [ ] Předložit hodnocení jako součást žádosti (i elektronicky) a integrovat s EIA.
+- [ ] Realizovat mitigační/náhradní opatření na náklad investora (odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** biologické hodnocení autorizované osoby, pre-screening stanovisko OP, projektová dokumentace, údaje o výskytu chráněných zájmů, případné stanovisko EIA.
 
 ---
 
