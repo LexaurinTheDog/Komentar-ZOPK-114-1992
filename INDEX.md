@@ -23,6 +23,10 @@ Habitats Directive 92/43/EHS, Birds Directive 2009/147/ES, IAS Regulation 1143/2
 ## Vazby
 [VZ 254/2001](/home/vojtech/Komentar-VZ-254-2001/), 289/1995 (lesní zákon), 100/2001 (EIA), [Stavební zákon](https://www.zakonyprolidi.cz/cs/2021-283).
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
