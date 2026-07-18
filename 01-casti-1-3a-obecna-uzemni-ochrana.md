@@ -74,6 +74,52 @@ Druhá věta § 1 — povinnost zohlednit hospodářské, sociální a kulturní
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=88eb48a5fd2a54f8eb3a generator=2026-07-17.4 source_sha256=8757ce689155f876496df915fe9a20134fc640b55f5b5ad6a6bc54b036d8fce7 -->
+#### Revizní doplnění k § 1 — Účel zákona
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/114-1992 Zákon České národní rady o ochraně přírody a krajiny.md`; identifikátor verze: `SB-1992-00114_2025-10-01`; SHA-256: `8757ce689155f876496df915fe9a20134fc640b55f5b5ad6a6bc54b036d8fce7`.
+
+##### Znění ustanovení
+
+> Účelem zákona je za účasti příslušných krajů, obcí, vlastníků a správců pozemků přispět k udržení a obnově přírodní rovnováhy v krajině, k ochraně rozmanitostí forem života, přírodních hodnot a krás, k šetrnému hospodaření s přírodními zdroji a vytvořit v souladu s právem Evropských společenství1c) v České republice soustavu Natura 2000. Přitom je nutno zohlednit hospodářské, sociální a kulturní potřeby obyvatel a regionální a místní poměry.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=88eb48a5fd2a54f8eb3a -->
+
 ### § 2 — Ochrana přírody a krajiny
 
 > **§ 2**
@@ -178,6 +224,80 @@ Písmena l) a m), doplněná novelami transpozičními k EU právu (zejména č.
 **Typicky rozhodné důkazy / podklady:** text regulujícího aktu, vymezení působnosti orgánu, popis chráněného objektu a jeho zařazení pod složky ochrany.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=60fd2a85e61746d9f772 generator=2026-07-17.4 source_sha256=8757ce689155f876496df915fe9a20134fc640b55f5b5ad6a6bc54b036d8fce7 -->
+#### Revizní doplnění k § 2 — Ochrana přírody a krajiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/114-1992 Zákon České národní rady o ochraně přírody a krajiny.md`; identifikátor verze: `SB-1992-00114_2025-10-01`; SHA-256: `8757ce689155f876496df915fe9a20134fc640b55f5b5ad6a6bc54b036d8fce7`.
+
+##### Znění ustanovení
+
+> (1) Ochranou přírody a krajiny se podle tohoto zákona rozumí dále vymezená péče státu a fyzických i právnických osob o volně žijící živočichy, planě rostoucí rostliny a jejich společenstva, o nerosty, horniny, paleontologické nálezy a geologické celky, péče o ekologické systémy a krajinné celky, jakož i péče o vzhled a přístupnost krajiny.
+>
+> (2) Ochrana přírody a krajiny podle tohoto zákona se zajišťuje zejména
+>
+> - a) ochranou a vytvářením územního systému ekologické stability krajiny,
+>
+> - b) obecnou ochranou druhů planě rostoucích rostlin a volně žijících živočichů a zvláštní ochranou těch druhů, které jsou vzácné či ohrožené, pozitivním ovlivňováním jejich vývoje v přírodě a zabezpečováním předpokladů pro jejich zachování, popřípadě i za použití zvláštních pěstebních a odchovných zařízení,
+>
+> - c) ochranou vybraných nalezišť nerostů, paleontologických nálezů a geomorfologických a geologických jevů i zvláštní ochranou vybraných nerostů,
+>
+> - d) ochranou dřevin rostoucích mimo les,
+>
+> - e) vytvářením sítě zvláště chráněných území a péčí o ně,
+>
+> - f) účastí na tvorbě a schvalování lesních hospodářských plánů s cílem zajistit ekologicky vhodné lesní hospodaření,
+>
+> - g) spoluúčastí v procesu územního plánování a stavebního řízení s cílem prosazovat vytváření ekologicky vyvážené a esteticky hodnotné krajiny,
+>
+> - h) účastí na ochraně půdního fondu, zejména při pozemkových úpravách,
+>
+> - i) ovlivňováním vodního hospodaření v krajině s cílem udržovat přirozené podmínky pro život vodních a mokřadních ekosystémů při zachování přirozeného charakteru a přírodě blízkého vzhledu vodních toků a ploch a mokřadů,
+>
+> - j) obnovou a vytvářením nových přírodně hodnotných ekosystémů, například při rekultivacích a jiných velkých změnách ve struktuře a využívání krajiny,
+>
+> - k) ochranou krajiny pro ekologicky vhodné formy hospodářského využívání, turistiky a rekreace,
+>
+> - l) prevencí a regulací zavlékání nebo vysazování a šíření invazních nepůvodních druhů rostlin a živočichů (dále jen „invazní nepůvodní druh“) do krajiny v návaznosti na nařízení Evropského parlamentu a Rady (EU) č. [[1143/2014|1143/2014]] ze dne 22. října 2014 o prevenci a regulaci zavlékání či vysazování a šíření invazních nepůvodních druhů (dále jen „nařízení Evropského parlamentu a Rady (EU) č. [[1143/2014|1143/2014]]“),
+>
+> - m) stanovením podmínek používání cizích a místně se nevyskytujících druhů v akvakultuře v návaznosti na nařízení Rady (ES) č. [[708/2007|708/2007]] ze dne 11. června 2007 o používání cizích a místně se nevyskytujících druhů v akvakultuře, v platném znění, (dále jen „nařízení Rady (ES) č. [[708/2007|708/2007]]“).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 1143/2014 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60fd2a85e61746d9f772 -->
 
 ### § 3 — Vymezení pojmů
 
@@ -337,6 +457,106 @@ FCS je **referenční hodnota** pro celý systém Natury 2000: cílem ochrany je
 **Typicky rozhodné důkazy / podklady:** geomorfologické a pedologické posudky, mapy záplavových území a biotopů, vyhlášky MŽP k evropským stanovištím a druhům, údaje národního/evropského seznamu lokalit.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=aecbb2222bf2eafe875c generator=2026-07-17.4 source_sha256=8757ce689155f876496df915fe9a20134fc640b55f5b5ad6a6bc54b036d8fce7 -->
+#### Revizní doplnění k § 3 — Vymezení pojmů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/114-1992 Zákon České národní rady o ochraně přírody a krajiny.md`; identifikátor verze: `SB-1992-00114_2025-10-01`; SHA-256: `8757ce689155f876496df915fe9a20134fc640b55f5b5ad6a6bc54b036d8fce7`.
+
+##### Znění ustanovení
+
+> (1) Pro účely tohoto zákona se vymezují některé základní pojmy takto
+>
+> - a) územní systém ekologické stability krajiny (dále jen „systém ekologické stability“) je vzájemně propojený soubor přirozených i pozměněných, avšak přírodě blízkých ekosystémů, které udržují přírodní rovnováhu. Rozlišuje se místní, regionální a nadregionální systém ekologické stability,
+>
+> - b) významný krajinný prvek jako ekologicky, geomorfologicky nebo esteticky hodnotná část krajiny utváří její typický vzhled nebo přispívá k udržení její stability. Významnými krajinnými prvky jsou lesy, rašeliniště, vodní toky, rybníky, jezera, údolní nivy. Dále jsou jimi jiné části krajiny, které zaregistruje podle [[#§ 6|§ 6]] orgán ochrany přírody jako významný krajinný prvek, zejména mokřady, stepní trávníky, remízy, meze, trvalé travní plochy, naleziště nerostů a zkamenělin, umělé i přirozené skalní útvary, výchozy a odkryvy a území, na nichž probíhá přírodě blízká obnova těžbou narušeného území podle plánu nebo dokumentace uvedených v § 4 odst. 6. Mohou jimi být i cenné plochy porostů sídelních útvarů včetně historických zahrad a parků,
+>
+> - c) planě rostoucí rostlina (dále jen „rostlina“) je jedinec nebo kolonie rostliných druhů včetně hub, jejichž populace se udržují v přírodě samovolně. Rostlinou jsou všechny její podzemní i nadzemní části, semena nebo jiná vývojová stádia a jejich části,
+>
+> - d) volně žijící živočich (dále jen „živočich“) je jedinec živočišného druhu, jehož populace se udržují v přírodě samovolně, a to včetně jedince odchovaného v lidské péči vypuštěného v souladu s právními předpisy do přírody. Živočichem se rozumí všechna vývojová stadia daného jedince. Jedinec zdivočelé populace domestikovaného druhu se za volně žijícího živočicha nepovažuje,
+>
+> - e) živočich odchovaný v lidské péči je jedinec živočišného druhu narozený a odchovaný v kontrolovaném prostředí1) jako potomek rodičů získaných v souladu s tímto zákonem a právními předpisy v oblasti obchodování s ohroženými druhy1a),
+>
+> - f) záchranná stanice je zařízení, které na konkrétně vymezeném území působnosti zajišťuje komplexní péči o všechny živočichy dočasně neschopné přežít ve volné přírodě s cílem navrátit je do přírody, živočichům trvale neschopným přežít ve volné přírodě poskytuje, je-li to vhodné a účelné vzhledem k jejich zdravotnímu stavu, odpovídající dlouhodobou péči, poskytuje informace o příčinách ohrožení a vhodných způsobech ochrany živočichů a může spolupracovat při provádění opatření k předcházení zraňování nebo úhynu živočichů,
+>
+> - g) živočišný nebo rostlinný druh je rovněž systematická jednotka nižšího řádu,
+>
+> - h) zvláště chráněná část přírody je velmi významná nebo jedinečná část živé či neživé přírody; může jí být část krajiny, geologický útvar, strom, živočich, rostlina a nerost, vyhlášený ke zvláštní ochraně státním orgánem podle části třetí nebo páté tohoto zákona,
+>
+> - i) dřevina rostoucí mimo les (dále jen „dřevina“) je strom či keř rostoucí jednotlivě i ve skupinách ve volné krajině i v sídelních útvarech na pozemcích mimo lesní pozemky,1b)
+>
+> - j) paleontologický nález je věc, která je významným dokladem nebo pozůstatkem života v geologické minulosti a jeho vývoje do současnosti,
+>
+> - k) biotop je soubor veškerých neživých a živých činitelů, které ve vzájemném působení vytvářejí životní prostředí určitého jedince, druhu, populace, společenstva. Biotop je takové místní prostředí, které splňuje nároky charakteristické pro druhy rostlin a živočichů,
+>
+> - l) ekosystém je funkční soustava živých a neživých složek životního prostředí, jež jsou navzájem spojeny výměnou látek, tokem energie a předáváním informací a které se vzájemně ovlivňují a vyvíjejí v určitém prostoru a čase,
+>
+> - m) krajina je část zemského povrchu s charakteristickým reliéfem, tvořená souborem funkčně propojených ekosystémů a civilizačními prvky,
+>
+> - n) přírodní stanoviště je přírodní nebo polopřírodní suchozemská nebo vodní plocha, která je vymezena na základě geografických charakteristik a charakteristik živé a neživé přírody,
+>
+> - o) přírodní stanoviště v zájmu Evropských společenství (dále jen „evropská stanoviště“) jsou přírodní stanoviště na evropském území členských států Evropských společenství těch typů, které jsou ohroženy vymizením ve svém přirozeném areálu rozšíření nebo mají malý přirozený areál rozšíření v důsledku svého ústupu či v důsledku svých přirozených vlastností nebo představují výjimečné příklady typických charakteristik jedné nebo více z biogeografických oblastí, a která jsou stanovena právními předpisy Evropských společenství;1d) jako prioritní se označují ty typy evropských stanovišť, které jsou na evropském území členských států Evropských společenství ohrožené vymizením, za jejichž zachování mají Evropská společenství zvláštní odpovědnost, a které jsou stanovené právními předpisy Evropských společenství,1g)
+>
+> - p) druhy v zájmu Evropských společenství (dále jen „evropsky významné druhy“) jsou druhy na evropském území členských států Evropských společenství, které jsou ohrožené, zranitelné, vzácné nebo endemické, a které jsou stanovené právními předpisy Evropských společenství;1e) jako prioritní se označují evropsky významné druhy, vyžadující zvláštní územní ochranu, za jejichž zachování mají Evropská společenství zvláštní odpovědnost, a které jsou stanovené právními předpisy Evropských společenství,1f)
+>
+> - q) evropsky významná lokalita je lokalita vyžadující zvláštní územní ochranu1g) a splňující podmínky podle § 45a odst. 1, která
+>
+> - 1. byla zařazena do seznamu lokalit nacházejících se na území České republiky vybraných na základě kritérií stanovených právními předpisy Evropských společenství1g) a vyžadujících územní ochranu (dále jen „národní seznam“), a to až do doby jejího zařazení do seznamu lokalit významných pro Evropská společenství (dále jen „evropský seznam“),
+>
+> - 2. splňuje podmínky pro zařazení do národního seznamu, ale nebyla tam zařazena, a vyskytuje se na ní prioritní typ přírodního stanoviště nebo prioritní druh, a o jejímž zařazení do evropského seznamu se s Evropskou komisí (dále jen „Komise“) jedná, a to až do doby, kdy se o zařazení nebo nezařazení lokality dohodne Česká republika s Komisí nebo do rozhodnutí Rady Evropské unie (dále jen „sporná lokalita“), nebo
+>
+> - 3. byla zařazena do evropského seznamu,
+>
+> - r) Natura 20001g) je celistvá evropská soustava území se stanoveným stupněm ochrany, která umožňuje zachovat typy evropských stanovišť1d) a stanoviště evropsky významných druhů1f) v jejich přirozeném areálu rozšíření ve stavu příznivém z hlediska ochrany nebo popřípadě umožní tento stav obnovit. Na území České republiky je Natura 2000 tvořena vymezenými ptačími oblastmi a vyhlášenými evropsky významnými lokalitami,
+>
+> - s) stav přírodního stanoviště z hlediska ochrany se považuje za „příznivý“, pokud jeho přirozený areál rozšíření a plochy, které v rámci tohoto areálu pokrývá, jsou stabilní nebo se zvětšují a specifická struktura a funkce, které jsou nezbytné pro jeho dlouhodobé zachování, existují a budou pravděpodobně v dohledné době i nadále existovat, a stav jeho typických druhů z hlediska ochrany je příznivý,
+>
+> - t) stav druhu z hlediska ochrany je považován za „příznivý“, jestliže údaje o populační dynamice příslušného druhu naznačují, že se dlouhodobě udržuje jako životaschopný prvek svého přírodního stanoviště, a přirozený areál rozšíření druhu není a pravděpodobně nebude v dohledné budoucnosti omezen, a existují a pravděpodobně budou v dohledné době i nadále existovat dostatečně velká stanoviště k dlouhodobému zachování jeho populací,
+>
+> - u) celistvostí evropsky významné lokality anebo ptačí oblasti se rozumí soudržnost ekologických struktur a funkcí evropsky významné lokality anebo ptačí oblasti posuzovaná ve vztahu k předmětům jejich ochrany,
+>
+> - v) chov je jakékoliv držení živočicha v zajetí,
+>
+> - w) přírodě blízkou obnovou těžbou narušeného území se rozumí obnova přírodně hodnotných ekosystémů na území narušeném těžbou ponecháním území samovolnému vývoji, popřípadě pomocí citlivých zásahů usměrňujících tento vývoj příznivě pro zvláště chráněné druhy organismů.
+>
+> (2) Typy evropských stanovišť a evropsky významné druhy, které se vyskytují na území České republiky, stanoví Ministerstvo životního prostředí prováděcím právním předpisem. U evropsky významných druhů označí ty, které vyžadují podle právních předpisů Evropských společenství zvláštní územní ochranu.1f)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 4, § 45a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aecbb2222bf2eafe875c -->
 
 ## Část druhá — Obecná ochrana přírody a krajiny
 
